@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--
+ FreeCAD Document, see http://www.freecadweb.org for more information...
+-->
+<Document SchemaVersion="1" FileVersion="2" Split="1" HasExpansion="1">
+<Expand  count="3">
+  <Expand name="Body" count="4">
+    <Expand name="Pad"/>
+    <Expand name="Pad002"/>
+    <Expand name="Pocket001"/>
+    <Expand name="Pocket003"/>
+  </Expand>
+  <Expand name="Part034"/>
+  <Expand name="Body002" count="12">
+    <Expand name="Pad004"/>
+    <Expand name="Pad005"/>
+    <Expand name="Pocket005"/>
+    <Expand name="Pad006"/>
+    <Expand name="Pad007"/>
+    <Expand name="Pocket006"/>
+    <Expand name="Pocket007"/>
+    <Expand name="Pocket008"/>
+    <Expand name="Pocket011"/>
+    <Expand name="Pocket012"/>
+    <Expand name="Pocket013"/>
+    <Expand name="Pocket014"/>
+  </Expand>
+</Expand>
+  <Camera extra="0" id="1" binding="0" view3d="1">
+<![CDATA[
+PerspectiveCamera {
+  viewportMapping ADJUST_CAMERA
+  position 135.81386 94.861206 220.44299
+  orientation -0.97979969 -0.13133274 0.15081151  4.806829
+  nearDistance 16.096331
+  farDistance 118.18546
+  aspectRatio 1
+  focalDistance 64.250969
+  heightAngle 0.78539819
+
+}
+## overrideMode: As Is]]>
+  </Camera>
+  <View3D id="1"><![CDATA[
+  <Properties Count="2" TransientCount="0">
+    <Property name="DrawStyle" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="ShowNaviCube" type="App::PropertyBool" status="1">
+      <Bool value="true"/>
+    </Property>
+  </Properties>
+]]>
+  </View3D>
+</Document>

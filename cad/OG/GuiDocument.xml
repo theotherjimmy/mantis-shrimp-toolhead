@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--
+ FreeCAD Document, see http://www.freecadweb.org for more information...
+-->
+<Document SchemaVersion="1" FileVersion="2" Split="1" HasExpansion="1">
+<Expand  count="3">
+  <Expand name="Part002" count="1">
+    <Expand name="Part"/>
+  </Expand>
+  <Expand name="Body006" count="2">
+    <Expand name="Pocket048"/>
+    <Expand name="Pocket049"/>
+  </Expand>
+  <Expand name="Body008" count="2">
+    <Expand name="Pocket065"/>
+    <Expand name="Pocket066"/>
+  </Expand>
+</Expand>
+  <Camera extra="0" id="2" binding="0" view3d="1">
+<![CDATA[
+OrthographicCamera {
+  viewportMapping ADJUST_CAMERA
+  position -17.629448 30.668701 29.167612
+  orientation 0.0036103374 0.69079804 0.72303873  3.1221719
+  nearDistance 20.526375
+  farDistance 88.11544
+  aspectRatio 1
+  focalDistance 89.16275
+  height 66.11129
+
+}
+## overrideMode: As Is]]>
+  </Camera>
+  <View3D id="2"><![CDATA[
+  <Properties Count="2" TransientCount="0">
+    <Property name="DrawStyle" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="ShowNaviCube" type="App::PropertyBool" status="1">
+      <Bool value="true"/>
+    </Property>
+  </Properties>
+]]>
+  </View3D>
+</Document>
