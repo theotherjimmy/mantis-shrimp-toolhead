@@ -28,7 +28,7 @@ CASCADE Topology V1, (c) Matra-Datavision
 Locations 1
 1
 -2.22044604925031e-16 -1.66533453693773e-16              -1 246.400053739019 
--0.627781554410096 0.778389568238452 9.76760411025739e-18 180.015099302405 
+-0.627781554410096 0.778389568238452 9.76760411025741e-18 180.015099302405 
 0.778389568238452 0.627781554410096 -2.77383834578431e-16 165.080139896577 
 Curve2ds 32
 1 0 4.317754261380363e-16 1 -7.4966392773248793e-17 
@@ -771,7 +771,7 @@ So
       <ElementMap/>
     </Property>
     <Property name="TreeRank" type="App::PropertyInteger" status="2184">
-      <Integer value="287"/>
+      <Integer value="1218"/>
     </Property>
     <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="true"/>

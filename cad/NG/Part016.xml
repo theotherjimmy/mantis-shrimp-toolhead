@@ -23,12 +23,10 @@
       <ExpressionEngine count="0"></ExpressionEngine>
     </Property>
     <Property name="Group" type="App::PropertyLinkList">
-      <LinkList count="5">
-        <Link value="Solid"/>
+      <LinkList count="3">
         <Link value="Part001"/>
         <Link value="Part003"/>
         <Link value="Part005"/>
-        <Link value="Part015"/>
       </LinkList>
     </Property>
     <Property name="Id" type="App::PropertyString">
@@ -61,7 +59,7 @@
       <PropertyPlacement Px="0" Py="0" Pz="0" Q0="0" Q1="0" Q2="0" Q3="1" A="0" Ox="0" Oy="0" Oz="1"/>
     </Property>
     <Property name="TreeRank" type="App::PropertyInteger" status="2184">
-      <Integer value="417"/>
+      <Integer value="1348"/>
     </Property>
     <Property name="Type" type="App::PropertyString">
       <String value=""/>
@@ -69,16 +67,14 @@
     <Property name="Uid" type="App::PropertyUUID">
       <Uuid value="eb67c8a3-31e4-4c4f-ba50-88887251ffd6"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
-      <Bool value="false"/>
+    <Property name="Visibility" type="App::PropertyBool" status="648">
+      <Bool value="true"/>
     </Property>
     <Property name="_ExportChildren" type="App::PropertyLinkList" status="218104320">
-      <LinkList count="5">
-        <Link value="Solid"/>
+      <LinkList count="3">
         <Link value="Part001"/>
         <Link value="Part003"/>
         <Link value="Part005"/>
-        <Link value="Part015"/>
       </LinkList>
     </Property>
     <Property name="_GroupVersion" type="App::PropertyInteger" status="218103808">

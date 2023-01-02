@@ -21,7 +21,13 @@
       <String value=""/>
     </Property>
     <Property name="OriginFeatures" type="App::PropertyLinkList" status="201326592">
-      <LinkList count="0">
+      <LinkList count="6">
+        <Link value="X_Axis005"/>
+        <Link value="Y_Axis005"/>
+        <Link value="Z_Axis005"/>
+        <Link value="XY_Plane005"/>
+        <Link value="XZ_Plane005"/>
+        <Link value="YZ_Plane005"/>
       </LinkList>
     </Property>
     <Property name="TreeRank" type="App::PropertyInteger" status="2184">

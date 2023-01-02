@@ -244,12 +244,12 @@ Curves 3
 Polygon3D 0
 PolygonOnTriangulations 0
 Surfaces 7
-2 16.710000000000019 9.2876640506770105 34.399999999999984 0 0 1 1 0 0 0 1 0 2.25
+2 16.710000000000019 9.2876640506770105 34.399999999999984 0 0 1 1 0 -0 -0 1 0 2.25
 1 16.710000000000019 -0.3499999999946945 34.399999999999984 0 0 1 1 0 -0 -0 1 0 
 1 41.460000000000001 25.999999999999002 34.399999999999984 -0 0 1 0 -1 0 1 0 0 
-2 16.710000000000019 -0.34999999999108905 34.399999999999984 0 0 1 1 0 0 0 1 0 2.25
+2 16.710000000000019 -0.34999999999108905 34.399999999999984 0 0 1 1 0 -0 -0 1 0 2.25
 1 16.710000000000019 -0.3499999999946945 34.399999999999984 0 0 1 1 0 -0 -0 1 0 
-2 16.710000000000019 -9.9876640506700056 34.399999999999984 0 0 1 1 0 0 0 1 0 2.25
+2 16.710000000000019 -9.9876640506700056 34.399999999999984 0 0 1 1 0 -0 -0 1 0 2.25
 1 16.710000000000019 -0.3499999999946945 34.399999999999984 0 0 1 1 0 -0 -0 1 0 
 Triangulations 0
 
@@ -329,14 +329,14 @@ Co
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="6">
 <![CDATA[
-105 PostfixCount 3
+29 PostfixCount 3
 Edge
 Vertex
 ;SKT
 
 MapCount 1
 
-ElementMap 1 105 2
+ElementMap 1 29 2
 
 Edge
 
@@ -370,7 +370,7 @@ EndMap
     <Property name="TreeRank" type="App::PropertyInteger" status="2184">
       <Integer value="955"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="false"/>
     </Property>
   </Properties>

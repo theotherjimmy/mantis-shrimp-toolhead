@@ -59,7 +59,7 @@
       <PropertyPlacement Px="219.5" Py="-20" Pz="-121.5" Q0="0" Q1="0" Q2="0" Q3="1" A="0" Ox="0" Oy="0" Oz="1"/>
     </Property>
     <Property name="TreeRank" type="App::PropertyInteger" status="2184">
-      <Integer value="812"/>
+      <Integer value="1405"/>
     </Property>
     <Property name="Type" type="App::PropertyString">
       <String value=""/>
@@ -67,8 +67,8 @@
     <Property name="Uid" type="App::PropertyUUID">
       <Uuid value="ecd4239a-5bd3-4540-9a58-afe141514e1c"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
-      <Bool value="true"/>
+    <Property name="Visibility" type="App::PropertyBool" status="648">
+      <Bool value="false"/>
     </Property>
     <Property name="_ExportChildren" type="App::PropertyLinkList" status="218104320">
       <LinkList count="3">

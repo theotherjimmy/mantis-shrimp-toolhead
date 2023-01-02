@@ -1,0 +1,1087 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- FreeCAD DocumentObject -->
+<Document SchemaVersion="4" FileVersion="2">
+<Object name="Sketch008" Extensions="True">
+  <Extensions Count="1">
+    <Extension type="Part::AttachExtension" name="AttachExtension">
+    </Extension>
+  </Extensions>
+  <Properties Count="27" TransientCount="1">
+    <_Property name="_ElementMapVersion" type="App::PropertyString" status="234881024"/>
+    <Property name="ArcFitTolerance" type="App::PropertyPrecision">
+      <Float value="1e-06"/>
+    </Property>
+    <Property name="AttacherType" type="App::PropertyString" status="8">
+      <String value="Attacher::AttachEnginePlane"/>
+    </Property>
+    <Property name="AttachmentOffset" type="App::PropertyPlacement">
+      <PropertyPlacement Px="0" Py="0" Pz="0" Q0="0" Q1="0" Q2="0" Q3="1" A="0" Ox="0" Oy="0" Oz="1"/>
+    </Property>
+    <Property name="AttachmentSupport" type="App::PropertyLinkSubList">
+      <LinkSubList count="1">
+        <Link obj="Pocket001" sub="Face36" shadow=";#686f;:Hf12,F.Face36"/>
+      </LinkSubList>
+    </Property>
+    <Property name="ColoredElements" type="App::PropertyLinkSubHidden" status="218103808">
+      <LinkSub value="" count="0">
+      </LinkSub>
+    </Property>
+    <Property name="Constraints" type="Sketcher::PropertyConstraintList">
+      <ConstraintList count="22">
+        <Constrain Name="" Type="1" Value="0" First="0" FirstPos="3" Second="-13" SecondPos="3" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="1" FirstPos="3" Second="-3" SecondPos="3" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="2" FirstPos="3" Second="-4" SecondPos="3" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="3" FirstPos="3" Second="-5" SecondPos="3" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="4" FirstPos="3" Second="-6" SecondPos="3" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="5" FirstPos="3" Second="-7" SecondPos="3" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="6" FirstPos="3" Second="-8" SecondPos="3" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="7" FirstPos="3" Second="-9" SecondPos="3" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="8" FirstPos="3" Second="-10" SecondPos="3" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="9" FirstPos="3" Second="-11" SecondPos="3" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="10" FirstPos="3" Second="-12" SecondPos="3" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="12" Value="0" First="0" FirstPos="0" Second="1" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="12" Value="0" First="0" FirstPos="0" Second="2" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="12" Value="0" First="0" FirstPos="0" Second="3" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="12" Value="0" First="0" FirstPos="0" Second="4" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="12" Value="0" First="0" FirstPos="0" Second="5" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="12" Value="0" First="0" FirstPos="0" Second="6" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="12" Value="0" First="0" FirstPos="0" Second="7" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="12" Value="0" First="0" FirstPos="0" Second="8" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="12" Value="0" First="0" FirstPos="0" Second="9" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="12" Value="0" First="0" FirstPos="0" Second="10" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="18" Value="5.5" First="0" FirstPos="0" Second="-2000" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="7.994881629943848" LabelPosition="0.2617993950843811" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+      </ConstraintList>
+    </Property>
+    <Property name="Exports" type="App::PropertyLinkListHidden" status="67108864">
+      <LinkList count="0">
+      </LinkList>
+    </Property>
+    <Property name="ExpressionEngine" type="App::PropertyExpressionEngine" status="67108864">
+      <ExpressionEngine count="0"></ExpressionEngine>
+    </Property>
+    <Property name="ExternalBSplineMaxDegree" type="App::PropertyInteger">
+      <Integer value="5"/>
+    </Property>
+    <Property name="ExternalBSplineTolerance" type="App::PropertyPrecision">
+      <Float value="0.0001"/>
+    </Property>
+    <Property name="ExternalGeo" type="Part::PropertyGeometryList" status="67108864">
+      <GeometryList count="13">
+        <Geometry type="Part::GeomLineSegment" id="-1" migrated="1">
+          <GeoExtensions count="2">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="-1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="" Flags="0"/>
+          </GeoExtensions>
+          <LineSegment StartX="0" StartY="0" StartZ="0" EndX="1" EndY="0" EndZ="0"/>
+          <Construction value="1"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="-2" migrated="1">
+          <GeoExtensions count="2">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="-2" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="" Flags="0"/>
+          </GeoExtensions>
+          <LineSegment StartX="0" StartY="0" StartZ="0" EndX="0" EndY="1" EndZ="0"/>
+          <Construction value="1"/>
+        </Geometry>
+        <Geometry type="Part::GeomCircle" id="1" ref="Pocket001.;#680a;:Hf12,E" migrated="1">
+          <GeoExtensions count="2">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pocket001.;#680a;:Hf12,E" Flags="0"/>
+          </GeoExtensions>
+          <Circle CenterX="-106" CenterY="72.50000000000006" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Construction value="1"/>
+        </Geometry>
+        <Geometry type="Part::GeomCircle" id="2" ref="Pocket001.;#680b;:Hf12,E" migrated="1">
+          <GeoExtensions count="2">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="2" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pocket001.;#680b;:Hf12,E" Flags="0"/>
+          </GeoExtensions>
+          <Circle CenterX="-106" CenterY="8.430713839558003" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Construction value="1"/>
+        </Geometry>
+        <Geometry type="Part::GeomCircle" id="3" ref="Pocket001.;#6814;:Hf12,E" migrated="1">
+          <GeoExtensions count="2">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="3" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pocket001.;#6814;:Hf12,E" Flags="0"/>
+          </GeoExtensions>
+          <Circle CenterX="-106" CenterY="-55.63857232088406" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Construction value="1"/>
+        </Geometry>
+        <Geometry type="Part::GeomCircle" id="4" ref="Pocket001.;#680c;:Hf12,E" migrated="1">
+          <GeoExtensions count="2">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="4" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pocket001.;#680c;:Hf12,E" Flags="0"/>
+          </GeoExtensions>
+          <Circle CenterX="-50.99999999999999" CenterY="-88.5" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Construction value="1"/>
+        </Geometry>
+        <Geometry type="Part::GeomCircle" id="5" ref="Pocket001.;#680d;:Hf12,E" migrated="1">
+          <GeoExtensions count="2">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="5" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pocket001.;#680d;:Hf12,E" Flags="0"/>
+          </GeoExtensions>
+          <Circle CenterX="50.99999999999999" CenterY="-88.5" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Construction value="1"/>
+        </Geometry>
+        <Geometry type="Part::GeomCircle" id="6" ref="Pocket001.;#680e;:Hf12,E" migrated="1">
+          <GeoExtensions count="2">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="6" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pocket001.;#680e;:Hf12,E" Flags="0"/>
+          </GeoExtensions>
+          <Circle CenterX="106" CenterY="-55.63857232089301" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Construction value="1"/>
+        </Geometry>
+        <Geometry type="Part::GeomCircle" id="7" ref="Pocket001.;#680f;:Hf12,E" migrated="1">
+          <GeoExtensions count="2">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="7" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pocket001.;#680f;:Hf12,E" Flags="0"/>
+          </GeoExtensions>
+          <Circle CenterX="106" CenterY="8.430713839553473" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Construction value="1"/>
+        </Geometry>
+        <Geometry type="Part::GeomCircle" id="8" ref="Pocket001.;#6810;:Hf12,E" migrated="1">
+          <GeoExtensions count="2">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="8" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pocket001.;#6810;:Hf12,E" Flags="0"/>
+          </GeoExtensions>
+          <Circle CenterX="106" CenterY="72.49999999999996" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Construction value="1"/>
+        </Geometry>
+        <Geometry type="Part::GeomCircle" id="9" ref="Pocket001.;#6811;:Hf12,E" migrated="1">
+          <GeoExtensions count="2">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="9" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pocket001.;#6811;:Hf12,E" Flags="0"/>
+          </GeoExtensions>
+          <Circle CenterX="49.24999999999985" CenterY="87.49999999999996" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Construction value="1"/>
+        </Geometry>
+        <Geometry type="Part::GeomCircle" id="10" ref="Pocket001.;#6812;:Hf12,E" migrated="1">
+          <GeoExtensions count="2">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="10" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pocket001.;#6812;:Hf12,E" Flags="0"/>
+          </GeoExtensions>
+          <Circle CenterX="-1.016373902889454e-13" CenterY="87.49999999999996" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Construction value="1"/>
+        </Geometry>
+        <Geometry type="Part::GeomCircle" id="11" ref="Pocket001.;#6813;:Hf12,E" migrated="1">
+          <GeoExtensions count="2">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="11" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pocket001.;#6813;:Hf12,E" Flags="0"/>
+          </GeoExtensions>
+          <Circle CenterX="-49.25000000000005" CenterY="87.49999999999996" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Construction value="1"/>
+        </Geometry>
+      </GeometryList>
+    </Property>
+    <Property name="ExternalGeometry" type="App::PropertyLinkSubList" status="16777216">
+      <LinkSubList count="11">
+        <Link obj="Pocket001" sub="Edge133" shadow=";#680a;:Hf12,E.Edge133"/>
+        <Link obj="Pocket001" sub="Edge134" shadow=";#680b;:Hf12,E.Edge134"/>
+        <Link obj="Pocket001" sub="Edge143" shadow=";#6814;:Hf12,E.Edge143"/>
+        <Link obj="Pocket001" sub="Edge135" shadow=";#680c;:Hf12,E.Edge135"/>
+        <Link obj="Pocket001" sub="Edge136" shadow=";#680d;:Hf12,E.Edge136"/>
+        <Link obj="Pocket001" sub="Edge137" shadow=";#680e;:Hf12,E.Edge137"/>
+        <Link obj="Pocket001" sub="Edge138" shadow=";#680f;:Hf12,E.Edge138"/>
+        <Link obj="Pocket001" sub="Edge139" shadow=";#6810;:Hf12,E.Edge139"/>
+        <Link obj="Pocket001" sub="Edge140" shadow=";#6811;:Hf12,E.Edge140"/>
+        <Link obj="Pocket001" sub="Edge141" shadow=";#6812;:Hf12,E.Edge141"/>
+        <Link obj="Pocket001" sub="Edge142" shadow=";#6813;:Hf12,E.Edge142"/>
+      </LinkSubList>
+    </Property>
+    <Property name="FullyConstrained" type="App::PropertyBool" status="218103808">
+      <Bool value="true"/>
+    </Property>
+    <Property name="Geometry" type="Part::PropertyGeometryList" status="8192">
+      <GeometryList count="11">
+        <Geometry type="Part::GeomCircle" id="12" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="12" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
+          <Circle CenterX="-49.25" CenterY="87.5" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="2.75"/>
+          <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomCircle" id="13" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="13" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
+          <Circle CenterX="-106" CenterY="72.5" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="2.75"/>
+          <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomCircle" id="14" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="14" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
+          <Circle CenterX="-106" CenterY="8.430713839558003" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="2.75"/>
+          <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomCircle" id="15" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="15" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
+          <Circle CenterX="-106" CenterY="-55.63857232088406" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="2.75"/>
+          <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomCircle" id="16" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="16" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
+          <Circle CenterX="-51" CenterY="-88.5" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="2.75"/>
+          <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomCircle" id="17" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="17" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
+          <Circle CenterX="51" CenterY="-88.5" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="2.75"/>
+          <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomCircle" id="18" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="18" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
+          <Circle CenterX="106" CenterY="-55.63857232089301" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="2.75"/>
+          <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomCircle" id="19" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="19" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
+          <Circle CenterX="106" CenterY="8.430713839553473" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="2.75"/>
+          <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomCircle" id="20" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="20" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
+          <Circle CenterX="106" CenterY="72.5" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="2.75"/>
+          <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomCircle" id="21" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="21" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
+          <Circle CenterX="49.25" CenterY="87.5" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="2.75"/>
+          <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomCircle" id="22" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="22" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
+          <Circle CenterX="-0" CenterY="87.5" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="2.75"/>
+          <Construction value="0"/>
+        </Geometry>
+      </GeometryList>
+    </Property>
+    <Property name="InternalShape" type="Part::PropertyPartShape">
+      <Part ElementMap="0.15.70200.4" brep="1">
+<![CDATA[
+
+CASCADE Topology V1, (c) Matra-Datavision
+Locations 0
+Curve2ds 0
+Curves 0
+Polygon3D 0
+PolygonOnTriangulations 0
+Surfaces 0
+Triangulations 0
+
+TShapes 0
+
+*]]>
+      </Part>
+      <ElementMap/>
+    </Property>
+    <Property name="InternalTolerance" type="App::PropertyPrecision">
+      <Float value="1e-06"/>
+    </Property>
+    <Property name="Label" type="App::PropertyString" status="134217728">
+      <String value="Sketch008"/>
+    </Property>
+    <Property name="Label2" type="App::PropertyString" status="128">
+      <String value=""/>
+    </Property>
+    <Property name="MakeInternals" type="App::PropertyBool">
+      <Bool value="false"/>
+    </Property>
+    <Property name="MapMode" type="App::PropertyEnumeration">
+      <Integer value="5"/>
+    </Property>
+    <Property name="MapPathParameter" type="App::PropertyFloat" status="8">
+      <Float value="0"/>
+    </Property>
+    <Property name="MapReversed" type="App::PropertyBool">
+      <Bool value="false"/>
+    </Property>
+    <Property name="Placement" type="App::PropertyPlacement" status="8388612">
+      <PropertyPlacement Px="-1.166788361361559e-17" Py="3.093262207955931e-15" Pz="-37.99999999999991" Q0="1" Q1="6.248584388647083e-36" Q2="-1.535247843896792e-19" Q3="-4.070081852573602e-17" A="3.141592653589793" Ox="1" Oy="6.248584388647083e-36" Oz="-1.535247843896792e-19"/>
+    </Property>
+    <Property name="Shape" type="Part::PropertyPartShape">
+      <Part HasherIndex="0" ElementMap="1.15.70200.4" brep="1">
+<![CDATA[
+
+CASCADE Topology V1, (c) Matra-Datavision
+Locations 30
+1
+              1               0 -3.07049568779358e-19 -1.16678836136156e-17 
+2.49943375545883e-35              -1 8.1401637051472e-17 3.09326220795593e-15 
+-3.07049568779358e-19 -8.1401637051472e-17              -1 -37.9999999999999 
+1
+              1               0 -3.07049568779358e-19 -1.16678836136156e-17 
+2.49943375545883e-35              -1 8.1401637051472e-17 3.09326220795593e-15 
+-3.07049568779358e-19 -8.1401637051472e-17              -1 -37.9999999999999 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+2  2 -1 3 -1 0
+1
+              1               0               0 1.53524784389679e-18 
+              0               1               0 -4.0700818525736e-16 
+              0               0               1               5 
+2  5 -1 2 -1 3 -1 0
+1
+              1               0               0               0 
+              0               1               0 3.33066907387547e-16 
+              0               0               1              -3 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+2  7 1 8 1 9 1 10 1 11 1 12 1 2 -1 3 -1 0
+1
+              1               0 -3.07049568779358e-19 -1.16678836136156e-17 
+2.49943375545883e-35              -1 8.1401637051472e-17 3.09326220795593e-15 
+-3.07049568779358e-19 -8.1401637051472e-17              -1 -37.9999999999999 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+2  14 -1 15 -1 0
+1
+              1               0               0 7.67623921948396e-18 
+              0               1               0 -2.0350409262868e-15 
+              0               0               1              25 
+2  17 -1 14 -1 15 -1 0
+1
+              1               0 -3.07049568779358e-19 -1.16678836136156e-17 
+2.49943375545883e-35              -1 8.1401637051472e-17 3.09326220795593e-15 
+-3.07049568779358e-19 -8.1401637051472e-17              -1 -37.9999999999999 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+2  19 -1 20 -1 0
+1
+              1               0               0 7.67623921948396e-18 
+              0               1               0 -2.0350409262868e-15 
+              0               0               1              25 
+2  22 -1 19 -1 20 -1 0
+2  7 1 8 1 9 1 10 1 11 1 12 1 19 -1 20 -1 0
+1
+              1               0 -3.07049568779358e-19 -1.16678836136156e-17 
+2.49943375545883e-35              -1 8.1401637051472e-17 3.09326220795593e-15 
+-3.07049568779358e-19 -8.1401637051472e-17              -1 -37.9999999999999 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+2  25 -1 26 -1 0
+1
+              1               0               0 7.67623921948396e-18 
+              0               1               0 -2.0350409262868e-15 
+              0               0               1              25 
+2  28 -1 25 -1 26 -1 0
+2  7 1 8 1 9 1 25 -1 26 -1 0
+Curve2ds 154
+1 0 0 1 0 
+1 0 -5 1 0 
+2 -75.128701542060497 49.249999999999993 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 -85.859040842643651 51.48535040705498 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -25 1 0 
+1 0 0 1 0 
+1 0 -25 1 0 
+2 -75.128701542060497 49.249999999999993 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 -85.859040842643651 51.48535040705498 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -25 1 0 
+2 -75.128701542060497 49.249999999999993 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 -85.859040842643651 51.48535040705498 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -5 1 0 
+2 -60.128701542060497 105.99999999999999 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 -70.859040842643651 108.23535040705498 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -25 1 0 
+1 0 0 1 0 
+1 0 -25 1 0 
+2 -60.128701542060497 105.99999999999999 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 -70.859040842643651 108.23535040705498 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -25 1 0 
+2 -60.128701542060497 105.99999999999999 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 -70.859040842643651 108.23535040705498 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -5 1 0 
+2 3.9405846183815072 105.99999999999999 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 -6.7897546822016555 108.23535040705498 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -25 1 0 
+1 0 0 1 0 
+1 0 -25 1 0 
+2 3.9405846183815072 105.99999999999999 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 -6.7897546822016555 108.23535040705498 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -25 1 0 
+2 3.9405846183815072 105.99999999999999 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 -6.7897546822016555 108.23535040705498 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -5 1 0 
+2 68.009870778823569 105.99999999999999 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 57.279531478240401 108.23535040705498 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -25 1 0 
+1 0 0 1 0 
+1 0 -25 1 0 
+2 68.009870778823569 105.99999999999999 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 57.279531478240401 108.23535040705498 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -25 1 0 
+2 68.009870778823569 105.99999999999999 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 57.279531478240401 108.23535040705498 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -5 1 0 
+2 100.8712984579395 50.999999999999993 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 90.140959157356349 53.23535040705498 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -25 1 0 
+1 0 0 1 0 
+1 0 -25 1 0 
+2 100.8712984579395 50.999999999999993 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 90.140959157356349 53.23535040705498 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -25 1 0 
+2 100.8712984579395 50.999999999999993 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 90.140959157356349 53.23535040705498 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -5 1 0 
+2 100.8712984579395 -51.000000000000007 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 90.140959157356349 -48.76464959294502 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -25 1 0 
+1 0 0 1 0 
+1 0 -25 1 0 
+2 100.8712984579395 -51.000000000000007 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 90.140959157356349 -48.76464959294502 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -25 1 0 
+2 100.8712984579395 -51.000000000000007 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 90.140959157356349 -48.76464959294502 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -5 1 0 
+2 68.009870778832521 -106.00000000000001 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 57.279531478249353 -103.76464959294502 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -25 1 0 
+1 0 0 1 0 
+1 0 -25 1 0 
+2 68.009870778832521 -106.00000000000001 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 57.279531478249353 -103.76464959294502 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -25 1 0 
+2 68.009870778832521 -106.00000000000001 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 57.279531478249353 -103.76464959294502 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -5 1 0 
+2 3.9405846183860369 -106.00000000000001 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 -6.7897546821971257 -103.76464959294502 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -25 1 0 
+1 0 0 1 0 
+1 0 -25 1 0 
+2 3.9405846183860369 -106.00000000000001 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 -6.7897546821971257 -103.76464959294502 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -25 1 0 
+2 3.9405846183860369 -106.00000000000001 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 -6.7897546821971257 -103.76464959294502 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -5 1 0 
+2 -60.128701542060497 -106.00000000000001 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 -70.859040842643651 -103.76464959294502 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -25 1 0 
+1 0 0 1 0 
+1 0 -25 1 0 
+2 -60.128701542060497 -106.00000000000001 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 -70.859040842643651 -103.76464959294502 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -25 1 0 
+2 -60.128701542060497 -106.00000000000001 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 -70.859040842643651 -103.76464959294502 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -5 1 0 
+2 -75.128701542060497 -49.250000000000007 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 -85.859040842643651 -47.01464959294502 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -25 1 0 
+1 0 0 1 0 
+1 0 -25 1 0 
+2 -75.128701542060497 -49.250000000000007 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 -85.859040842643651 -47.01464959294502 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -25 1 0 
+2 -75.128701542060497 -49.250000000000007 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 -85.859040842643651 -47.01464959294502 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -5 1 0 
+2 -75.128701542060497 -1.047015627283526e-14 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 -85.859040842643651 2.2353504070549781 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -25 1 0 
+1 0 0 1 0 
+1 0 -25 1 0 
+2 -75.128701542060497 -1.047015627283526e-14 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 -85.859040842643651 2.2353504070549781 0 -1 -1 -0 2.75
+1 0 0 1 0 
+1 0 -25 1 0 
+2 -75.128701542060497 -1.047015627283526e-14 -2.700220433837076e-36 -1 -1 2.700220433837076e-36 2.75
+2 -85.859040842643651 2.2353504070549781 0 -1 -1 -0 2.75
+Curves 11
+2 -49.25 87.5 0 0 0 1 1 0 -0 -0 1 0 2.75
+2 -106 72.5 0 0 0 1 1 0 -0 -0 1 0 2.75
+2 -106 8.4307138395580026 0 0 0 1 1 0 -0 -0 1 0 2.75
+2 -106 -55.638572320884059 0 0 0 1 1 0 -0 -0 1 0 2.75
+2 -51 -88.5 0 0 0 1 1 0 -0 -0 1 0 2.75
+2 51 -88.5 0 0 0 1 1 0 -0 -0 1 0 2.75
+2 106 -55.638572320893012 0 0 0 1 1 0 -0 -0 1 0 2.75
+2 106 8.4307138395534729 0 0 0 1 1 0 -0 -0 1 0 2.75
+2 106 72.5 0 0 0 1 1 0 -0 -0 1 0 2.75
+2 49.25 87.5 0 0 0 1 1 0 -0 -0 1 0 2.75
+2 -0 87.5 0 0 0 1 1 0 -0 -0 1 0 2.75
+Polygon3D 0
+PolygonOnTriangulations 0
+Surfaces 78
+2 -49.25 -87.5 -37.999999999999922 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+1 2.2353504070549781 -1.6409591573563433 -34.999999999999915 3.0704956877935838e-19 -8.1401637051472045e-17 1 0 1 8.1401637051472045e-17 -1 -2.4994337554588333e-35 3.0704956877935838e-19 
+2 -49.25 -87.5 -37.999999999999922 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+2 -49.25 -87.5 -37.999999999999922 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 -49.25 -87.5 -37.999999999999922 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 -106 -72.5 -37.999999999999922 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 -106 -72.5 -37.999999999999922 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+2 -106 -72.5 -37.999999999999922 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 -106 -72.5 -37.999999999999922 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 -106 -8.430713839557999 -37.999999999999915 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 -106 -8.430713839557999 -37.999999999999915 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+2 -106 -8.430713839557999 -37.999999999999915 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 -106 -8.430713839557999 -37.999999999999915 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 -106 55.638572320884059 -37.999999999999908 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 -106 55.638572320884059 -37.999999999999908 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+2 -106 55.638572320884059 -37.999999999999908 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 -106 55.638572320884059 -37.999999999999908 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 -51 88.5 -37.999999999999908 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 -51 88.5 -37.999999999999908 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+2 -51 88.5 -37.999999999999908 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 -51 88.5 -37.999999999999908 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 51 88.5 -37.999999999999908 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 51 88.5 -37.999999999999908 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+2 51 88.5 -37.999999999999908 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 51 88.5 -37.999999999999908 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 106 55.638572320893012 -37.999999999999908 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 106 55.638572320893012 -37.999999999999908 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+2 106 55.638572320893012 -37.999999999999908 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 106 55.638572320893012 -37.999999999999908 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 106 -8.4307138395534693 -37.999999999999915 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 106 -8.4307138395534693 -37.999999999999915 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+2 106 -8.4307138395534693 -37.999999999999915 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 106 -8.4307138395534693 -37.999999999999915 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 106 -72.5 -37.999999999999922 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 106 -72.5 -37.999999999999922 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+2 106 -72.5 -37.999999999999922 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 106 -72.5 -37.999999999999922 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 49.25 -87.5 -37.999999999999922 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 49.25 -87.5 -37.999999999999922 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+2 49.25 -87.5 -37.999999999999922 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 49.25 -87.5 -37.999999999999922 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 -1.1667883613615592e-17 -87.5 -37.999999999999922 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 -1.1667883613615592e-17 -87.5 -37.999999999999922 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+2 -1.1667883613615592e-17 -87.5 -37.999999999999922 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+2 -1.1667883613615592e-17 -87.5 -37.999999999999922 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 -1 -8.1401637051472045e-17 2.75
+1 -1.0481824156448874e-14 -12.371298457939506 -37.999999999999901 1.6871608966582032e-30 -9.0195723441404144e-17 1 0 1 9.0195723441404144e-17 -1 -1.5217469763613473e-46 1.6871608966582032e-30 
+Triangulations 0
+
+TShapes 34
+Ve
+1e-07
+-46.5 87.5 0
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  1 0 0 6.28318530717959
+2  1 1 4 0 6.28318530717959
+2  2 1 6 0 6.28318530717959
+2  3 2 4 0 6.28318530717959
+2  4 3 13 0 6.28318530717959
+2  5 4 16 0 6.28318530717959
+2  6 4 18 0 6.28318530717959
+2  7 5 21 0 6.28318530717959
+2  8 5 23 0 6.28318530717959
+2  9 6 21 0 6.28318530717959
+2  10 3 24 0 6.28318530717959
+2  11 7 27 0 6.28318530717959
+2  12 7 29 0 6.28318530717959
+2  13 8 27 0 6.28318530717959
+2  14 3 30 0 6.28318530717959
+0
+
+0101000
++34 0 -34 0 *
+Wi
+
+0101100
++33 0 *
+Ve
+1e-07
+-103.25 72.5 0
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  2 0 0 6.28318530717959
+2  15 9 4 0 6.28318530717959
+2  16 9 6 0 6.28318530717959
+2  17 10 4 0 6.28318530717959
+2  18 3 13 0 6.28318530717959
+2  19 11 16 0 6.28318530717959
+2  20 11 18 0 6.28318530717959
+2  21 12 21 0 6.28318530717959
+2  22 12 23 0 6.28318530717959
+2  23 13 21 0 6.28318530717959
+2  24 3 24 0 6.28318530717959
+2  25 14 27 0 6.28318530717959
+2  26 14 29 0 6.28318530717959
+2  27 15 27 0 6.28318530717959
+2  28 3 30 0 6.28318530717959
+0
+
+0101000
++31 0 -31 0 *
+Wi
+
+0101100
++30 0 *
+Ve
+1e-07
+-103.25 8.430713839558 0
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  3 0 0 6.28318530717959
+2  29 16 4 0 6.28318530717959
+2  30 16 6 0 6.28318530717959
+2  31 17 4 0 6.28318530717959
+2  32 3 13 0 6.28318530717959
+2  33 18 16 0 6.28318530717959
+2  34 18 18 0 6.28318530717959
+2  35 19 21 0 6.28318530717959
+2  36 19 23 0 6.28318530717959
+2  37 20 21 0 6.28318530717959
+2  38 3 24 0 6.28318530717959
+2  39 21 27 0 6.28318530717959
+2  40 21 29 0 6.28318530717959
+2  41 22 27 0 6.28318530717959
+2  42 3 30 0 6.28318530717959
+0
+
+0101000
++28 0 -28 0 *
+Wi
+
+0101100
++27 0 *
+Ve
+1e-07
+-103.25 -55.6385723208841 0
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  4 0 0 6.28318530717959
+2  43 23 4 0 6.28318530717959
+2  44 23 6 0 6.28318530717959
+2  45 24 4 0 6.28318530717959
+2  46 3 13 0 6.28318530717959
+2  47 25 16 0 6.28318530717959
+2  48 25 18 0 6.28318530717959
+2  49 26 21 0 6.28318530717959
+2  50 26 23 0 6.28318530717959
+2  51 27 21 0 6.28318530717959
+2  52 3 24 0 6.28318530717959
+2  53 28 27 0 6.28318530717959
+2  54 28 29 0 6.28318530717959
+2  55 29 27 0 6.28318530717959
+2  56 3 30 0 6.28318530717959
+0
+
+0101000
++25 0 -25 0 *
+Wi
+
+0101100
++24 0 *
+Ve
+1e-07
+-48.25 -88.5 0
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  5 0 0 6.28318530717959
+2  57 30 4 0 6.28318530717959
+2  58 30 6 0 6.28318530717959
+2  59 31 4 0 6.28318530717959
+2  60 3 13 0 6.28318530717959
+2  61 32 16 0 6.28318530717959
+2  62 32 18 0 6.28318530717959
+2  63 33 21 0 6.28318530717959
+2  64 33 23 0 6.28318530717959
+2  65 34 21 0 6.28318530717959
+2  66 3 24 0 6.28318530717959
+2  67 35 27 0 6.28318530717959
+2  68 35 29 0 6.28318530717959
+2  69 36 27 0 6.28318530717959
+2  70 3 30 0 6.28318530717959
+0
+
+0101000
++22 0 -22 0 *
+Wi
+
+0101100
++21 0 *
+Ve
+1e-07
+53.75 -88.5 0
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  6 0 0 6.28318530717959
+2  71 37 4 0 6.28318530717959
+2  72 37 6 0 6.28318530717959
+2  73 38 4 0 6.28318530717959
+2  74 3 13 0 6.28318530717959
+2  75 39 16 0 6.28318530717959
+2  76 39 18 0 6.28318530717959
+2  77 40 21 0 6.28318530717959
+2  78 40 23 0 6.28318530717959
+2  79 41 21 0 6.28318530717959
+2  80 3 24 0 6.28318530717959
+2  81 42 27 0 6.28318530717959
+2  82 42 29 0 6.28318530717959
+2  83 43 27 0 6.28318530717959
+2  84 3 30 0 6.28318530717959
+0
+
+0101000
++19 0 -19 0 *
+Wi
+
+0101100
++18 0 *
+Ve
+1e-07
+108.75 -55.638572320893 0
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  7 0 0 6.28318530717959
+2  85 44 4 0 6.28318530717959
+2  86 44 6 0 6.28318530717959
+2  87 45 4 0 6.28318530717959
+2  88 3 13 0 6.28318530717959
+2  89 46 16 0 6.28318530717959
+2  90 46 18 0 6.28318530717959
+2  91 47 21 0 6.28318530717959
+2  92 47 23 0 6.28318530717959
+2  93 48 21 0 6.28318530717959
+2  94 3 24 0 6.28318530717959
+2  95 49 27 0 6.28318530717959
+2  96 49 29 0 6.28318530717959
+2  97 50 27 0 6.28318530717959
+2  98 3 30 0 6.28318530717959
+0
+
+0101000
++16 0 -16 0 *
+Wi
+
+0101100
++15 0 *
+Ve
+1e-07
+108.75 8.43071383955347 0
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  8 0 0 6.28318530717959
+2  99 51 4 0 6.28318530717959
+2  100 51 6 0 6.28318530717959
+2  101 52 4 0 6.28318530717959
+2  102 3 13 0 6.28318530717959
+2  103 53 16 0 6.28318530717959
+2  104 53 18 0 6.28318530717959
+2  105 54 21 0 6.28318530717959
+2  106 54 23 0 6.28318530717959
+2  107 55 21 0 6.28318530717959
+2  108 3 24 0 6.28318530717959
+2  109 56 27 0 6.28318530717959
+2  110 56 29 0 6.28318530717959
+2  111 57 27 0 6.28318530717959
+2  112 3 30 0 6.28318530717959
+0
+
+0101000
++13 0 -13 0 *
+Wi
+
+0101100
++12 0 *
+Ve
+1e-07
+108.75 72.5 0
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  9 0 0 6.28318530717959
+2  113 58 4 0 6.28318530717959
+2  114 58 6 0 6.28318530717959
+2  115 59 4 0 6.28318530717959
+2  116 3 13 0 6.28318530717959
+2  117 60 16 0 6.28318530717959
+2  118 60 18 0 6.28318530717959
+2  119 61 21 0 6.28318530717959
+2  120 61 23 0 6.28318530717959
+2  121 62 21 0 6.28318530717959
+2  122 3 24 0 6.28318530717959
+2  123 63 27 0 6.28318530717959
+2  124 63 29 0 6.28318530717959
+2  125 64 27 0 6.28318530717959
+2  126 3 30 0 6.28318530717959
+0
+
+0101000
++10 0 -10 0 *
+Wi
+
+0101100
++9 0 *
+Ve
+1e-07
+52 87.5 0
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  10 0 0 6.28318530717959
+2  127 65 4 0 6.28318530717959
+2  128 65 6 0 6.28318530717959
+2  129 66 4 0 6.28318530717959
+2  130 3 13 0 6.28318530717959
+2  131 67 16 0 6.28318530717959
+2  132 67 18 0 6.28318530717959
+2  133 68 21 0 6.28318530717959
+2  134 68 23 0 6.28318530717959
+2  135 69 21 0 6.28318530717959
+2  136 3 24 0 6.28318530717959
+2  137 70 27 0 6.28318530717959
+2  138 70 29 0 6.28318530717959
+2  139 71 27 0 6.28318530717959
+2  140 3 30 0 6.28318530717959
+0
+
+0101000
++7 0 -7 0 *
+Wi
+
+0101100
++6 0 *
+Ve
+1e-07
+2.75 87.5 0
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  11 0 0 6.28318530717959
+2  141 72 4 0 6.28318530717959
+2  142 72 6 0 6.28318530717959
+2  143 73 4 0 6.28318530717959
+2  144 3 13 0 6.28318530717959
+2  145 74 16 0 6.28318530717959
+2  146 74 18 0 6.28318530717959
+2  147 75 21 0 6.28318530717959
+2  148 75 23 0 6.28318530717959
+2  149 76 21 0 6.28318530717959
+2  150 3 24 0 6.28318530717959
+2  151 77 27 0 6.28318530717959
+2  152 77 29 0 6.28318530717959
+2  153 78 27 0 6.28318530717959
+2  154 3 30 0 6.28318530717959
+0
+
+0101000
++4 0 -4 0 *
+Wi
+
+0101100
++3 0 *
+Co
+
+0100000
++32 0 +29 0 +26 0 +23 0 +20 0 +17 0 +14 0 +11 0 +8 0 +5 0 
++2 0 *
+
++1 1 ]]>
+      </Part>
+      <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
+      <ElementMap2 count="22">
+<![CDATA[
+54 PostfixCount 3
+Edge
+Vertex
+;SKT
+
+MapCount 1
+
+ElementMap 1 54 2
+
+Edge
+
+ChildCount 0
+
+NameCount 12
+0
+;g12.3 0
+;g13.3 0
+;g14.3 0
+;g15.3 0
+;g16.3 0
+;g17.3 0
+;g18.3 0
+;g19.3 0
+;g20.3 0
+;g21.3 0
+;g22.3 0
+
+Vertex
+
+ChildCount 0
+
+NameCount 12
+0
+;g12v1.3 0
+;g13v1.3 0
+;g14v1.3 0
+;g15v1.3 0
+;g16v1.3 0
+;g17v1.3 0
+;g18v1.3 0
+;g19v1.3 0
+;g20v1.3 0
+;g21v1.3 0
+;g22v1.3 0
+
+EndMap
+]]>
+      </ElementMap2>
+    </Property>
+    <Property name="Support" type="App::PropertyLinkSubList" status="67108864">
+      <LinkSubList count="1">
+        <Link obj="Pocket001" sub="Face36" shadow=";#686f;:Hf12,F.Face36"/>
+      </LinkSubList>
+    </Property>
+    <Property name="TreeRank" type="App::PropertyInteger" status="2184">
+      <Integer value="297"/>
+    </Property>
+    <Property name="Visibility" type="App::PropertyBool" status="649">
+      <Bool value="false"/>
+    </Property>
+  </Properties>
+</Object>
+</Document>

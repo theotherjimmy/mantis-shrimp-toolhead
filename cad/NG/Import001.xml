@@ -91,11 +91,11 @@ Locations 5
               0               1               0               0 
               0               0               1               0 
 1
-             -1 1.56871857084212e-15 -3.42194749874547e-16 9.50000000000001 
--1.56871857084212e-15              -1 -6.17168307770916e-16           13.25 
--3.42194749874548e-16 -6.17168307770916e-16               1            10.5 
+             -1 1.65389215948551e-15 -3.99999999999999e-16 9.50000000000001 
+-1.65389215948551e-15              -1 -6.00000000000001e-16           13.25 
+         -4e-16          -6e-16               1            10.5 
 1
-             -1 -1.22464679914735e-16               0             158 
+             -1 -1.22464679914735e-16               0             157 
 1.22464679914735e-16              -1               0             177 
               0               0               1             170 
 1
@@ -15592,14 +15592,14 @@ Co
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="1383">
 <![CDATA[
-8 PostfixCount 3
+37 PostfixCount 3
 Edge
 Face
 Vertex
 
 MapCount 1
 
-ElementMap 1 8 3
+ElementMap 1 37 3
 
 Edge
 
@@ -15638,7 +15638,7 @@ EndMap
       <Bool value="false"/>
     </Property>
     <Property name="TreeRank" type="App::PropertyInteger" status="2184">
-      <Integer value="828"/>
+      <Integer value="1001"/>
     </Property>
     <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="false"/>

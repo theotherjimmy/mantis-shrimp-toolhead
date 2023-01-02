@@ -60,7 +60,7 @@
       <PropertyPlacement Px="154.199460769471" Py="111.897106100259" Pz="199.105017147717" Q0="0.7071067811865419" Q1="0.7071067811865531" Q2="1.1e-15" Q3="-9.486685671818979e-15" A="3.141592653589812" Ox="0.7071067811865419" Oy="0.7071067811865531" Oz="1.1e-15"/>
     </Property>
     <Property name="TreeRank" type="App::PropertyInteger" status="2184">
-      <Integer value="764"/>
+      <Integer value="1395"/>
     </Property>
     <Property name="Type" type="App::PropertyString">
       <String value=""/>

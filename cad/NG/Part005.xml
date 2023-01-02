@@ -23,12 +23,8 @@
       <ExpressionEngine count="0"></ExpressionEngine>
     </Property>
     <Property name="Group" type="App::PropertyLinkList">
-      <LinkList count="5">
+      <LinkList count="1">
         <Link value="Solid008"/>
-        <Link value="Solid009"/>
-        <Link value="Part004"/>
-        <Link value="Solid024"/>
-        <Link value="Link020"/>
       </LinkList>
     </Property>
     <Property name="Id" type="App::PropertyString">
@@ -61,7 +57,7 @@
       <PropertyPlacement Px="1.78e-14" Py="0" Pz="5" Q0="0" Q1="0" Q2="-0.7071067811865477" Q3="0.7071067811865474" A="1.570796326794897" Ox="0" Oy="0" Oz="-1"/>
     </Property>
     <Property name="TreeRank" type="App::PropertyInteger" status="2184">
-      <Integer value="339"/>
+      <Integer value="1602"/>
     </Property>
     <Property name="Type" type="App::PropertyString">
       <String value=""/>
@@ -73,12 +69,8 @@
       <Bool value="true"/>
     </Property>
     <Property name="_ExportChildren" type="App::PropertyLinkList" status="218104320">
-      <LinkList count="5">
+      <LinkList count="1">
         <Link value="Solid008"/>
-        <Link value="Solid009"/>
-        <Link value="Part004"/>
-        <Link value="Solid024"/>
-        <Link value="Link020"/>
       </LinkList>
     </Property>
     <Property name="_GroupVersion" type="App::PropertyInteger" status="218103808">
