@@ -19,7 +19,7 @@
     </Property>
     <Property name="AttachmentSupport" type="App::PropertyLinkSubList">
       <LinkSubList count="1">
-        <Link obj="Split" sub="Face76" shadow=";#6cc1;:Hf3a,F.Face76"/>
+        <Link obj="Split" sub="Face9" shadow=";#8cee;:Hf3e,F;:H,F;:H,F.Face9"/>
       </LinkSubList>
     </Property>
     <Property name="ColoredElements" type="App::PropertyLinkSubHidden" status="218103808">
@@ -28,10 +28,10 @@
     </Property>
     <Property name="Constraints" type="Sketcher::PropertyConstraintList">
       <ConstraintList count="4">
-        <Constrain Name="" Type="13" Value="0" First="0" FirstPos="1" Second="-9" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
         <Constrain Name="" Type="3" Value="0" First="0" FirstPos="0" Second="-2000" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
-        <Constrain Name="" Type="13" Value="0" First="0" FirstPos="2" Second="-8" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
-        <Constrain Name="" Type="6" Value="4" First="-8" FirstPos="1" Second="0" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="5.359124660491943" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="13" Value="0" First="0" FirstPos="1" Second="-7" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="6" Value="3.88" First="-6" FirstPos="2" Second="0" SecondPos="2" Third="-2000" ThirdPos="0" LabelDistance="9.764976501464844" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="13" Value="0" First="0" FirstPos="2" Second="-6" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
       </ConstraintList>
     </Property>
     <Property name="Exports" type="App::PropertyLinkListHidden" status="67108864">
@@ -48,7 +48,7 @@
       <Float value="0.0001"/>
     </Property>
     <Property name="ExternalGeo" type="Part::PropertyGeometryList" status="67108864">
-      <GeometryList count="10">
+      <GeometryList count="7">
         <Geometry type="Part::GeomLineSegment" id="-1" migrated="1">
           <GeoExtensions count="2">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="-1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
@@ -70,7 +70,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Split.;#6fcb;:M;GFS;:Hf19:7,V;:H,V" Flags="0"/>
           </GeoExtensions>
-          <GeomPoint X="-10.12500000000002" Y="-38.00000000000001" Z="0"/>
+          <GeomPoint X="-43.5" Y="-35.00000000000003" Z="2.842170943040401e-14"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="2" ref="Split.;#6fc6;:M;GFS;:Hf19:7,E;:H,E" migrated="1">
@@ -78,39 +78,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="2" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Split.;#6fc6;:M;GFS;:Hf19:7,E;:H,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="-9.75" StartY="-38.00000000000001" StartZ="0" EndX="-5.25" EndY="-38.00000000000001" EndZ="0"/>
-          <Construction value="1"/>
-        </Geometry>
-        <Geometry type="Part::GeomLineSegment" id="3" ref="Split.;#74d4;:Hf3a,E;:H,E;:H,E" migrated="1">
-          <GeoExtensions count="2">
-            <GeoExtension type="Sketcher::SketchGeometryExtension" id="3" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
-            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Split.;#74d4;:Hf3a,E;:H,E;:H,E" Flags="0"/>
-          </GeoExtensions>
-          <LineSegment StartX="-5.976714865090827" StartY="-38.00000000000002" StartZ="0" EndX="-1" EndY="-38.00000000000001" EndZ="0"/>
-          <Construction value="1"/>
-        </Geometry>
-        <Geometry type="Part::GeomLineSegment" id="4" ref="Split.;#74d6;:Hf3a,E;:H,E;:H,E" migrated="1">
-          <GeoExtensions count="2">
-            <GeoExtension type="Sketcher::SketchGeometryExtension" id="4" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
-            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Split.;#74d6;:Hf3a,E;:H,E;:H,E" Flags="0"/>
-          </GeoExtensions>
-          <LineSegment StartX="-14.875" StartY="-38.00000000000003" StartZ="0" EndX="-10.125" EndY="-38.00000000000001" EndZ="0"/>
-          <Construction value="1"/>
-        </Geometry>
-        <Geometry type="Part::GeomLineSegment" id="5" ref="Split.;#758a;:M2;GFS;:Hf3a:8,E" migrated="1">
-          <GeoExtensions count="2">
-            <GeoExtension type="Sketcher::SketchGeometryExtension" id="5" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
-            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Split.;#758a;:M2;GFS;:Hf3a:8,E" Flags="0"/>
-          </GeoExtensions>
-          <LineSegment StartX="-16.75" StartY="-38.00000000000001" StartZ="0" EndX="-12.25" EndY="-38.00000000000001" EndZ="0"/>
-          <Construction value="1"/>
-        </Geometry>
-        <Geometry type="Part::GeomLineSegment" id="6" ref="Split.;#74d2;:Hf3a,E;:H,E;:H,E" migrated="1">
-          <GeoExtensions count="2">
-            <GeoExtension type="Sketcher::SketchGeometryExtension" id="6" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
-            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Split.;#74d2;:Hf3a,E;:H,E;:H,E" Flags="0"/>
-          </GeoExtensions>
-          <LineSegment StartX="10.625" StartY="-38.00000000000003" StartZ="0" EndX="14.375" EndY="-38.00000000000001" EndZ="0"/>
+          <LineSegment StartX="-43.5" StartY="-35.00000000000003" StartZ="2.842170943040401e-14" EndX="-43.5" EndY="-38.00000000000003" EndZ="2.842170943040401e-14"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="8" ref="Split.;#6fc6;:M;GFS;:Hf19:7,E" migrated="1">
@@ -118,29 +86,34 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="8" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Split.;#6fc6;:M;GFS;:Hf19:7,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="-98.50000000000003" StartY="-2.710000000000008" StartZ="0" EndX="98.49999999999986" EndY="-2.710000000000008" EndZ="0"/>
+          <LineSegment StartX="56.74999999999999" StartY="-35.00000000000004" StartZ="1.4210854715202e-14" EndX="96.50000000000001" EndY="-35.00000000000004" EndZ="1.4210854715202e-14"/>
           <Construction value="1"/>
         </Geometry>
-        <Geometry type="Part::GeomLineSegment" id="10" ref="Split.;#6c5a;:Hf3a,E" migrated="1">
+        <Geometry type="Part::GeomLineSegment" id="10" ref="Split.;#81c4;:Hf3e,E;:H,E;:H,E" migrated="1">
           <GeoExtensions count="2">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="10" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
-            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Split.;#6c5a;:Hf3a,E" Flags="0"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Split.;#81c4;:Hf3e,E;:H,E;:H,E" Flags="0"/>
           </GeoExtensions>
           <LineSegment StartX="-2.75" StartY="-37.99999999999992" StartZ="0" EndX="2.75" EndY="-37.99999999999992" EndZ="0"/>
+          <Construction value="1"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="11" ref="Split.;#8c3f;:Hf3e,E;:H,E;:H,E" migrated="1">
+          <GeoExtensions count="2">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="11" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Split.;#8c3f;:Hf3e,E;:H,E;:H,E" Flags="0"/>
+          </GeoExtensions>
+          <LineSegment StartX="-90.49999999999986" StartY="-2.710000000000008" StartZ="0" EndX="90.49999999999986" EndY="-2.710000000000008" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
     </Property>
     <Property name="ExternalGeometry" type="App::PropertyLinkSubList" status="16777216">
-      <LinkSubList count="8">
-        <Link obj="Split" sub="Vertex106" shadow=";#6fcb;:M;GFS;:Hf19:7,V;:H,V.Vertex106"/>
-        <Link obj="Split" sub="Edge164" shadow=";#6fc6;:M;GFS;:Hf19:7,E;:H,E.Edge164"/>
-        <Link obj="Split" sub="Edge69" shadow=";#74d4;:Hf3a,E;:H,E;:H,E.Edge69"/>
-        <Link obj="Split" sub="Edge71" shadow=";#74d6;:Hf3a,E;:H,E;:H,E.Edge71"/>
-        <Link obj="Split" sub="Edge168" shadow=";#758a;:M2;GFS;:Hf3a:8,E.Edge168"/>
-        <Link obj="Split" sub="Edge67" shadow=";#74d2;:Hf3a,E;:H,E;:H,E.Edge67"/>
-        <Link obj="Split" sub="Edge174" shadow=";#6fc6;:M;GFS;:Hf19:7,E.Edge174"/>
-        <Link obj="Split" sub="Edge196" shadow=";#6c5a;:Hf3a,E.Edge196"/>
+      <LinkSubList count="5">
+        <Link obj="Split" sub="Vertex120" shadow=";#6fcb;:M;GFS;:Hf19:7,V;:H,V.Vertex120"/>
+        <Link obj="Split" sub="Edge185" shadow=";#6fc6;:M;GFS;:Hf19:7,E;:H,E.Edge185"/>
+        <Link obj="Split" sub="Edge195" shadow=";#6fc6;:M;GFS;:Hf19:7,E.Edge195"/>
+        <Link obj="Split" sub="Edge25" shadow=";#81c4;:Hf3e,E;:H,E;:H,E.Edge25"/>
+        <Link obj="Split" sub="Edge40" shadow=";#8c3f;:Hf3e,E;:H,E;:H,E.Edge40"/>
       </LinkSubList>
     </Property>
     <Property name="FullyConstrained" type="App::PropertyBool" status="218103808">
@@ -152,7 +125,7 @@
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="9" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <LineSegment StartX="6.625" StartY="-2.710000000000008" StartZ="0" EndX="6.625" EndY="-38.00000000000007" EndZ="0"/>
+          <LineSegment StartX="6.63" StartY="-2.710000000000009" StartZ="0" EndX="6.63" EndY="-37.99999999999992" EndZ="0"/>
           <Construction value="0"/>
         </Geometry>
       </GeometryList>
@@ -198,7 +171,7 @@ TShapes 0
       <Bool value="false"/>
     </Property>
     <Property name="Placement" type="App::PropertyPlacement" status="8388612">
-      <PropertyPlacement Px="0" Py="-94.99999999999996" Pz="-7.733155519889841e-15" Q0="0.7071067811865476" Q1="0" Q2="0" Q3="0.7071067811865475" A="1.570796326794897" Ox="1" Oy="0" Oz="0"/>
+      <PropertyPlacement Px="0" Py="-95.00000000000024" Pz="-7.803645358243038e-15" Q0="0.7071067811865476" Q1="0" Q2="0" Q3="0.7071067811865475" A="1.570796326794897" Ox="1" Oy="0" Oz="0"/>
     </Property>
     <Property name="Shape" type="Part::PropertyPartShape">
       <Part ElementMap="0.15.70200.4" brep="1">
@@ -208,11 +181,11 @@ CASCADE Topology V1, (c) Matra-Datavision
 Locations 1
 1
               1               0               0               0 
-              0 -2.22044604925031e-16              -1             -95 
-              0               1 -2.22044604925031e-16 -7.73315551988984e-15 
+              0 -2.22044604925031e-16              -1 -95.0000000000002 
+              0               1 -2.22044604925031e-16 -7.80364535824304e-15 
 Curve2ds 0
 Curves 1
-1 6.625 -2.7100000000000084 0 0 -1 0 
+1 6.6299999999999999 -2.7100000000000088 0 0 -1 0 
 Polygon3D 0
 PolygonOnTriangulations 0
 Surfaces 0
@@ -221,21 +194,21 @@ Triangulations 0
 TShapes 4
 Ve
 1e-07
-6.625 -2.71000000000001 0
+6.63 -2.71000000000001 0
 0 0
 
 0101101
 *
 Ve
 1e-07
-6.625 -38.0000000000001 0
+6.63 -37.9999999999999 0
 0 0
 
 0101101
 *
 Ed
  1e-07 1 1 0
-1  1 0 0 35.2900000000001
+1  1 0 0 35.2899999999999
 0
 
 0101000
@@ -250,14 +223,14 @@ Wi
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="3">
 <![CDATA[
-40 PostfixCount 3
+39 PostfixCount 3
 Edge
 Vertex
 ;SKT
 
 MapCount 1
 
-ElementMap 1 40 2
+ElementMap 1 39 2
 
 Edge
 
@@ -282,7 +255,7 @@ EndMap
     </Property>
     <Property name="Support" type="App::PropertyLinkSubList" status="67108864">
       <LinkSubList count="1">
-        <Link obj="Split" sub="Face76" shadow=";#6cc1;:Hf3a,F.Face76"/>
+        <Link obj="Split" sub="Face9" shadow=";#8cee;:Hf3e,F;:H,F;:H,F.Face9"/>
       </LinkSubList>
     </Property>
     <Property name="TreeRank" type="App::PropertyInteger" status="2184">

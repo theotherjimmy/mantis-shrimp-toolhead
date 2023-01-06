@@ -27,7 +27,7 @@
       </LinkSub>
     </Property>
     <Property name="Constraints" type="Sketcher::PropertyConstraintList">
-      <ConstraintList count="77">
+      <ConstraintList count="78">
         <Constrain Name="" Type="1" Value="0" First="0" FirstPos="2" Second="1" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
         <Constrain Name="" Type="2" Value="0" First="0" FirstPos="0" Second="-2000" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
         <Constrain Name="" Type="3" Value="0" First="1" FirstPos="0" Second="-2000" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
@@ -80,7 +80,7 @@
         <Constrain Name="" Type="13" Value="0" First="19" FirstPos="2" Second="18" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
         <Constrain Name="" Type="13" Value="0" First="20" FirstPos="1" Second="19" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
         <Constrain Name="" Type="13" Value="0" First="20" FirstPos="1" Second="-9" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
-        <Constrain Name="" Type="6" Value="0.75" First="20" FirstPos="1" Second="19" SecondPos="2" Third="-2000" ThirdPos="0" LabelDistance="0.5938080549240112" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="6" Value="0.75" First="20" FirstPos="1" Second="19" SecondPos="2" Third="-2000" ThirdPos="0" LabelDistance="0.5938080549240112" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="0" />
         <Constrain Name="" Type="10" Value="0" First="18" FirstPos="0" Second="19" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
         <Constrain Name="" Type="1" Value="0" First="6" FirstPos="1" Second="0" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
         <Constrain Name="" Type="1" Value="0" First="21" FirstPos="3" Second="-13" SecondPos="3" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
@@ -105,6 +105,7 @@
         <Constrain Name="" Type="12" Value="0" First="29" FirstPos="0" Second="30" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
         <Constrain Name="" Type="12" Value="0" First="30" FirstPos="0" Second="31" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
         <Constrain Name="" Type="12" Value="0" First="31" FirstPos="0" Second="-20" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="6" Value="2" First="4" FirstPos="2" Second="18" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="9.764974594116211" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
       </ConstraintList>
     </Property>
     <Property name="Exports" type="App::PropertyLinkListHidden" status="67108864">
@@ -143,7 +144,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad.;g32;SKT;:H,E;:Hf00:5,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="98.49999999999986" StartY="-79.99999999999996" StartZ="0" EndX="113.5" EndY="-79.99999999999996" EndZ="0"/>
+          <LineSegment StartX="98.5000000000001" StartY="-69.28203230275506" StartZ="-7.105427357601002e-15" EndX="113.5" EndY="-69.28203230275504" EndZ="7.105427357601002e-15"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="2" ref="Pad.;g33;SKT;:H,E;:Hf00:5,E" migrated="1">
@@ -151,7 +152,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="2" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad.;g33;SKT;:H,E;:Hf00:5,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="98.49999999999986" StartY="-79.99999999999996" StartZ="0" EndX="98.49999999999986" EndY="-94.99999999999996" EndZ="0"/>
+          <LineSegment StartX="98.5000000000001" StartY="-69.28203230275506" StartZ="-7.105427357601002e-15" EndX="98.5000000000001" EndY="-84.28203230275507" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="3" ref="Pad.;g31;SKT;:H,E;:Hf00:5,E" migrated="1">
@@ -159,7 +160,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="3" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad.;g31;SKT;:H,E;:Hf00:5,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="-98.50000000000003" StartY="-80.00000000000006" StartZ="0" EndX="-98.50000000000003" EndY="-94.99999999999996" EndZ="0"/>
+          <LineSegment StartX="-98.50000000000001" StartY="-69.28203230275486" StartZ="-7.105427357601002e-15" EndX="-98.50000000000001" EndY="-84.28203230275507" EndZ="7.105427357601002e-15"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="4" ref="Pad.;g30;SKT;:H,E;:Hf00:5,E" migrated="1">
@@ -167,7 +168,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="4" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad.;g30;SKT;:H,E;:Hf00:5,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="-98.50000000000003" StartY="-80.00000000000006" StartZ="0" EndX="-113.5" EndY="-80.00000000000006" EndZ="0"/>
+          <LineSegment StartX="-98.50000000000001" StartY="-69.28203230275486" StartZ="-7.105427357601002e-15" EndX="-113.5" EndY="-69.28203230275486" EndZ="-7.105427357601002e-15"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="5" ref="Pad.;g8;SKT;:H,E;:Hf00:5,E" migrated="1">
@@ -175,7 +176,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="5" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad.;g8;SKT;:H,E;:Hf00:5,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="-113.5" StartY="96" StartZ="0" EndX="-43.5" EndY="96" EndZ="0"/>
+          <LineSegment StartX="-113.5" StartY="84.47818472546174" StartZ="-7.105427357601002e-15" EndX="-43.50000000000001" EndY="84.47818472546174" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="6" ref="Pad.;g41;SKT;:H,E;:Hf00:5,E" migrated="1">
@@ -183,7 +184,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="6" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad.;g41;SKT;:H,E;:Hf00:5,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="43.5" StartY="96" StartZ="0" EndX="113.5" EndY="96" EndZ="0"/>
+          <LineSegment StartX="43.50000000000001" StartY="84.47818472546174" StartZ="-7.105427357601002e-15" EndX="113.5" EndY="84.47818472546174" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomArcOfCircle" id="37" ref="Import.;Edge484;:Hec7,E" migrated="1">
@@ -191,7 +192,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="37" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Import.;Edge484;:Hec7,E" Flags="0"/>
           </GeoExtensions>
-          <ArcOfCircle CenterX="93.30000000000001" CenterY="-74.80000000000001" CenterZ="0" NormalX="-3.070495687793584e-19" NormalY="-2.962066541104361e-17" NormalZ="1" AngleXU="1.570796326794897" Radius="5" StartAngle="1.570796326794897" EndAngle="3.141592653589793"/>
+          <ArcOfCircle CenterX="15.93802809479229" CenterY="-48.1618238383337" CenterZ="-7.105427357601002e-15" NormalX="1.088372526224584e-17" NormalY="1.665334536937735e-16" NormalZ="1" AngleXU="1.570796326794896" Radius="5" StartAngle="1.570796326794894" EndAngle="3.141592653589793"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomCircle" id="40" ref="Pad.;g42;SKT;:Hf00,E" migrated="1">
@@ -199,7 +200,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="40" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad.;g42;SKT;:Hf00,E" Flags="0"/>
           </GeoExtensions>
-          <Circle CenterX="-106" CenterY="-72.50000000000006" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Circle CenterX="-106" CenterY="-54.28203230275489" CenterZ="7.105427357601002e-15" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomCircle" id="41" ref="Pad.;g43;SKT;:Hf00,E" migrated="1">
@@ -207,7 +208,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="41" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad.;g43;SKT;:Hf00,E" Flags="0"/>
           </GeoExtensions>
-          <Circle CenterX="-106" CenterY="-8.430713839558003" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Circle CenterX="-106" CenterY="3.124493753040358" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomCircle" id="42" ref="Pad.;g68;SKT;:Hf00,E" migrated="1">
@@ -215,7 +216,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="42" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad.;g68;SKT;:Hf00,E" Flags="0"/>
           </GeoExtensions>
-          <Circle CenterX="-106" CenterY="55.63857232088406" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Circle CenterX="-106" CenterY="60.53101980883559" CenterZ="7.105427357601002e-15" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomCircle" id="43" ref="Pad.;g45;SKT;:Hf00,E" migrated="1">
@@ -223,7 +224,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="43" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad.;g45;SKT;:Hf00,E" Flags="0"/>
           </GeoExtensions>
-          <Circle CenterX="-50.99999999999999" CenterY="88.5" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Circle CenterX="-51.00000000000001" CenterY="76.97818472546174" CenterZ="7.105427357601002e-15" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomCircle" id="44" ref="Pad.;g52;SKT;:Hf00,E" migrated="1">
@@ -231,7 +232,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="44" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad.;g52;SKT;:Hf00,E" Flags="0"/>
           </GeoExtensions>
-          <Circle CenterX="-49.25000000000005" CenterY="-87.49999999999996" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Circle CenterX="-49.24999999999997" CenterY="-76.78203230275507" CenterZ="7.105427357601002e-15" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomCircle" id="45" ref="Pad.;g51;SKT;:Hf00,E" migrated="1">
@@ -239,7 +240,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="45" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad.;g51;SKT;:Hf00,E" Flags="0"/>
           </GeoExtensions>
-          <Circle CenterX="-1.016383114376517e-13" CenterY="-87.49999999999996" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Circle CenterX="4.19518163251458e-14" CenterY="-76.78203230275506" CenterZ="1.4210854715202e-14" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomCircle" id="46" ref="Pad.;g50;SKT;:Hf00,E" migrated="1">
@@ -247,7 +248,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="46" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad.;g50;SKT;:Hf00,E" Flags="0"/>
           </GeoExtensions>
-          <Circle CenterX="49.24999999999985" CenterY="-87.49999999999996" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Circle CenterX="49.25000000000006" CenterY="-76.78203230275506" CenterZ="1.4210854715202e-14" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomCircle" id="47" ref="Pad.;g49;SKT;:Hf00,E" migrated="1">
@@ -255,7 +256,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="47" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad.;g49;SKT;:Hf00,E" Flags="0"/>
           </GeoExtensions>
-          <Circle CenterX="106" CenterY="-72.49999999999996" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Circle CenterX="106" CenterY="-54.28203230275508" CenterZ="7.105427357601002e-15" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomCircle" id="48" ref="Pad.;g48;SKT;:Hf00,E" migrated="1">
@@ -263,7 +264,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="48" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad.;g48;SKT;:Hf00,E" Flags="0"/>
           </GeoExtensions>
-          <Circle CenterX="106" CenterY="-8.430713839553473" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Circle CenterX="106" CenterY="3.124493753040202" CenterZ="7.105427357601002e-15" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomCircle" id="49" ref="Pad.;g47;SKT;:Hf00,E" migrated="1">
@@ -271,7 +272,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="49" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad.;g47;SKT;:Hf00,E" Flags="0"/>
           </GeoExtensions>
-          <Circle CenterX="106" CenterY="55.63857232089301" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Circle CenterX="106" CenterY="60.5310198088355" CenterZ="7.105427357601002e-15" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomCircle" id="50" ref="Pad.;g46;SKT;:Hf00,E" migrated="1">
@@ -279,7 +280,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="50" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad.;g46;SKT;:Hf00,E" Flags="0"/>
           </GeoExtensions>
-          <Circle CenterX="50.99999999999999" CenterY="88.5" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Circle CenterX="50.99999999999999" CenterY="76.97818472546176" CenterZ="-7.105427357601002e-15" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
@@ -293,17 +294,17 @@
         <Link obj="Pad" sub="Edge18" shadow=";g8;SKT;:H,E;:Hf00:5,E.Edge18"/>
         <Link obj="Pad" sub="Edge30" shadow=";g41;SKT;:H,E;:Hf00:5,E.Edge30"/>
         <Link obj="Import" sub="Edge484" shadow=";Edge484;:Hec7,E.Edge484"/>
-        <Link obj="Pad" sub="Edge65" shadow=";g42;SKT;:Hf00,E.Edge65"/>
-        <Link obj="Pad" sub="Edge68" shadow=";g43;SKT;:Hf00,E.Edge68"/>
-        <Link obj="Pad" sub="Edge95" shadow=";g68;SKT;:Hf00,E.Edge95"/>
-        <Link obj="Pad" sub="Edge71" shadow=";g45;SKT;:Hf00,E.Edge71"/>
-        <Link obj="Pad" sub="Edge92" shadow=";g52;SKT;:Hf00,E.Edge92"/>
-        <Link obj="Pad" sub="Edge89" shadow=";g51;SKT;:Hf00,E.Edge89"/>
-        <Link obj="Pad" sub="Edge86" shadow=";g50;SKT;:Hf00,E.Edge86"/>
-        <Link obj="Pad" sub="Edge83" shadow=";g49;SKT;:Hf00,E.Edge83"/>
-        <Link obj="Pad" sub="Edge80" shadow=";g48;SKT;:Hf00,E.Edge80"/>
-        <Link obj="Pad" sub="Edge77" shadow=";g47;SKT;:Hf00,E.Edge77"/>
-        <Link obj="Pad" sub="Edge74" shadow=";g46;SKT;:Hf00,E.Edge74"/>
+        <Link obj="Pad" sub="Edge83" shadow=";g42;SKT;:Hf00,E.Edge83"/>
+        <Link obj="Pad" sub="Edge71" shadow=";g43;SKT;:Hf00,E.Edge71"/>
+        <Link obj="Pad" sub="Edge80" shadow=";g68;SKT;:Hf00,E.Edge80"/>
+        <Link obj="Pad" sub="Edge65" shadow=";g45;SKT;:Hf00,E.Edge65"/>
+        <Link obj="Pad" sub="Edge95" shadow=";g52;SKT;:Hf00,E.Edge95"/>
+        <Link obj="Pad" sub="Edge92" shadow=";g51;SKT;:Hf00,E.Edge92"/>
+        <Link obj="Pad" sub="Edge89" shadow=";g50;SKT;:Hf00,E.Edge89"/>
+        <Link obj="Pad" sub="Edge86" shadow=";g49;SKT;:Hf00,E.Edge86"/>
+        <Link obj="Pad" sub="Edge77" shadow=";g48;SKT;:Hf00,E.Edge77"/>
+        <Link obj="Pad" sub="Edge74" shadow=";g47;SKT;:Hf00,E.Edge74"/>
+        <Link obj="Pad" sub="Edge68" shadow=";g46;SKT;:Hf00,E.Edge68"/>
       </LinkSubList>
     </Property>
     <Property name="FullyConstrained" type="App::PropertyBool" status="218103808">
@@ -315,224 +316,224 @@
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="7" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <LineSegment StartX="-98.50000000000003" StartY="-80.00000000000006" StartZ="0" EndX="-113.5" EndY="-80.00000000000006" EndZ="0"/>
+          <LineSegment StartX="-98.50000000000001" StartY="-69.28203230275486" StartZ="0" EndX="-113.5" EndY="-69.28203230275486" EndZ="0"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="8" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="8" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <LineSegment StartX="-113.5" StartY="-80.00000000000006" StartZ="0" EndX="-113.5" EndY="96" EndZ="0"/>
+          <LineSegment StartX="-113.5" StartY="-69.28203230275486" StartZ="0" EndX="-113.5" EndY="84.47818472546174" EndZ="0"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="10" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="10" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <LineSegment StartX="-98.49999999999999" StartY="78.7317279837238" StartZ="0" EndX="-98.49999999999999" EndY="-77.73172798364496" EndZ="0"/>
+          <LineSegment StartX="-98.49999999999999" StartY="66.64975760071572" StartZ="0" EndX="-98.49999999999999" EndY="-66.453605178009" EndZ="0"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="11" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="11" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <LineSegment StartX="-98.50000000000003" StartY="-94.99999999999996" StartZ="0" EndX="98.49999999999986" EndY="-94.99999999999996" EndZ="0"/>
+          <LineSegment StartX="-98.50000000000001" StartY="-84.28203230275507" StartZ="0" EndX="98.50000000000016" EndY="-84.28203230275507" EndZ="0"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="12" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="12" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <LineSegment StartX="98.49999999999986" StartY="-94.99999999999996" StartZ="0" EndX="98.49999999999986" EndY="-79.99999999999996" EndZ="0"/>
+          <LineSegment StartX="98.50000000000016" StartY="-84.28203230275507" StartZ="0" EndX="98.50000000000016" EndY="-69.28203230275511" EndZ="0"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="13" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="13" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <LineSegment StartX="96.231727983645" StartY="-79.99999999999996" StartZ="0" EndX="-96.23172798364497" EndY="-79.99999999999996" EndZ="0"/>
+          <LineSegment StartX="95.67157287529163" StartY="-69.28203230275507" StartZ="0" EndX="-95.67157287525391" EndY="-69.28203230275507" EndZ="0"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="14" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="14" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <LineSegment StartX="-98.50000000000003" StartY="-80.00000000000006" StartZ="0" EndX="-98.50000000000003" EndY="-94.99999999999996" EndZ="0"/>
+          <LineSegment StartX="-98.50000000000001" StartY="-69.28203230275486" StartZ="0" EndX="-98.50000000000001" EndY="-84.28203230275507" EndZ="0"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="15" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="15" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <LineSegment StartX="98.49999999999986" StartY="-79.99999999999996" StartZ="0" EndX="113.5" EndY="-79.99999999999996" EndZ="0"/>
+          <LineSegment StartX="98.50000000000016" StartY="-69.28203230275511" StartZ="0" EndX="113.5" EndY="-69.28203230275511" EndZ="0"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="16" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="16" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <LineSegment StartX="113.5" StartY="-79.99999999999996" StartZ="0" EndX="113.5" EndY="95.99999999999999" EndZ="0"/>
+          <LineSegment StartX="113.5" StartY="-69.28203230275511" StartZ="0" EndX="113.5" EndY="84.47818472546174" EndZ="0"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="18" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="18" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <LineSegment StartX="98.50000000000001" StartY="81.00000000007881" StartZ="0" EndX="98.50000000000001" EndY="-77.73172798364496" EndZ="0"/>
+          <LineSegment StartX="98.50000000000004" StartY="69.47818472546177" StartZ="0" EndX="98.50000000000004" EndY="-66.45360517797135" EndZ="0"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="23" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="23" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <LineSegment StartX="-43.5" StartY="96" StartZ="0" EndX="-113.5" EndY="96" EndZ="0"/>
+          <LineSegment StartX="-43.50000000000001" StartY="84.47818472546174" StartZ="0" EndX="-113.5" EndY="84.47818472546174" EndZ="0"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="25" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="25" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <LineSegment StartX="-96.23172798364497" StartY="81.00000000007881" StartZ="0" EndX="-43.5" EndY="81.00000000007881" EndZ="0"/>
+          <LineSegment StartX="-95.67157287525393" StartY="69.47818472546177" StartZ="0" EndX="-43.50000000000001" EndY="69.47818472546177" EndZ="0"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="26" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="26" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <LineSegment StartX="-43.5" StartY="81.00000000007881" StartZ="0" EndX="-43.5" EndY="96" EndZ="0"/>
+          <LineSegment StartX="-43.50000000000001" StartY="69.47818472546177" StartZ="0" EndX="-43.50000000000001" EndY="84.47818472546174" EndZ="0"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="27" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="27" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <LineSegment StartX="43.5" StartY="96" StartZ="0" EndX="113.5" EndY="95.99999999999999" EndZ="0"/>
+          <LineSegment StartX="43.50000000000001" StartY="84.47818472546174" StartZ="0" EndX="113.5" EndY="84.47818472546174" EndZ="0"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="29" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="29" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <LineSegment StartX="98.50000000000001" StartY="81.00000000007881" StartZ="0" EndX="43.5" EndY="81.00000000007881" EndZ="0"/>
+          <LineSegment StartX="98.50000000000004" StartY="69.47818472546177" StartZ="0" EndX="43.50000000000001" EndY="69.47818472546177" EndZ="0"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="30" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="30" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <LineSegment StartX="43.5" StartY="81.00000000007881" StartZ="0" EndX="43.5" EndY="96" EndZ="0"/>
+          <LineSegment StartX="43.50000000000001" StartY="69.47818472546177" StartZ="0" EndX="43.50000000000001" EndY="84.47818472546174" EndZ="0"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="31" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="31" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <LineSegment StartX="-96.23172798364497" StartY="81.00000000007881" StartZ="0" EndX="-98.49999999999999" EndY="78.7317279837238" EndZ="0"/>
+          <LineSegment StartX="-95.67157287525393" StartY="69.47818472546177" StartZ="0" EndX="-98.49999999999999" EndY="66.64975760071572" EndZ="0"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="32" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="32" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <LineSegment StartX="-96.23172798364497" StartY="-79.99999999999996" StartZ="0" EndX="-98.49999999999999" EndY="-77.73172798364496" EndZ="0"/>
+          <LineSegment StartX="-95.67157287525393" StartY="-69.28203230275507" StartZ="0" EndX="-98.49999999999999" EndY="-66.45360517800901" EndZ="0"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="33" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="33" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <LineSegment StartX="96.231727983645" StartY="-79.99999999999996" StartZ="0" EndX="98.50000000000001" EndY="-77.73172798364496" EndZ="0"/>
+          <LineSegment StartX="95.67157287529163" StartY="-69.28203230275507" StartZ="0" EndX="98.50000000000004" EndY="-66.45360517797135" EndZ="0"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="38" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="38" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
           </GeoExtensions>
-          <LineSegment StartX="93.30000000000001" StartY="-74.80000000000001" StartZ="0" EndX="97.36586399182266" EndY="-78.86586399182266" EndZ="0"/>
+          <LineSegment StartX="15.9380280947924" StartY="-48.1618238383336" StartZ="0" EndX="66.36490471839163" EndY="-98.58870046043567" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomPoint" id="39" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="39" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
           </GeoExtensions>
-          <GeomPoint X="96.83553390593269" Y="-78.33553390593281" Z="0"/>
+          <GeomPoint X="19.47356200077763" Y="-51.69735774421384" Z="0"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomCircle" id="51" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="51" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <Circle CenterX="-51" CenterY="88.5" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Circle CenterX="-51" CenterY="76.97818472546176" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomCircle" id="52" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="52" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <Circle CenterX="-106" CenterY="55.63857232088406" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Circle CenterX="-106" CenterY="60.53101980879467" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomCircle" id="53" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="53" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <Circle CenterX="-106" CenterY="-8.430713839558003" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Circle CenterX="-106" CenterY="3.12449375304035" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomCircle" id="54" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="54" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <Circle CenterX="-106" CenterY="-72.5" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Circle CenterX="-106" CenterY="-54.2820323027549" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomCircle" id="55" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="55" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <Circle CenterX="-49.25" CenterY="-87.5" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Circle CenterX="-49.25" CenterY="-76.78203230275508" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomCircle" id="56" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="56" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <Circle CenterX="-0" CenterY="-87.5" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Circle CenterX="-0" CenterY="-76.78203230275507" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomCircle" id="57" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="57" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <Circle CenterX="49.25" CenterY="-87.5" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Circle CenterX="49.25" CenterY="-76.78203230275507" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomCircle" id="58" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="58" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <Circle CenterX="106" CenterY="-72.5" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Circle CenterX="106" CenterY="-54.2820323027551" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomCircle" id="59" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="59" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <Circle CenterX="106" CenterY="-8.430713839553473" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Circle CenterX="106" CenterY="3.124493753040194" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomCircle" id="60" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="60" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <Circle CenterX="106" CenterY="55.63857232089301" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Circle CenterX="106" CenterY="60.53101980879457" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomCircle" id="61" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="61" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <Circle CenterX="51" CenterY="88.5" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Circle CenterX="51" CenterY="76.97818472546177" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
           <Construction value="0"/>
         </Geometry>
       </GeometryList>
@@ -578,7 +579,7 @@ TShapes 0
       <Bool value="false"/>
     </Property>
     <Property name="Placement" type="App::PropertyPlacement" status="8388612">
-      <PropertyPlacement Px="-1.074673490727752e-17" Py="2.849057296801514e-15" Pz="-34.99999999999991" Q0="4.070081852573602e-17" Q1="1.535247843896792e-19" Q2="6.248584388647083e-36" Q3="1" A="0" Ox="0" Oy="0" Oz="1"/>
+      <PropertyPlacement Px="-6.263399390421952e-15" Py="-31.27365879133476" Pz="-54.16756596516493" Q0="-0.2588190451025206" Q1="4.836321896279117e-17" Q2="-1.295888546444944e-17" Q3="0.9659258262890683" A="0.5235987755982987" Ox="-1" Oy="1.868611289545329e-16" Oz="-5.006928860013493e-17"/>
     </Property>
     <Property name="Shape" type="Part::PropertyPartShape">
       <Part HasherIndex="0" ElementMap="1.15.70200.4" brep="1">
@@ -587,218 +588,218 @@ TShapes 0
 CASCADE Topology V1, (c) Matra-Datavision
 Locations 6
 1
-              1               0 3.07049568779358e-19 -1.07467349072775e-17 
-2.49943375545883e-35               1 -8.1401637051472e-17 2.84905729680151e-15 
--3.07049568779358e-19 8.1401637051472e-17               1 -34.9999999999999 
+              1 -3.08148791101958e-33 1.0013857720027e-16 -6.26339939042195e-15 
+-5.00692886001349e-17 0.866025403784439             0.5 -31.2736587913348 
+-8.67225517542629e-17            -0.5 0.866025403784439 -54.1675659651649 
 1
-              1               0 3.07049568779358e-19 -1.07467349072775e-17 
-2.49943375545883e-35               1 -8.1401637051472e-17 2.84905729680151e-15 
--3.07049568779358e-19 8.1401637051472e-17               1 -34.9999999999999 
+              1 -3.08148791101958e-33 1.0013857720027e-16 -6.26339939042195e-15 
+-5.00692886001349e-17 0.866025403784439             0.5 -31.2736587913348 
+-8.67225517542629e-17            -0.5 0.866025403784439 -54.1675659651649 
 1
               1               0               0               0 
               0               1               0               0 
               0               0               1               0 
 2  2 -1 3 -1 0
 1
-              1               0               0 7.61888064829069e-15 
-              0               1               0 -2.01983464668632e-12 
-              0               0               1 24813.1944251826 
+              1               0               0 2.39069389328884e-12 
+              0               1               0 11936.9276063691 
+              0               0               1 20675.3651005028 
 2  5 -1 2 -1 3 -1 0
 Curve2ds 98
+1 0 -0 1 0 
+1 0 -23873.855212738119 1 0 
+1 -61.574347535692247 98.616581172638305 -1 0 
+1 0 -0 1 -1.2325951644078309e-32 
+1 3.2703011349043381e-15 -23873.855212738119 1 -1.2325951644078309e-32 
+1 -61.574347535692247 98.616581172638305 1.2325951644078309e-32 1 
+1 0 -0 1 0 
+1 0 -23873.855212738119 1 0 
+1 -61.574347535692247 113.61658117263828 1 0 
+1 0 -0 1 -1.2325951644078309e-32 
+1 -3.8351262226970677e-15 -23873.855212738119 1 -1.2325951644078309e-32 
+1 92.185869492524333 43.616581172638313 1.2325951644078309e-32 1 
+1 0 -0 1 0 
+1 1.8189894035458565e-12 -23873.855212738119 1 0 
+1 77.185869492524361 43.616581172638313 1 0 
+1 0 -0 1 1.2325951644078309e-32 
+1 -3.2703011349039342e-15 -23873.855212738119 1 1.2325951644078309e-32 
+1 77.185869492524361 95.78815404789222 -1.2325951644078309e-32 -1 
+1 68.959716710962283 90.237425145926792 0 -1 
+1 0 -0 1 0 
+1 -2.7284841053187847e-12 -23873.855212738119 1 0 
+1 77.185869492524361 95.78815404789222 -0.70710678118654757 0.70710678118654757 
+1 68.959716710962283 90.237425145926792 -0.70710678118654757 0.70710678118654746 
+1 0 -0 1 0 
+1 -1.8189894035458565e-12 -23873.855212738119 1 0 
+1 74.357442367778305 98.616581172638277 -1 0 
+1 66.131289586216226 93.065852270672849 -1 -6.1629758220391547e-33 
 1 0 0 1 0 
-1 -1.8932771276377596e-15 -24813.194425182584 1 0 
-1 -71.589706412415083 98.587726929413819 -1 8.4236409804810467e-38 
+1 -1.8189894035458565e-12 -23873.855212738119 1 0 
+1 -61.574347535692482 95.78815404789222 0.70710678118654746 0.70710678118654757 
+1 -69.800500317254574 90.237425145926792 0.70710678118654757 0.70710678118654757 
+1 0 -0 1 -1.2325951644078309e-32 
+1 3.2703011349043381e-15 -23873.855212738119 1 -1.2325951644078309e-32 
+1 -61.574347535692475 -95.554991702653339 1.2325951644078309e-32 1 
+1 -69.80050031725456 -101.10572060461877 0 1 
+1 0 -0 1 5.5511151231257827e-17 
+1 9.0949470177292824e-13 -23873.855212738119 1 5.5511151231257827e-17 
+1 -61.574347535692475 -95.554991702653339 0.70710678119596049 -0.70710678117713466 
+1 -69.80050031725456 -101.10572060461877 0.70710678119596049 -0.70710678117713455 
+1 0 -0 1 0 
+1 -1.8189894035458565e-12 -23873.855212738119 1 0 
+1 77.185869492524347 -98.383418827361751 -1 0 
+1 68.959716710962269 -103.93414772932718 -1 -6.1629758220391547e-33 
+1 0 -0 1 -1.2325951644078309e-32 
+1 3.2703011349039342e-15 -23873.855212738119 1 -1.2325951644078309e-32 
+1 77.185869492524347 -98.383418827361751 1.2325951644078309e-32 1 
+1 68.959716710962269 -103.93414772932718 0 1 
+1 0 -0 1 0 
+1 1.8189894035458565e-12 -23873.855212738119 1 0 
+1 77.185869492524361 -43.383418827361716 1 0 
+1 0 -0 1 1.2325951644078309e-32 
+1 3.8351262226970677e-15 -23873.855212738119 1 1.2325951644078309e-32 
+1 92.185869492524333 -43.383418827361716 -1.2325951644078309e-32 -1 
+1 0 -0 1 0 
+1 0 -23873.855212738119 1 0 
+1 -61.574347535692525 -113.38341882736172 1 0 
+1 0 -0 1 1.2325951644078309e-32 
+1 -3.2703011349043381e-15 -23873.855212738119 1 1.2325951644078309e-32 
+1 -61.574347535692525 -98.383418827361865 -1.2325951644078309e-32 -1 
+1 0 -0 1 0 
+1 0 -23873.855212738119 1 0 
+1 -76.574347535692482 -98.383418827361865 1 0 
+1 0 -0 1 1.2325951644078309e-32 
+1 -3.2703011349043381e-15 -23873.855212738119 1 1.2325951644078309e-32 
+1 -76.574347535692482 98.616581172638305 -1.2325951644078309e-32 -1 
 1 0 0 1 0 
-1 -6.5919740669113111e-15 -24813.194425182584 1 0 
-1 -71.589706412415083 98.587726929413819 2.4632619255344536e-37 1 
+1 0 -23873.855212738119 1 0 
+2 84.685869492524333 51.116581172638298 -1.2325951644078309e-32 -1 1 -1.2325951644078309e-32 1.75
 1 0 0 1 0 
-1 1.8932771276377596e-15 -24813.194425182584 1 0 
-1 -71.589706412415083 113.58772692941379 1 -8.4236409804810467e-38 
+1 0 -23873.855212738119 1 0 
+2 68.23870457585727 106.11658117263829 -1.2325951644078309e-32 -1 1 -1.2325951644078309e-32 1.75
 1 0 0 1 0 
-1 5.1345329068969073e-16 -24813.194425182584 1 0 
-1 104.41029358758497 43.587726929413783 2.4632619255344536e-37 1 
+1 0 -23873.855212738119 1 0 
+2 10.832178520102937 106.11658117263829 -1.2325951644078309e-32 -1 1 -1.2325951644078309e-32 1.75
 1 0 0 1 0 
-1 1.8932771276377596e-15 -24813.194425182584 1 0 
-1 89.410293587663787 43.587726929413783 1 -8.4236409804810467e-38 
+1 0 -23873.855212738119 1 0 
+2 -46.574347535692304 106.11658117263829 -1.2325951644078309e-32 -1 1 -1.2325951644078309e-32 1.75
 1 0 0 1 0 
-1 6.5919740669113111e-15 -24813.194425182584 1 0 
-1 89.410293587663787 96.319454913058763 -2.4632619255344536e-37 -1 
-1 82.640959157435162 98.467078390699953 0 -1 
-1 -0 0 1 0 
-1 -5.9999786597369878e-15 -24813.194425182584 1 0 
-1 89.410293587663787 96.319454913058763 -0.70710678118654757 0.70710678118654757 
-1 82.640959157435162 98.467078390699953 -0.70710678118654757 0.70710678118654757 
+1 0 -23873.855212738119 1 0 
+2 -69.074347535692482 49.366581172638298 -1.2325951644078309e-32 -1 1 -1.2325951644078309e-32 1.75
 1 0 0 1 0 
-1 -1.8932771276377596e-15 -24813.194425182584 1 0 
-1 87.142021571308774 98.587726929413776 -1 8.4236409804810467e-38 
-1 80.372687141080149 100.73535040705497 -1 0 
+1 0 -23873.855212738119 1 0 
+2 -69.074347535692482 0.11658117263829935 -1.2325951644078309e-32 -1 1 -1.2325951644078309e-32 1.75
 1 0 0 1 0 
-1 -3.3224804685009704e-15 -24813.194425182584 1 0 
-1 -71.589706412414984 96.319454913058763 0.70710678118654535 0.70710678118654979 
-1 -78.359040842643608 98.467078390699953 0.70710678118654535 0.70710678118654979 
+1 0 -23873.855212738119 1 0 
+2 -69.074347535692468 -49.133418827361702 -1.2325951644078309e-32 -1 1 -1.2325951644078309e-32 1.75
 1 0 0 1 0 
-1 -6.5919740669113111e-15 -24813.194425182584 1 0 
-1 -71.589706412414984 -96.144001054231211 2.4632619255344536e-37 1 
-1 -78.359040842643608 -93.996377576590021 0 1 
+1 0 -23873.855212738119 1 0 
+2 -46.57434753569251 -105.88341882736171 -1.2325951644078309e-32 -1 1 -1.2325951644078309e-32 1.75
 1 0 0 1 0 
-1 5.9999786597367859e-15 -24813.194425182584 1 0 
-1 -71.589706412414984 -96.144001054231211 0.70710678118654535 -0.70710678118654979 
-1 -78.359040842643608 -93.996377576590021 0.70710678118654535 -0.70710678118654979 
+1 0 -23873.855212738119 1 0 
+2 10.832178520102786 -105.88341882736171 -1.2325951644078309e-32 -1 1 -1.2325951644078309e-32 1.75
 1 0 0 1 0 
-1 -1.8932771276377596e-15 -24813.194425182584 1 0 
-1 89.410293587663787 -98.412273070586224 -1 8.4236409804810467e-38 
-1 82.640959157435162 -96.264649592945034 -1 0 
+1 0 -23873.855212738119 1 0 
+2 68.238704575857156 -105.88341882736171 -1.2325951644078309e-32 -1 1 -1.2325951644078309e-32 1.75
 1 0 0 1 0 
-1 -6.5919740669113111e-15 -24813.194425182584 1 0 
-1 89.410293587663787 -98.412273070586224 2.4632619255344536e-37 1 
-1 82.640959157435162 -96.264649592945034 0 1 
-1 0 0 1 0 
-1 1.8932771276377596e-15 -24813.194425182584 1 0 
-1 89.410293587663787 -43.412273070586217 1 -8.4236409804810467e-38 
-1 0 0 1 0 
-1 -5.1345329068968915e-16 -24813.194425182584 1 0 
-1 104.41029358758497 -43.412273070586217 -2.0301221021717148e-16 -1 
-1 0 0 1 0 
-1 1.8932771276377596e-15 -24813.194425182584 1 0 
-1 -71.589706412414984 -113.41227307058621 1 -8.4236409804810467e-38 
-1 0 0 1 0 
-1 6.5919740669113111e-15 -24813.194425182584 1 0 
-1 -71.589706412414984 -98.412273070586068 -2.4632619255344536e-37 -1 
-1 0 0 1 0 
-1 1.8932771276377596e-15 -24813.194425182584 1 0 
-1 -86.589706412414984 -98.412273070586068 1 -8.4236409804810467e-38 
-1 0 0 1 0 
-1 6.5919740669113111e-15 -24813.194425182584 1 0 
-1 -86.589706412414984 98.587726929413819 -2.4632619255344536e-37 -1 
-1 0 0 1 0 
-1 0 -24813.194425182584 1 0 
-2 96.910293587584974 51.087726929413783 -2.4632619255344536e-37 -1 1 -2.4632619255344536e-37 1.75
-1 0 0 1 0 
-1 0 -24813.194425182584 1 0 
-2 64.048865908469025 106.08772692941379 -2.4632619255344536e-37 -1 1 -2.4632619255344536e-37 1.75
-1 0 0 1 0 
-1 0 -24813.194425182584 1 0 
-2 -0.020420251973026993 106.08772692941379 -2.4632619255344536e-37 -1 1 -2.4632619255344536e-37 1.75
-1 0 0 1 0 
-1 0 -24813.194425182584 1 0 
-2 -64.089706412415026 106.08772692941379 -2.4632619255344536e-37 -1 1 -2.4632619255344536e-37 1.75
-1 0 0 1 0 
-1 0 -24813.194425182584 1 0 
-2 -79.089706412415026 49.337726929413783 -2.4632619255344536e-37 -1 1 -2.4632619255344536e-37 1.75
-1 0 0 1 0 
-1 0 -24813.194425182584 1 0 
-2 -79.089706412415026 0.087726929413786278 -2.4632619255344536e-37 -1 1 -2.4632619255344536e-37 1.75
-1 0 0 1 0 
-1 0 -24813.194425182584 1 0 
-2 -79.089706412415026 -49.162273070586217 -2.4632619255344536e-37 -1 1 -2.4632619255344536e-37 1.75
-1 0 0 1 0 
-1 0 -24813.194425182584 1 0 
-2 -64.089706412415026 -105.91227307058621 -2.4632619255344536e-37 -1 1 -2.4632619255344536e-37 1.75
-1 0 0 1 0 
-1 0 -24813.194425182584 1 0 
-2 -0.020420251968497283 -105.91227307058621 -2.4632619255344536e-37 -1 1 -2.4632619255344536e-37 1.75
-1 0 0 1 0 
-1 0 -24813.194425182584 1 0 
-2 64.048865908477978 -105.91227307058621 -2.4632619255344536e-37 -1 1 -2.4632619255344536e-37 1.75
-1 0 0 1 0 
-1 0 -24813.194425182584 1 0 
-2 96.910293587584974 -50.912273070586217 -2.4632619255344536e-37 -1 1 -2.4632619255344536e-37 1.75
+1 0 -23873.855212738119 1 0 
+2 84.685869492524361 -50.883418827361702 -1.2325951644078309e-32 -1 1 -1.2325951644078309e-32 1.75
 Curves 30
-1 -98.500000000000028 -80.000000000000057 0 0 -1 0 
-1 -98.500000000000028 -80.000000000000057 0 -1 0 0 
-1 -113.5 -80.000000000000057 0 0 1 0 
-1 -43.5 96 0 -1 0 0 
-1 -43.5 81.000000000078813 0 0 1 0 
-1 -96.231727983644973 81.000000000078813 0 1 0 0 
-1 -96.231727983644973 81.000000000078813 0 -0.70710678118654757 -0.70710678118654757 0 
-1 -98.499999999999986 78.7317279837238 0 0 -1 0 
-1 -96.231727983644973 -79.999999999999957 0 -0.70710678118654979 0.70710678118654535 0 
-1 96.231727983645001 -79.999999999999957 0 -1 0 0 
-1 96.231727983645001 -79.999999999999957 0 0.70710678118654979 0.70710678118654535 0 
-1 98.500000000000014 81.000000000078813 0 0 -1 0 
-1 98.500000000000014 81.000000000078813 0 -1 0 0 
-1 43.5 81.000000000078813 0 0 1 0 
-1 43.5 96 0 1 -2.0301221021717148e-16 0 
-1 113.5 -79.999999999999957 0 0 1 0 
-1 98.499999999999858 -79.999999999999957 0 1 0 0 
-1 98.499999999999858 -94.999999999999957 0 0 1 0 
-1 -98.500000000000028 -94.999999999999957 0 1 0 0 
-2 -51 88.5 0 0 0 1 1 0 -0 -0 1 0 1.75
-2 -106 55.638572320884059 0 0 0 1 1 0 -0 -0 1 0 1.75
-2 -106 -8.4307138395580026 0 0 0 1 1 0 -0 -0 1 0 1.75
-2 -106 -72.5 0 0 0 1 1 0 -0 -0 1 0 1.75
-2 -49.25 -87.5 0 0 0 1 1 0 -0 -0 1 0 1.75
-2 -0 -87.5 0 0 0 1 1 0 -0 -0 1 0 1.75
-2 49.25 -87.5 0 0 0 1 1 0 -0 -0 1 0 1.75
-2 106 -72.5 0 0 0 1 1 0 -0 -0 1 0 1.75
-2 106 -8.4307138395534729 0 0 0 1 1 0 -0 -0 1 0 1.75
-2 106 55.638572320893012 0 0 0 1 1 0 -0 -0 1 0 1.75
-2 51 88.5 0 0 0 1 1 0 -0 -0 1 0 1.75
+1 -98.500000000000014 -69.282032302754857 0 0 -1 0 
+1 -98.500000000000014 -69.282032302754857 0 -1 0 0 
+1 -113.49999999999999 -69.282032302754857 0 0 1 0 
+1 -43.500000000000014 84.478184725461745 0 -1 0 0 
+1 -43.500000000000014 69.478184725461773 0 0 1 0 
+1 -95.671572875253929 69.478184725461773 0 1 0 0 
+1 -95.671572875253929 69.478184725461773 0 -0.70710678118654757 -0.70710678118654757 0 
+1 -98.499999999999986 66.649757600715716 0 0 -1 0 
+1 -95.671572875253929 -69.28203230275507 0 -0.70710678118654757 0.70710678118654757 0 
+1 95.671572875291631 -69.28203230275507 0 -1 0 0 
+1 95.671572875291631 -69.28203230275507 0 0.70710678117713466 0.70710678119596049 0 
+1 98.500000000000043 69.478184725461773 0 0 -1 0 
+1 98.500000000000043 69.478184725461773 0 -1 0 0 
+1 43.500000000000014 69.478184725461773 0 0 1 0 
+1 43.500000000000014 84.478184725461745 0 1 0 0 
+1 113.50000000000001 -69.282032302755113 0 0 1 0 
+1 98.500000000000156 -69.282032302755113 0 1 0 0 
+1 98.500000000000156 -84.28203230275507 0 0 1 0 
+1 -98.500000000000014 -84.28203230275507 0 1 0 0 
+2 -51 76.978184725461759 0 0 0 1 1 0 -0 -0 1 0 1.75
+2 -106 60.531019808794674 0 0 0 1 1 0 -0 -0 1 0 1.75
+2 -106 3.1244937530403503 0 0 0 1 1 0 -0 -0 1 0 1.75
+2 -106 -54.282032302754899 0 0 0 1 1 0 -0 -0 1 0 1.75
+2 -49.25 -76.782032302755084 0 0 0 1 1 0 -0 -0 1 0 1.75
+2 -0 -76.78203230275507 0 0 0 1 1 0 -0 -0 1 0 1.75
+2 49.25 -76.78203230275507 0 0 0 1 1 0 -0 -0 1 0 1.75
+2 106 -54.282032302755098 0 0 0 1 1 0 -0 -0 1 0 1.75
+2 106 3.1244937530401939 0 0 0 1 1 0 -0 -0 1 0 1.75
+2 106 60.531019808794575 0 0 0 1 1 0 -0 -0 1 0 1.75
+2 51 76.978184725461773 0 0 0 1 1 0 -0 -0 1 0 1.75
 Polygon3D 0
 PolygonOnTriangulations 0
 Surfaces 32
-1 -98.500000000000028 -80.000000000000057 -34.999999999999922 1 2.4994337554588338e-35 -3.0704956877935843e-19 0 -1 -8.1401637051472045e-17 -3.0704956877935843e-19 8.1401637051472045e-17 -1 
-1 0.087726929413786264 -8.410293587584972 -34.999999999999837 1.0500204236492768e-19 -8.2203872969055933e-17 1 0 1 8.2203872969055933e-17 -1 -8.6315745520579449e-36 1.0500204236492768e-19 
-1 -98.500000000000028 -80.000000000000057 -34.999999999999922 0 -1 -8.1401637051472045e-17 -1 -2.4994337554588333e-35 3.0704956877935838e-19 -3.0704956877935838e-19 8.1401637051472045e-17 -1 
-1 -113.5 -80.000000000000057 -34.999999999999922 -1 -2.4994337554588338e-35 3.0704956877935843e-19 0 1 8.1401637051472045e-17 -3.0704956877935843e-19 8.1401637051472045e-17 -1 
-1 -43.5 96 -34.999999999999908 0 -1 -8.1401637051472045e-17 -1 -2.4994337554588333e-35 3.0704956877935838e-19 -3.0704956877935838e-19 8.1401637051472045e-17 -1 
-1 -43.5 81.000000000078813 -34.999999999999908 -1 -2.4994337554588338e-35 3.0704956877935843e-19 0 1 8.1401637051472045e-17 -3.0704956877935843e-19 8.1401637051472045e-17 -1 
-1 -96.231727983644973 81.000000000078813 -34.999999999999908 0 1 8.1401637051472045e-17 1 2.4994337554588333e-35 -3.0704956877935838e-19 -3.0704956877935838e-19 8.1401637051472045e-17 -1 
-1 2.2353504070549781 -1.6409591573563433 -34.999999999999915 3.0704956877935838e-19 -8.1401637051472045e-17 1 0 1 8.1401637051472045e-17 -1 -2.4994337554588333e-35 3.0704956877935838e-19 
-1 -96.231727983644973 81.000000000078813 -34.999999999999908 0.70710678118654757 -0.70710678118654757 -5.7776766391026293e-17 -0.70710678118654757 -0.70710678118654757 -5.7342532726537715e-17 -3.0704956877936141e-19 8.1401637051472045e-17 -1 
-1 -98.499999999999986 78.7317279837238 -34.999999999999908 1 2.4994337554588338e-35 -3.0704956877935843e-19 0 -1 -8.1401637051472045e-17 -3.0704956877935843e-19 8.1401637051472045e-17 -1 
-1 -96.231727983644973 -79.999999999999957 -34.999999999999922 -0.70710678118654535 -0.70710678118654979 -5.73425327265379e-17 -0.70710678118654979 0.70710678118654535 5.7776766391026108e-17 -3.0704956877934909e-19 8.1401637051472045e-17 -1 
-1 96.231727983645001 -79.999999999999957 -34.999999999999922 0 -1 -8.1401637051472045e-17 -1 -2.4994337554588333e-35 3.0704956877935838e-19 -3.0704956877935838e-19 8.1401637051472045e-17 -1 
-1 96.231727983645001 -79.999999999999957 -34.999999999999922 -0.70710678118654535 0.70710678118654979 5.7776766391026478e-17 0.70710678118654979 0.70710678118654535 5.734253272653753e-17 -3.0704956877936141e-19 8.1401637051472045e-17 -1 
-1 98.500000000000014 81.000000000078813 -34.999999999999908 1 2.4994337554588338e-35 -3.0704956877935843e-19 0 -1 -8.1401637051472045e-17 -3.0704956877935843e-19 8.1401637051472045e-17 -1 
-1 98.500000000000014 81.000000000078813 -34.999999999999908 0 -1 -8.1401637051472045e-17 -1 -2.4994337554588333e-35 3.0704956877935838e-19 -3.0704956877935838e-19 8.1401637051472045e-17 -1 
-1 43.5 81.000000000078813 -34.999999999999908 -1 -2.4994337554588338e-35 3.0704956877935843e-19 0 1 8.1401637051472045e-17 -3.0704956877935843e-19 8.1401637051472045e-17 -1 
-1 43.5 96 -34.999999999999908 2.0301221021717148e-16 1 8.1401637051472045e-17 1 -2.0301221021717148e-16 -3.0704956877937489e-19 -3.0704956877935838e-19 8.1401637051472045e-17 -1 
-1 113.5 -79.999999999999957 -34.999999999999922 -1 -2.4994337554588338e-35 3.0704956877935843e-19 0 1 8.1401637051472045e-17 -3.0704956877935843e-19 8.1401637051472045e-17 -1 
-1 98.499999999999858 -79.999999999999957 -34.999999999999922 0 1 8.1401637051472045e-17 1 2.4994337554588333e-35 -3.0704956877935838e-19 -3.0704956877935838e-19 8.1401637051472045e-17 -1 
-1 98.499999999999858 -94.999999999999957 -34.999999999999922 -1 -2.4994337554588338e-35 3.0704956877935843e-19 0 1 8.1401637051472045e-17 -3.0704956877935843e-19 8.1401637051472045e-17 -1 
-1 -98.500000000000028 -94.999999999999957 -34.999999999999922 0 1 8.1401637051472045e-17 1 2.4994337554588333e-35 -3.0704956877935838e-19 -3.0704956877935838e-19 8.1401637051472045e-17 -1 
-2 -51 88.5 -34.999999999999908 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 1 8.1401637051472045e-17 1.75
-2 -106 55.638572320884059 -34.999999999999908 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 1 8.1401637051472045e-17 1.75
-2 -106 -8.430713839557999 -34.999999999999915 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 1 8.1401637051472045e-17 1.75
-2 -106 -72.5 -34.999999999999922 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 1 8.1401637051472045e-17 1.75
-2 -49.25 -87.5 -34.999999999999922 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 1 8.1401637051472045e-17 1.75
-2 -1.0746734907277517e-17 -87.5 -34.999999999999922 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 1 8.1401637051472045e-17 1.75
-2 49.25 -87.5 -34.999999999999922 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 1 8.1401637051472045e-17 1.75
-2 106 -72.5 -34.999999999999922 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 1 8.1401637051472045e-17 1.75
-2 106 -8.4307138395534693 -34.999999999999915 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 1 8.1401637051472045e-17 1.75
-2 106 55.638572320893012 -34.999999999999908 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 1 8.1401637051472045e-17 1.75
-2 51 88.5 -34.999999999999908 -3.0704956877935838e-19 8.1401637051472045e-17 -1 1 2.4994337554588333e-35 -3.0704956877935838e-19 0 1 8.1401637051472045e-17 1.75
+1 -98.500000000000014 -91.273658791334555 -19.526549813787518 1 -5.006928860013489e-17 -8.6722551754262882e-17 -6.1629758220391547e-33 -0.86602540378443882 0.49999999999999967 -1.0013857720026984e-16 -0.49999999999999967 -0.86602540378443882 
+1 0.1165811726382931 -37.948709603973235 -50.313723581633511 6.8733054222025057e-17 0.49999999999999961 0.86602540378443882 0 0.86602540378443882 -0.49999999999999961 -1 3.4366527111012504e-17 5.9524571035966981e-17 
+1 -98.500000000000014 -91.273658791334555 -19.526549813787518 -6.1629758220391547e-33 -0.86602540378443893 0.49999999999999972 -1 5.0069288600134896e-17 8.6722551754262895e-17 -1.0013857720026985e-16 -0.49999999999999972 -0.86602540378443893 
+1 -113.49999999999999 -91.273658791334555 -19.526549813787518 -1 5.006928860013489e-17 8.6722551754262882e-17 6.1629758220391547e-33 0.86602540378443882 -0.49999999999999967 -1.0013857720026984e-16 -0.49999999999999967 -0.86602540378443882 
+1 -43.500000000000021 41.886595246509664 -96.406658327895769 -6.1629758220391547e-33 -0.86602540378443893 0.49999999999999972 -1 5.0069288600134896e-17 8.6722551754262895e-17 -1.0013857720026985e-16 -0.49999999999999972 -0.86602540378443893 
+1 -43.500000000000021 28.896214189743098 -88.906658327895798 -1 5.006928860013489e-17 8.6722551754262882e-17 6.1629758220391547e-33 0.86602540378443882 -0.49999999999999967 -1.0013857720026984e-16 -0.49999999999999967 -0.86602540378443882 
+1 -95.671572875253929 28.896214189743105 -88.906658327895798 6.1629758220391547e-33 0.86602540378443893 -0.49999999999999972 1 -5.0069288600134896e-17 -8.6722551754262895e-17 -1.0013857720026985e-16 -0.49999999999999972 -0.86602540378443893 
+1 -5.4341477293271341 -30.824652319728521 -54.426799972414678 1.0013857720026987e-16 0.49999999999999972 0.86602540378443882 0 0.86602540378443882 -0.49999999999999972 -1 5.0069288600134903e-17 8.6722551754262907e-17 
+1 -95.671572875253929 28.896214189743105 -88.906658327895798 0.70710678118654757 -0.61237243569579469 0.35355339059327345 -0.70710678118654746 -0.61237243569579469 0.35355339059327356 -5.5511151231257827e-17 -0.49999999999999967 -0.86602540378443882 
+1 -98.499999999999986 26.446724446960047 -87.492444765522762 1 -5.006928860013489e-17 -8.6722551754262882e-17 -6.1629758220391547e-33 -0.86602540378443882 0.49999999999999967 -1.0013857720026984e-16 -0.49999999999999967 -0.86602540378443882 
+1 -95.671572875253929 -91.273658791334753 -19.526549813787412 -0.70710678118654746 -0.61237243569579469 0.35355339059327356 -0.70710678118654757 0.61237243569579458 -0.35355339059327351 0 -0.49999999999999967 -0.86602540378443882 
+1 95.671572875291631 -91.273658791334753 -19.526549813787426 -6.1629758220391547e-33 -0.86602540378443893 0.49999999999999972 -1 5.0069288600134896e-17 8.6722551754262895e-17 -1.0013857720026985e-16 -0.49999999999999972 -0.86602540378443893 
+1 95.671572875291631 -91.273658791334753 -19.526549813787426 -0.70710678119596049 0.61237243568764288 -0.353553390588567 0.70710678117713466 0.6123724357039465 -0.35355339059798002 -5.5511151231257815e-17 -0.49999999999999956 -0.86602540378443882 
+1 98.500000000000043 28.896214189743091 -88.906658327895798 1 -5.006928860013489e-17 -8.6722551754262882e-17 -6.1629758220391547e-33 -0.86602540378443882 0.49999999999999967 -1.0013857720026984e-16 -0.49999999999999967 -0.86602540378443882 
+1 98.500000000000043 28.896214189743091 -88.906658327895798 -6.1629758220391547e-33 -0.86602540378443893 0.49999999999999972 -1 5.0069288600134896e-17 8.6722551754262895e-17 -1.0013857720026985e-16 -0.49999999999999972 -0.86602540378443893 
+1 43.500000000000007 28.896214189743098 -88.906658327895798 -1 5.006928860013489e-17 8.6722551754262882e-17 6.1629758220391547e-33 0.86602540378443882 -0.49999999999999967 -1.0013857720026984e-16 -0.49999999999999967 -0.86602540378443882 
+1 43.500000000000007 41.886595246509664 -96.406658327895784 6.1629758220391547e-33 0.86602540378443893 -0.49999999999999972 1 -5.0069288600134896e-17 -8.6722551754262895e-17 -1.0013857720026985e-16 -0.49999999999999972 -0.86602540378443893 
+1 113.50000000000001 -91.273658791334796 -19.526549813787405 -1 5.006928860013489e-17 8.6722551754262882e-17 6.1629758220391547e-33 0.86602540378443882 -0.49999999999999967 -1.0013857720026984e-16 -0.49999999999999967 -0.86602540378443882 
+1 98.500000000000156 -91.273658791334796 -19.526549813787405 6.1629758220391547e-33 0.86602540378443893 -0.49999999999999972 1 -5.0069288600134896e-17 -8.6722551754262895e-17 -1.0013857720026985e-16 -0.49999999999999972 -0.86602540378443893 
+1 98.500000000000156 -104.26403984810133 -12.026549813787433 -1 5.006928860013489e-17 8.6722551754262882e-17 6.1629758220391547e-33 0.86602540378443882 -0.49999999999999967 -1.0013857720026984e-16 -0.49999999999999967 -0.86602540378443882 
+1 -98.500000000000014 -104.26403984810133 -12.026549813787419 6.1629758220391547e-33 0.86602540378443893 -0.49999999999999972 1 -5.0069288600134896e-17 -8.6722551754262895e-17 -1.0013857720026985e-16 -0.49999999999999972 -0.86602540378443893 
+2 -51.000000000000007 35.391404718126374 -92.656658327895769 -1.0013857720026985e-16 -0.49999999999999967 -0.86602540378443882 1 -5.0069288600134903e-17 -8.6722551754262907e-17 -3.0814879110195774e-33 0.86602540378443882 -0.49999999999999967 1.75
+2 -106 21.147742080060517 -84.433075869562231 -1.0013857720026985e-16 -0.49999999999999967 -0.86602540378443882 1 -5.0069288600134903e-17 -8.6722551754262907e-17 -3.0814879110195774e-33 0.86602540378443882 -0.49999999999999967 1.75
+2 -106 -28.567767827236029 -55.729812841685096 -1.0013857720026985e-16 -0.49999999999999967 -0.86602540378443882 1 -5.0069288600134903e-17 -8.6722551754262907e-17 -3.0814879110195774e-33 0.86602540378443882 -0.49999999999999967 1.75
+2 -106 -78.283277734568017 -27.02654981378749 -1.0013857720026985e-16 -0.49999999999999967 -0.86602540378443882 1 -5.0069288600134903e-17 -8.6722551754262907e-17 -3.0814879110195774e-33 0.86602540378443882 -0.49999999999999967 1.75
+2 -49.250000000000007 -97.768849319718043 -15.776549813787412 -1.0013857720026985e-16 -0.49999999999999967 -0.86602540378443882 1 -5.0069288600134903e-17 -8.6722551754262907e-17 -3.0814879110195774e-33 0.86602540378443882 -0.49999999999999967 1.75
+2 -6.2633993904219523e-15 -97.768849319718043 -15.776549813787426 -1.0013857720026985e-16 -0.49999999999999967 -0.86602540378443882 1 -5.0069288600134903e-17 -8.6722551754262907e-17 -3.0814879110195774e-33 0.86602540378443882 -0.49999999999999967 1.75
+2 49.249999999999993 -97.768849319718043 -15.776549813787433 -1.0013857720026985e-16 -0.49999999999999967 -0.86602540378443882 1 -5.0069288600134903e-17 -8.6722551754262907e-17 -3.0814879110195774e-33 0.86602540378443882 -0.49999999999999967 1.75
+2 106 -78.283277734568202 -27.026549813787412 -1.0013857720026985e-16 -0.49999999999999967 -0.86602540378443882 1 -5.0069288600134903e-17 -8.6722551754262907e-17 -3.0814879110195774e-33 0.86602540378443882 -0.49999999999999967 1.75
+2 106 -28.567767827236175 -55.729812841685039 -1.0013857720026985e-16 -0.49999999999999967 -0.86602540378443882 1 -5.0069288600134903e-17 -8.6722551754262907e-17 -3.0814879110195774e-33 0.86602540378443882 -0.49999999999999967 1.75
+2 106 21.147742080060418 -84.433075869562202 -1.0013857720026985e-16 -0.49999999999999967 -0.86602540378443882 1 -5.0069288600134903e-17 -8.6722551754262907e-17 -3.0814879110195774e-33 0.86602540378443882 -0.49999999999999967 1.75
+2 50.999999999999993 35.391404718126388 -92.656658327895798 -1.0013857720026985e-16 -0.49999999999999967 -0.86602540378443882 1 -5.0069288600134903e-17 -8.6722551754262907e-17 -3.0814879110195774e-33 0.86602540378443882 -0.49999999999999967 1.75
 Triangulations 0
 
 TShapes 73
 Ve
 1e-07
--98.5 -80.0000000000001 0
+-98.5 -69.2820323027549 0
 0 0
 
 0101101
 *
 Ve
 1e-07
--98.5 -95 0
+-98.5 -84.2820323027551 0
 0 0
 
 0101101
 *
 Ed
  1e-07 1 1 0
-1  1 0 0 14.9999999999999
-2  1 1 4 0 14.9999999999999
-2  2 1 6 0 14.9999999999999
-2  3 2 4 0 14.9999999999999
+1  1 0 0 15.0000000000002
+2  1 1 4 0 15.0000000000002
+2  2 1 6 0 15.0000000000002
+2  3 2 4 0 15.0000000000002
 0
 
 0101000
 +73 0 -72 0 *
 Ve
 1e-07
--113.5 -80.0000000000001 0
+-113.5 -69.2820323027549 0
 0 0
 
 0101101
@@ -815,24 +816,24 @@ Ed
 +73 0 -70 0 *
 Ve
 1e-07
--113.5 96 0
+-113.5 84.4781847254617 0
 0 0
 
 0101101
 *
 Ed
  1e-07 1 1 0
-1  3 0 0 176
-2  7 4 4 0 176
-2  8 4 6 0 176
-2  9 2 4 0 176
+1  3 0 0 153.760217028217
+2  7 4 4 0 153.760217028217
+2  8 4 6 0 153.760217028217
+2  9 2 4 0 153.760217028217
 0
 
 0101000
 +70 0 -68 0 *
 Ve
 1e-07
--43.5 96 0
+-43.5 84.4781847254617 0
 0 0
 
 0101101
@@ -848,157 +849,157 @@ Ed
 0101000
 +66 0 -68 0 *
 Ve
-1.00000092643438e-07
--43.5 81.0000000000788 0
+1.00000095329311e-07
+-43.5 69.4781847254618 0
 0 0
 
 0101101
 *
 Ed
  1e-07 1 1 0
-1  5 0 0 14.9999999999212
-2  13 6 4 0 14.9999999999212
-2  14 6 6 0 14.9999999999212
-2  15 2 4 0 14.9999999999212
+1  5 0 0 15
+2  13 6 4 0 15
+2  14 6 6 0 15
+2  15 2 4 0 15
 0
 
 0101000
 +64 0 -66 0 *
 Ve
-1e-07
--96.231727983645 81.0000000000788 0
+1.00000015888219e-07
+-95.6715728752539 69.4781847254618 0
 0 0
 
 0101101
 *
 Ed
  1e-07 1 1 0
-1  6 0 0 52.731727983645
-2  16 7 4 0 52.731727983645
-2  17 7 6 0 52.731727983645
-2  18 2 4 0 52.731727983645
-2  19 8 4 0 52.731727983645
+1  6 0 0 52.1715728752539
+2  16 7 4 0 52.1715728752539
+2  17 7 6 0 52.1715728752539
+2  18 2 4 0 52.1715728752539
+2  19 8 4 0 52.1715728752539
 0
 
 0101000
 +62 0 -64 0 *
 Ve
-1.00000007105427e-07
--98.5 78.7317279837238 0
+1.00000015888219e-07
+-98.5 66.6497576007157 0
 0 0
 
 0101101
 *
 Ed
- 1e-07 1 1 0
-1  7 0 0 3.20782104868063
-2  20 9 4 0 3.20782104868063
-2  21 9 6 0 3.20782104868063
-2  22 2 4 0 3.20782104868063
-2  23 8 4 0 3.20782104868063
+ 1.00000015888219e-07 1 1 0
+1  7 0 0 3.99999999999981
+2  20 9 4 0 3.99999999999981
+2  21 9 6 0 3.99999999999981
+2  22 2 4 0 3.99999999999981
+2  23 8 4 0 3.99999999999981
 0
 
 0101000
 +62 0 -60 0 *
 Ve
-1.00000007105427e-07
--98.5 -77.731727983645 0
+1.00000010658141e-07
+-98.5 -66.453605178009 0
 0 0
 
 0101101
 *
 Ed
  1.00000007105427e-07 1 1 0
-1  8 0 0 156.463455967369
-2  24 10 4 0 156.463455967369
-2  25 10 6 0 156.463455967369
-2  26 2 4 0 156.463455967369
-2  27 8 4 0 156.463455967369
+1  8 0 0 133.103362778725
+2  24 10 4 0 133.103362778725
+2  25 10 6 0 133.103362778725
+2  26 2 4 0 133.103362778725
+2  27 8 4 0 133.103362778725
 0
 
 0101000
 +60 0 -58 0 *
 Ve
-1e-07
--96.231727983645 -80 0
+1.00000010658141e-07
+-95.6715728752539 -69.2820323027551 0
 0 0
 
 0101101
 *
 Ed
- 1e-07 1 1 0
-1  9 0 0 3.20782104868062
-2  28 11 4 0 3.20782104868062
-2  29 11 6 0 3.20782104868062
-2  30 2 4 0 3.20782104868062
-2  31 8 4 0 3.20782104868062
+ 1.00000010658141e-07 1 1 0
+1  9 0 0 3.99999999999981
+2  28 11 4 0 3.99999999999981
+2  29 11 6 0 3.99999999999981
+2  30 2 4 0 3.99999999999981
+2  31 8 4 0 3.99999999999981
 0
 
 0101000
 +56 0 -58 0 *
 Ve
-1e-07
-96.231727983645 -80 0
-0 0
-
-0101101
-*
-Ed
- 1e-07 1 1 0
-1  10 0 0 192.46345596729
-2  32 12 4 0 192.46345596729
-2  33 12 6 0 192.46345596729
-2  34 2 4 0 192.46345596729
-2  35 8 4 0 192.46345596729
-0
-
-0101000
-+54 0 -56 0 *
-Ve
-1.00000007105427e-07
-98.5 -77.731727983645 0
-0 0
-
-0101101
-*
-Ed
- 1e-07 1 1 0
-1  11 0 0 3.20782104868062
-2  36 13 4 0 3.20782104868062
-2  37 13 6 0 3.20782104868062
-2  38 2 4 0 3.20782104868062
-2  39 8 4 0 3.20782104868062
-0
-
-0101000
-+54 0 -52 0 *
-Ve
-1.00000007105427e-07
-98.5 81.0000000000788 0
+1.00000010658141e-07
+95.6715728752916 -69.2820323027551 0
 0 0
 
 0101101
 *
 Ed
  1.00000007105427e-07 1 1 0
-1  12 0 0 158.731727983724
-2  40 14 4 0 158.731727983724
-2  41 14 6 0 158.731727983724
-2  42 2 4 0 158.731727983724
-2  43 8 4 0 158.731727983724
+1  10 0 0 191.343145750546
+2  32 12 4 0 191.343145750546
+2  33 12 6 0 191.343145750546
+2  34 2 4 0 191.343145750546
+2  35 8 4 0 191.343145750546
 0
 
 0101000
-+50 0 -52 0 *
++54 0 -56 0 *
 Ve
-1.00000092370556e-07
-43.5 81.0000000000788 0
+1.00000014648214e-07
+98.5 -66.4536051779714 0
 0 0
 
 0101101
 *
 Ed
- 1e-07 1 1 0
+ 1.00000010658141e-07 1 1 0
+1  11 0 0 3.99999999999982
+2  36 13 4 0 3.99999999999982
+2  37 13 6 0 3.99999999999982
+2  38 2 4 0 3.99999999999982
+2  39 8 4 0 3.99999999999982
+0
+
+0101000
++54 0 -52 0 *
+Ve
+1.00000014648214e-07
+98.5 69.4781847254618 0
+0 0
+
+0101101
+*
+Ed
+ 1.00000014648214e-07 1 1 0
+1  12 0 0 135.931789903433
+2  40 14 4 0 135.931789903433
+2  41 14 6 0 135.931789903433
+2  42 2 4 0 135.931789903433
+2  43 8 4 0 135.931789903433
+0
+
+0101000
++50 0 -52 0 *
+Ve
+1.00000114571574e-07
+43.5 69.4781847254618 0
+0 0
+
+0101101
+*
+Ed
+ 1.00000003552714e-07 1 1 0
 1  13 0 0 55
 2  44 15 4 0 55
 2  45 15 6 0 55
@@ -1010,24 +1011,24 @@ Ed
 +50 0 -48 0 *
 Ve
 1e-07
-43.5 96 0
+43.5 84.4781847254617 0
 0 0
 
 0101101
 *
 Ed
  1e-07 1 1 0
-1  14 0 0 14.9999999999212
-2  48 16 4 0 14.9999999999212
-2  49 16 6 0 14.9999999999212
-2  50 2 4 0 14.9999999999212
+1  14 0 0 15
+2  48 16 4 0 15
+2  49 16 6 0 15
+2  50 2 4 0 15
 0
 
 0101000
 +48 0 -46 0 *
 Ve
 1e-07
-113.5 96 0
+113.5 84.4781847254617 0
 0 0
 
 0101101
@@ -1044,41 +1045,41 @@ Ed
 +46 0 -44 0 *
 Ve
 1e-07
-113.5 -80 0
+113.5 -69.2820323027551 0
 0 0
 
 0101101
 *
 Ed
  1e-07 1 1 0
-1  16 0 0 176
-2  54 18 4 0 176
-2  55 18 6 0 176
-2  56 2 4 0 176
+1  16 0 0 153.760217028217
+2  54 18 4 0 153.760217028217
+2  55 18 6 0 153.760217028217
+2  56 2 4 0 153.760217028217
 0
 
 0101000
 +42 0 -44 0 *
 Ve
 1e-07
-98.4999999999999 -80 0
+98.5000000000002 -69.2820323027551 0
 0 0
 
 0101101
 *
 Ed
  1e-07 1 1 0
-1  17 0 0 15.0000000000001
-2  57 19 4 0 15.0000000000001
-2  58 19 6 0 15.0000000000001
-2  59 2 4 0 15.0000000000001
+1  17 0 0 14.9999999999999
+2  57 19 4 0 14.9999999999999
+2  58 19 6 0 14.9999999999999
+2  59 2 4 0 14.9999999999999
 0
 
 0101000
 +40 0 -42 0 *
 Ve
 1e-07
-98.4999999999999 -95 0
+98.5000000000002 -84.2820323027551 0
 0 0
 
 0101101
@@ -1110,7 +1111,7 @@ Wi
 +51 0 -49 0 +47 0 +45 0 +43 0 -41 0 -39 0 -37 0 -36 0 *
 Ve
 1e-07
--49.25 88.5 0
+-49.25 76.9781847254618 0
 0 0
 
 0101101
@@ -1131,7 +1132,7 @@ Wi
 +33 0 *
 Ve
 1e-07
--104.25 55.6385723208841 0
+-104.25 60.5310198087947 0
 0 0
 
 0101101
@@ -1152,7 +1153,7 @@ Wi
 +30 0 *
 Ve
 1e-07
--104.25 -8.430713839558 0
+-104.25 3.12449375304035 0
 0 0
 
 0101101
@@ -1173,7 +1174,7 @@ Wi
 +27 0 *
 Ve
 1e-07
--104.25 -72.5 0
+-104.25 -54.2820323027549 0
 0 0
 
 0101101
@@ -1194,7 +1195,7 @@ Wi
 +24 0 *
 Ve
 1e-07
--47.5 -87.5 0
+-47.5 -76.7820323027551 0
 0 0
 
 0101101
@@ -1215,7 +1216,7 @@ Wi
 +21 0 *
 Ve
 1e-07
-1.75 -87.5 0
+1.75 -76.7820323027551 0
 0 0
 
 0101101
@@ -1236,7 +1237,7 @@ Wi
 +18 0 *
 Ve
 1e-07
-51 -87.5 0
+51 -76.7820323027551 0
 0 0
 
 0101101
@@ -1257,7 +1258,7 @@ Wi
 +15 0 *
 Ve
 1e-07
-107.75 -72.5 0
+107.75 -54.2820323027551 0
 0 0
 
 0101101
@@ -1278,7 +1279,7 @@ Wi
 +12 0 *
 Ve
 1e-07
-107.75 -8.43071383955347 0
+107.75 3.12449375304019 0
 0 0
 
 0101101
@@ -1299,7 +1300,7 @@ Wi
 +9 0 *
 Ve
 1e-07
-107.75 55.638572320893 0
+107.75 60.5310198087946 0
 0 0
 
 0101101
@@ -1320,7 +1321,7 @@ Wi
 +6 0 *
 Ve
 1e-07
-52.75 88.5 0
+52.75 76.9781847254618 0
 0 0
 
 0101101
