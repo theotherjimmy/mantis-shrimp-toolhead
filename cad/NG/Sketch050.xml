@@ -70,7 +70,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="4" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pipe002.;#1487b;:H-489,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="-3.775090878030746" StartY="-2.021051802298304" StartZ="3.552713678800501e-15" EndX="2.222468522453501" EndY="1.189832022056897" EndZ="3.552713678800501e-15"/>
+          <LineSegment StartX="-3.775090878030746" StartY="-2.02105180229829" StartZ="3.552713678800501e-15" EndX="2.222468522453493" EndY="1.189832022056888" EndZ="3.552713678800501e-15"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomEllipse" id="6" ref="Import024.;Edge178;:H2c7,E" migrated="1">
@@ -78,7 +78,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="6" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Import024.;Edge178;:H2c7,E" Flags="0"/>
           </GeoExtensions>
-          <Ellipse CenterX="-13.17664887259378" CenterY="-14.34982716517751" CenterZ="-3.552713678800501e-15" NormalX="0" NormalY="0" NormalZ="1" MajorRadius="4.25" MinorRadius="3.038034257688226" AngleXU="3.141592653589792" />
+          <Ellipse CenterX="-11.47338726512037" CenterY="-15.09917387187086" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" MajorRadius="4.25" MinorRadius="3.038034257688224" AngleXU="3.141592653589792" />
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="8" ref="DatumLine002." migrated="1">
@@ -86,7 +86,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="8" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="DatumLine002." Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="-12.53792576980551" StartY="6972.741245849331" StartZ="-6.004086117172847e-13" EndX="-12.5379257697774" EndY="-7013.191656531611" EndZ="7.638334409421077e-13"/>
+          <LineSegment StartX="-12.53792576980488" StartY="6972.741245849338" StartZ="1.222133505507372e-12" EndX="-12.53792576977759" EndY="-7013.191656531617" EndZ="-1.506350599811412e-12"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
@@ -160,7 +160,7 @@ TShapes 0
       <Bool value="false"/>
     </Property>
     <Property name="Placement" type="App::PropertyPlacement" status="8388612">
-      <PropertyPlacement Px="17.39815522992109" Py="4.014438635297818" Pz="-9.072870387115206" Q0="0.8083388947401868" Q1="0.4516680487618729" Q2="0.184187154610609" Q3="0.329635096818138" A="2.469758566648819" Ox="0.8561928696242029" Oy="0.4784069717581619" Oz="0.1950911053273779"/>
+      <PropertyPlacement Px="17.39815522992109" Py="4.014438635297809" Pz="-9.072870387115209" Q0="0.8083388947401868" Q1="0.4516680487618724" Q2="0.184187154610609" Q3="0.3296350968181386" A="2.469758566648818" Ox="0.856192869624203" Oy="0.4784069717581615" Oz="0.195091105327378"/>
     </Property>
     <Property name="Shape" type="Part::PropertyPartShape">
       <Part ElementMap="0.15.70200.4" brep="1">
@@ -169,12 +169,12 @@ TShapes 0
 CASCADE Topology V1, (c) Matra-Datavision
 Locations 1
 1
-0.52414213160818 0.608772601565807 0.595542563933118 17.3981552299211 
-0.851630803736709 -0.374673353346678 -0.366530834199146 4.01443863529782 
-5.55111512312579e-17 0.699296645119047 -0.714831590044288 -9.07287038711521 
+0.524142131608181 0.608772601565806 0.595542563933118 17.3981552299211 
+0.851630803736709 -0.374673353346678 -0.366530834199147 4.01443863529781 
+-1.81792732050505e-17 0.699296645119047 -0.714831590044288 -9.07287038711521 
 Curve2ds 0
 Curves 1
-2 -7.158055703442689 -3.8321730119358 0 0 0 1 1 0 -0 -0 1 0 11.31206142751242
+2 -7.158055703442689 -3.8321730119358 0 0 0 1 1 0 0 0 1 0 11.31206142751242
 Polygon3D 0
 PolygonOnTriangulations 0
 Surfaces 0

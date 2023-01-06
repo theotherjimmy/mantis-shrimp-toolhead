@@ -4,7 +4,7 @@
 -->
 <Document SchemaVersion="4" ProgramVersion="0.20RUnknown" FileVersion="2" Uid="7bd23360-14a2-4685-acd7-20314aa1dc56" StringHasher="1">
   <StringHasher saveall="0" threshold="0" count="0" new="1"/>
-  <StringHasher2  count="16564">
+  <StringHasher2  count="16569">
 <![CDATA[
 -1.0 0:;SKT;:H2b1,E
 -1.c.1 g7
@@ -14914,13 +14914,11 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
 -1.2c.0.1
 -1.2c.0.1
 -1.c.-2 Edge17
--1.c.0 Edge18
--1.c.0 Edge19
+-2.c.0 Edge19
 -1.c.0 Edge20
 -1.2c.e.15
 -1.2c.0.3
--1.c.2 Vertex17
--1.2c.-2.12
+-2.2c.0.3
 -1.c.-19 g34v2
 -1.c.0 g33v1
 -1.c.0 g44v2
@@ -14948,17 +14946,13 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
 -1.2c.-1bb.-b
 -1.2c.0.1
 -1.2c.0.-254e
--1.2c.1b3.2560
--1.c.-1cc g5v2
+-2.c.-19 g5v2
 -1.2c.1ca.1e
--1.2c.8.-6
--1.2c.0.2
+-2.2c.8.-4
 -1.2c.0.-3.26f4.4661.4054.2561
 -1.2c.0.2.d4.1d61.1af5
 -1.2c.2.-3.-a0.113.4
--1.c.64 Vertex17
--1.2c.0.9
--1.2c.0.-2e
+-3.2c.64.-a
 -1.2c.0.2f
 -1.2c.0.1
 -1.2c.0.-a
@@ -14983,14 +14977,11 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
 -1.2c.0.1d
 -1.2c.0.2
 -1.2c.0.-3
--1.2c.95.-6
--1.8.-3a9.-2550.8d4 Edge9 ;:M2#169f8;FUS;:H-499:e,E
+-2.8.-314.-2556.8d4 Edge9 ;:M2#169f8;FUS;:H-499:e,E
 -1.c.3a9 Edge17
 -1.8.-3a9.2593.8d5 Edge9 ;:M#169f9;FUS;:H-499:d,E
 -1.2c.3a9.2551
--1.c.0 Edge18
--1.2c.0.26
--1.28.2492 ;:M#14d4c;FUS;:H-499:d,E
+-3.28.2492 ;:M#14d4c;FUS;:H-499:d,E
 -1.28.-2577.3eaf.2821.281f.2719.46f2.2586 ;:M3#14d4d;FUS;:H-499:e,E
 -1.2c.e5.3e83
 -1.2c.0.-2a
@@ -15025,8 +15016,7 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
 -1.2c.-2388.25d9
 -1.2c.0.2
 -1.2c.0.-f
--1.2c.f4.-3
--1.2c.0.-4
+-2.2c.f4.-7
 -1.2c.0.1
 -1.2c.0.5
 -1.2c.0.-2726
@@ -15042,9 +15032,7 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
 -1.2c.3.945.945.945.1
 -1.0 0:(#169ff;:G;PSM;:H-4ba:7,E|#169ff;:H-4ba,E)
 -1.2c.5.946.946.946.1
--1.2c.-2334.8b1
--1.2c.0.1
--1.2c.0.1
+-3.2c.-2334.8b3
 -1.2c.0.1
 -1.2c.0.1
 -1.2c.0.1
@@ -15083,13 +15071,11 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
 -1.2c.0.-1
 -1.2c.0.-1
 -1.2c.2350.-7e1
--1.2c.-22b5.8ca
+-2.2c.-22b5.8cb
 -1.2c.0.1
 -1.2c.0.1
 -1.2c.0.1
--1.2c.0.1
--1.2c.0.1
--1.2c.0.2
+-2.2c.0.3
 -1.2c.0.1
 -1.2c.0.1
 -1.2c.0.1
@@ -15163,19 +15149,10 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
 -1.c.0 g14v1
 -1.c.0 g15v1
 -1.c.0 g16v1
--1.2c.-19b1.ee
--1.c.100.-882 #172f5
--1.0 0:(#173c0;K-3;:H4ba:4,F)
--1.0 0:(#173c0;K-5;:H4ba:4,F)
--1.0 0:(#173c0;K-4;:H4ba:4,F)
--1.8.953 #17345 ;:L#17344;PSM;:H-4ba:d,F
+-6.8.19 #17345 ;:L#17344;PSM;:H-4ba:d,F
 -1.0 0:(#173c4;K-1;:H4ba:4,F)
 -1.2c.36.9c7
--1.0 0:(#173bf;K-1;:H4ba:4,E)
--1.0 0:(#173c0;K-1;:H4ba:4,F)
--1.0 0:(#173c0;K-2;:H4ba:4,F)
--1.0 0:(#173bf;K-2;:H4ba:4,E)
--1e.c.8d1 g70v1
+-22.c.-879 g70v1
 -1.c.0 g51v1
 -1.c.0 g69v1
 -1.c.0 g67v2
@@ -16570,6 +16547,34 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
 -1.2c.0.-4
 -1.2c.0.2
 -1.2c.0.1
+-95.c.-2db5 g5
+-1.c.2 g14v1
+-1.2c.d.2
+-1.c.-d g5v1
+-1.2c.1cc.746
+-1.2c.-1b3.743
+-1.2c.1bb.1
+-1.2c.64.-1
+-1.2c.0.2
+-1.2c.0.1
+-1.2c.95.1
+-1.2c.0.-5
+-1.2c.0.6
+-1.2c.f4.-4
+-1.2c.fd.5
+-1.2c.0.1
+-1.2c.0.1
+-1.2c.9b.1
+-1.2c.0.1
+-1.2c.0.1
+-1.c.100.-fac #179fc
+-1.0 0:(#17a03;K-3;:H4ba:4,F)
+-1.0 0:(#17a03;K-5;:H4ba:4,F)
+-1.0 0:(#17a03;K-4;:H4ba:4,F)
+-1.0 0:(#17a02;K-1;:H4ba:4,E)
+-1.0 0:(#17a03;K-1;:H4ba:4,F)
+-1.0 0:(#17a03;K-2;:H4ba:4,F)
+-1.0 0:(#17a02;K-2;:H4ba:4,E)
 ]]>
   </StringHasher2>
   <Properties Count="19" TransientCount="3">
@@ -16601,7 +16606,7 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
       <String value=""/>
     </Property>
     <Property name="LastModifiedDate" type="App::PropertyString" status="16777217">
-      <String value="2022-12-29T13:50:44Z"/>
+      <String value="2023-01-03T18:22:20Z"/>
     </Property>
     <Property name="License" type="App::PropertyString" status="1">
       <String value="All rights reserved"/>
@@ -16638,41 +16643,41 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
   </Properties>
   <Objects Count="285" Dependencies="1">
     <ObjectDeps Name="Body" Count="27">
-      <Dep Name="Origin017"/>
-      <Dep Name="Import"/>
-      <Dep Name="Sketch"/>
-      <Dep Name="Pad"/>
-      <Dep Name="Import002"/>
-      <Dep Name="Import003"/>
-      <Dep Name="Sketch003"/>
-      <Dep Name="Import004"/>
-      <Dep Name="Pad002"/>
-      <Dep Name="Sketch004"/>
-      <Dep Name="Pocket001"/>
-      <Dep Name="Import008"/>
-      <Dep Name="Import015"/>
-      <Dep Name="Sketch030"/>
-      <Dep Name="Pad009"/>
-      <Dep Name="Import016"/>
-      <Dep Name="Sketch053"/>
-      <Dep Name="Pad016"/>
       <Dep Name="Sketch054"/>
-      <Dep Name="Pocket021"/>
+      <Dep Name="Sketch004"/>
       <Dep Name="Sketch055"/>
-      <Dep Name="Pocket022"/>
+      <Dep Name="Sketch003"/>
+      <Dep Name="Origin017"/>
+      <Dep Name="Import004"/>
+      <Dep Name="Pocket021"/>
+      <Dep Name="Sketch053"/>
+      <Dep Name="Import029"/>
+      <Dep Name="Pad"/>
+      <Dep Name="Import003"/>
+      <Dep Name="Pocket001"/>
+      <Dep Name="Import002"/>
       <Dep Name="Sketch056"/>
+      <Dep Name="Pad002"/>
+      <Dep Name="Import008"/>
+      <Dep Name="Chamfer"/>
+      <Dep Name="Sketch030"/>
+      <Dep Name="Import015"/>
+      <Dep Name="Pocket022"/>
+      <Dep Name="Import016"/>
+      <Dep Name="Pad009"/>
+      <Dep Name="Import"/>
+      <Dep Name="Pad016"/>
       <Dep Name="Pocket023"/>
       <Dep Name="Import027"/>
-      <Dep Name="Import029"/>
-      <Dep Name="Chamfer"/>
+      <Dep Name="Sketch"/>
     </ObjectDeps>
     <ObjectDeps Name="Origin017" Count="6">
-      <Dep Name="X_Axis"/>
       <Dep Name="Y_Axis"/>
       <Dep Name="Z_Axis"/>
       <Dep Name="XY_Plane"/>
-      <Dep Name="XZ_Plane"/>
+      <Dep Name="X_Axis"/>
       <Dep Name="YZ_Plane"/>
+      <Dep Name="XZ_Plane"/>
     </ObjectDeps>
     <ObjectDeps Name="X_Axis" Count="0"/>
     <ObjectDeps Name="Y_Axis" Count="0"/>
@@ -16681,15 +16686,15 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
     <ObjectDeps Name="XZ_Plane" Count="0"/>
     <ObjectDeps Name="YZ_Plane" Count="0"/>
     <ObjectDeps Name="Import" Count="2">
-      <Dep Name="Body"/>
       <Dep Name="Part016"/>
+      <Dep Name="Body"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch" Count="5">
-      <Dep Name="Import"/>
+      <Dep Name="Import029"/>
       <Dep Name="Import002"/>
       <Dep Name="Import008"/>
       <Dep Name="Import015"/>
-      <Dep Name="Import029"/>
+      <Dep Name="Import"/>
     </ObjectDeps>
     <ObjectDeps Name="Pad" Count="2">
       <Dep Name="Body"/>
@@ -16705,16 +16710,16 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
     <ObjectDeps Name="Solid057" Count="0"/>
     <ObjectDeps Name="Solid058" Count="0"/>
     <ObjectDeps Name="Part017" Count="10">
-      <Dep Name="Solid050"/>
+      <Dep Name="Solid053"/>
       <Dep Name="Solid051"/>
       <Dep Name="Solid052"/>
-      <Dep Name="Solid053"/>
-      <Dep Name="Solid054"/>
-      <Dep Name="Solid055"/>
-      <Dep Name="Solid056"/>
-      <Dep Name="Solid057"/>
       <Dep Name="Solid058"/>
+      <Dep Name="Solid057"/>
+      <Dep Name="Solid050"/>
+      <Dep Name="Solid055"/>
       <Dep Name="Origin018"/>
+      <Dep Name="Solid054"/>
+      <Dep Name="Solid056"/>
     </ObjectDeps>
     <ObjectDeps Name="Origin018" Count="0"/>
     <ObjectDeps Name="Solid059" Count="0"/>
@@ -16730,62 +16735,62 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
     <ObjectDeps Name="Solid066" Count="0"/>
     <ObjectDeps Name="Solid067" Count="0"/>
     <ObjectDeps Name="Part018" Count="11">
-      <Dep Name="Solid059"/>
-      <Dep Name="Link044"/>
-      <Dep Name="Solid060"/>
       <Dep Name="Solid061"/>
-      <Dep Name="Solid062"/>
-      <Dep Name="Solid063"/>
       <Dep Name="Solid064"/>
-      <Dep Name="Solid065"/>
       <Dep Name="Solid066"/>
-      <Dep Name="Solid067"/>
       <Dep Name="Origin019"/>
+      <Dep Name="Link044"/>
+      <Dep Name="Solid059"/>
+      <Dep Name="Solid067"/>
+      <Dep Name="Solid062"/>
+      <Dep Name="Solid065"/>
+      <Dep Name="Solid060"/>
+      <Dep Name="Solid063"/>
     </ObjectDeps>
     <ObjectDeps Name="Origin019" Count="0"/>
     <ObjectDeps Name="Part019" Count="3">
-      <Dep Name="Part017"/>
-      <Dep Name="Part018"/>
       <Dep Name="Origin020"/>
+      <Dep Name="Part018"/>
+      <Dep Name="Part017"/>
     </ObjectDeps>
     <ObjectDeps Name="Origin020" Count="6">
-      <Dep Name="X_Axis005"/>
       <Dep Name="Y_Axis005"/>
+      <Dep Name="YZ_Plane005"/>
       <Dep Name="Z_Axis005"/>
       <Dep Name="XY_Plane005"/>
+      <Dep Name="X_Axis005"/>
       <Dep Name="XZ_Plane005"/>
-      <Dep Name="YZ_Plane005"/>
     </ObjectDeps>
     <ObjectDeps Name="Compound015" Count="0"/>
     <ObjectDeps Name="Import002" Count="2">
-      <Dep Name="Body"/>
       <Dep Name="Part019"/>
+      <Dep Name="Body"/>
     </ObjectDeps>
     <ObjectDeps Name="Import003" Count="2">
       <Dep Name="Body"/>
       <Dep Name="Part034"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch003" Count="3">
+      <Dep Name="Import004"/>
       <Dep Name="Pad"/>
       <Dep Name="Import003"/>
-      <Dep Name="Import004"/>
     </ObjectDeps>
     <ObjectDeps Name="Import004" Count="2">
       <Dep Name="Body"/>
       <Dep Name="Part034"/>
     </ObjectDeps>
     <ObjectDeps Name="Pad002" Count="3">
+      <Dep Name="Sketch003"/>
       <Dep Name="Body"/>
       <Dep Name="Pad"/>
-      <Dep Name="Sketch003"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch004" Count="1">
       <Dep Name="Pad002"/>
     </ObjectDeps>
     <ObjectDeps Name="Pocket001" Count="3">
+      <Dep Name="Sketch004"/>
       <Dep Name="Body"/>
       <Dep Name="Pad002"/>
-      <Dep Name="Sketch004"/>
     </ObjectDeps>
     <ObjectDeps Name="Import008" Count="2">
       <Dep Name="Body"/>
@@ -16793,23 +16798,23 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
     </ObjectDeps>
     <ObjectDeps Name="Solid095" Count="0"/>
     <ObjectDeps Name="Body004" Count="9">
-      <Dep Name="Solid095"/>
-      <Dep Name="Origin039"/>
       <Dep Name="BaseFeature"/>
-      <Dep Name="Sketch027"/>
-      <Dep Name="Pocket015"/>
       <Dep Name="Sketch028"/>
-      <Dep Name="Pad008"/>
       <Dep Name="Sketch029"/>
       <Dep Name="Pocket016"/>
+      <Dep Name="Pad008"/>
+      <Dep Name="Sketch027"/>
+      <Dep Name="Solid095"/>
+      <Dep Name="Origin039"/>
+      <Dep Name="Pocket015"/>
     </ObjectDeps>
     <ObjectDeps Name="Origin039" Count="6">
-      <Dep Name="X_Axis004"/>
       <Dep Name="Y_Axis004"/>
-      <Dep Name="Z_Axis004"/>
       <Dep Name="XY_Plane004"/>
-      <Dep Name="XZ_Plane004"/>
+      <Dep Name="X_Axis004"/>
+      <Dep Name="Z_Axis004"/>
       <Dep Name="YZ_Plane004"/>
+      <Dep Name="XZ_Plane004"/>
     </ObjectDeps>
     <ObjectDeps Name="X_Axis004" Count="0"/>
     <ObjectDeps Name="Y_Axis004" Count="0"/>
@@ -16818,24 +16823,24 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
     <ObjectDeps Name="XZ_Plane004" Count="0"/>
     <ObjectDeps Name="YZ_Plane004" Count="0"/>
     <ObjectDeps Name="BaseFeature" Count="2">
-      <Dep Name="Solid095"/>
       <Dep Name="Body004"/>
+      <Dep Name="Solid095"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch027" Count="1">
       <Dep Name="BaseFeature"/>
     </ObjectDeps>
     <ObjectDeps Name="Pocket015" Count="3">
-      <Dep Name="Body004"/>
       <Dep Name="BaseFeature"/>
+      <Dep Name="Body004"/>
       <Dep Name="Sketch027"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch028" Count="1">
       <Dep Name="Pocket015"/>
     </ObjectDeps>
     <ObjectDeps Name="Pad008" Count="3">
+      <Dep Name="Sketch028"/>
       <Dep Name="Body004"/>
       <Dep Name="Pocket015"/>
-      <Dep Name="Sketch028"/>
     </ObjectDeps>
     <ObjectDeps Name="Import015" Count="2">
       <Dep Name="Body"/>
@@ -16846,8 +16851,8 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
     </ObjectDeps>
     <ObjectDeps Name="Pocket016" Count="3">
       <Dep Name="Body004"/>
-      <Dep Name="Pad008"/>
       <Dep Name="Sketch029"/>
+      <Dep Name="Pad008"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch030" Count="2">
       <Dep Name="Import003"/>
@@ -16855,9 +16860,9 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
     </ObjectDeps>
     <ObjectDeps Name="Pad009" Count="4">
       <Dep Name="Body"/>
+      <Dep Name="Chamfer"/>
       <Dep Name="Sketch030"/>
       <Dep Name="Import016"/>
-      <Dep Name="Chamfer"/>
     </ObjectDeps>
     <ObjectDeps Name="Import016" Count="2">
       <Dep Name="Body"/>
@@ -16903,12 +16908,12 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
       <Dep Name="YZ_Plane001"/>
     </ObjectDeps>
     <ObjectDeps Name="Body001" Count="6">
+      <Dep Name="Pocket"/>
+      <Dep Name="Origin036"/>
       <Dep Name="Import001"/>
       <Dep Name="Sketch001"/>
       <Dep Name="Pad001"/>
       <Dep Name="Sketch002"/>
-      <Dep Name="Pocket"/>
-      <Dep Name="Origin036"/>
     </ObjectDeps>
     <ObjectDeps Name="Compound" Count="0"/>
     <ObjectDeps Name="Compound001" Count="0"/>
@@ -16942,28 +16947,28 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
     </ObjectDeps>
     <ObjectDeps Name="Origin" Count="0"/>
     <ObjectDeps Name="Part" Count="15">
-      <Dep Name="Solid001"/>
-      <Dep Name="Link"/>
+      <Dep Name="Link002"/>
+      <Dep Name="Solid005"/>
+      <Dep Name="Link006"/>
       <Dep Name="Solid002"/>
+      <Dep Name="Solid001"/>
+      <Dep Name="Origin"/>
+      <Dep Name="Link005"/>
       <Dep Name="Link001"/>
       <Dep Name="Solid003"/>
-      <Dep Name="Solid004"/>
-      <Dep Name="Link002"/>
-      <Dep Name="Link003"/>
-      <Dep Name="Link004"/>
-      <Dep Name="Solid005"/>
-      <Dep Name="Solid006"/>
-      <Dep Name="Link005"/>
       <Dep Name="Solid007"/>
-      <Dep Name="Link006"/>
-      <Dep Name="Origin"/>
+      <Dep Name="Solid004"/>
+      <Dep Name="Link004"/>
+      <Dep Name="Solid006"/>
+      <Dep Name="Link003"/>
+      <Dep Name="Link"/>
     </ObjectDeps>
     <ObjectDeps Name="Origin001" Count="0"/>
     <ObjectDeps Name="Part001" Count="4">
-      <Dep Name="Compound"/>
-      <Dep Name="Compound001"/>
-      <Dep Name="Part"/>
       <Dep Name="Origin001"/>
+      <Dep Name="Compound001"/>
+      <Dep Name="Compound"/>
+      <Dep Name="Part"/>
     </ObjectDeps>
     <ObjectDeps Name="Compound002" Count="0"/>
     <ObjectDeps Name="Link007" Count="1">
@@ -17007,40 +17012,40 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
     </ObjectDeps>
     <ObjectDeps Name="Origin002" Count="0"/>
     <ObjectDeps Name="Part002" Count="13">
-      <Dep Name="Link008"/>
       <Dep Name="Link009"/>
-      <Dep Name="Link010"/>
+      <Dep Name="Link018"/>
+      <Dep Name="Link016"/>
+      <Dep Name="Link008"/>
       <Dep Name="Link011"/>
       <Dep Name="Link012"/>
-      <Dep Name="Link013"/>
       <Dep Name="Link014"/>
-      <Dep Name="Link015"/>
-      <Dep Name="Link016"/>
-      <Dep Name="Link017"/>
-      <Dep Name="Link018"/>
+      <Dep Name="Link013"/>
       <Dep Name="Link019"/>
+      <Dep Name="Link015"/>
+      <Dep Name="Link017"/>
       <Dep Name="Origin002"/>
+      <Dep Name="Link010"/>
     </ObjectDeps>
     <ObjectDeps Name="Origin003" Count="0"/>
     <ObjectDeps Name="Part003" Count="4">
-      <Dep Name="Compound002"/>
       <Dep Name="Link007"/>
       <Dep Name="Part002"/>
+      <Dep Name="Compound002"/>
       <Dep Name="Origin003"/>
     </ObjectDeps>
     <ObjectDeps Name="Origin016" Count="6">
-      <Dep Name="X_Axis005002"/>
       <Dep Name="Y_Axis005002"/>
-      <Dep Name="Z_Axis005002"/>
-      <Dep Name="XY_Plane005002"/>
       <Dep Name="XZ_Plane005002"/>
+      <Dep Name="X_Axis005002"/>
       <Dep Name="YZ_Plane005002"/>
+      <Dep Name="XY_Plane005002"/>
+      <Dep Name="Z_Axis005002"/>
     </ObjectDeps>
     <ObjectDeps Name="Part016" Count="4">
-      <Dep Name="Part001"/>
-      <Dep Name="Part003"/>
-      <Dep Name="Origin016"/>
       <Dep Name="Part005"/>
+      <Dep Name="Part001"/>
+      <Dep Name="Origin016"/>
+      <Dep Name="Part003"/>
     </ObjectDeps>
     <ObjectDeps Name="Compound011" Count="0"/>
     <ObjectDeps Name="Solid068" Count="0"/>
@@ -17066,22 +17071,22 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
     <ObjectDeps Name="Origin023" Count="0"/>
     <ObjectDeps Name="Part022" Count="7">
       <Dep Name="Solid070"/>
-      <Dep Name="Compound012"/>
       <Dep Name="Compound013"/>
+      <Dep Name="Origin023"/>
       <Dep Name="Link045"/>
       <Dep Name="Solid071"/>
+      <Dep Name="Compound012"/>
       <Dep Name="Solid072"/>
-      <Dep Name="Origin023"/>
     </ObjectDeps>
     <ObjectDeps Name="Solid073" Count="0"/>
     <ObjectDeps Name="Solid074" Count="0"/>
     <ObjectDeps Name="Solid075" Count="0"/>
     <ObjectDeps Name="Origin024" Count="0"/>
     <ObjectDeps Name="Part023" Count="4">
+      <Dep Name="Origin024"/>
       <Dep Name="Solid073"/>
       <Dep Name="Solid074"/>
       <Dep Name="Solid075"/>
-      <Dep Name="Origin024"/>
     </ObjectDeps>
     <ObjectDeps Name="Solid076" Count="0"/>
     <ObjectDeps Name="Solid077" Count="0"/>
@@ -17089,11 +17094,11 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
     <ObjectDeps Name="Solid079" Count="0"/>
     <ObjectDeps Name="Origin025" Count="0"/>
     <ObjectDeps Name="Part024" Count="5">
-      <Dep Name="Solid076"/>
+      <Dep Name="Origin025"/>
       <Dep Name="Solid077"/>
+      <Dep Name="Solid076"/>
       <Dep Name="Solid078"/>
       <Dep Name="Solid079"/>
-      <Dep Name="Origin025"/>
     </ObjectDeps>
     <ObjectDeps Name="Solid080" Count="0"/>
     <ObjectDeps Name="Solid081" Count="0"/>
@@ -17106,33 +17111,33 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
     <ObjectDeps Name="Solid085" Count="0"/>
     <ObjectDeps Name="Origin026" Count="0"/>
     <ObjectDeps Name="Part025" Count="8">
-      <Dep Name="Solid080"/>
-      <Dep Name="Solid081"/>
       <Dep Name="Solid082"/>
-      <Dep Name="Solid083"/>
-      <Dep Name="Solid084"/>
       <Dep Name="Link046"/>
-      <Dep Name="Solid085"/>
+      <Dep Name="Solid081"/>
       <Dep Name="Origin026"/>
+      <Dep Name="Solid083"/>
+      <Dep Name="Solid085"/>
+      <Dep Name="Solid080"/>
+      <Dep Name="Solid084"/>
     </ObjectDeps>
     <ObjectDeps Name="Compound014" Count="0"/>
     <ObjectDeps Name="Solid086" Count="0"/>
     <ObjectDeps Name="Origin027" Count="0"/>
     <ObjectDeps Name="Part026" Count="8">
-      <Dep Name="Part021"/>
-      <Dep Name="Part022"/>
       <Dep Name="Part023"/>
+      <Dep Name="Part022"/>
+      <Dep Name="Compound014"/>
+      <Dep Name="Origin027"/>
+      <Dep Name="Solid086"/>
       <Dep Name="Part024"/>
       <Dep Name="Part025"/>
-      <Dep Name="Compound014"/>
-      <Dep Name="Solid086"/>
-      <Dep Name="Origin027"/>
+      <Dep Name="Part021"/>
     </ObjectDeps>
     <ObjectDeps Name="Origin028" Count="0"/>
     <ObjectDeps Name="Part027" Count="3">
-      <Dep Name="Part020"/>
       <Dep Name="Part026"/>
       <Dep Name="Origin028"/>
+      <Dep Name="Part020"/>
     </ObjectDeps>
     <ObjectDeps Name="Solid091" Count="0"/>
     <ObjectDeps Name="Solid092" Count="0"/>
@@ -17140,10 +17145,10 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
     <ObjectDeps Name="Solid094" Count="0"/>
     <ObjectDeps Name="Origin030" Count="0"/>
     <ObjectDeps Name="Part029" Count="5">
-      <Dep Name="Solid091"/>
+      <Dep Name="Solid094"/>
       <Dep Name="Solid092"/>
       <Dep Name="Solid093"/>
-      <Dep Name="Solid094"/>
+      <Dep Name="Solid091"/>
       <Dep Name="Origin030"/>
     </ObjectDeps>
     <ObjectDeps Name="Origin031" Count="0"/>
@@ -17159,23 +17164,23 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
     <ObjectDeps Name="YZ_Plane005001" Count="0"/>
     <ObjectDeps Name="Origin035" Count="6">
       <Dep Name="X_Axis005001"/>
-      <Dep Name="XY_Plane005001"/>
       <Dep Name="Y_Axis005001"/>
       <Dep Name="Z_Axis005001"/>
-      <Dep Name="XZ_Plane005001"/>
       <Dep Name="YZ_Plane005001"/>
+      <Dep Name="XY_Plane005001"/>
+      <Dep Name="XZ_Plane005001"/>
     </ObjectDeps>
     <ObjectDeps Name="Part034" Count="4">
-      <Dep Name="Compound011"/>
       <Dep Name="Part027"/>
-      <Dep Name="Part030"/>
+      <Dep Name="Compound011"/>
       <Dep Name="Origin035"/>
+      <Dep Name="Part030"/>
     </ObjectDeps>
     <ObjectDeps Name="Solid008" Count="0"/>
     <ObjectDeps Name="Origin005" Count="0"/>
     <ObjectDeps Name="Part005" Count="2">
-      <Dep Name="Solid008"/>
       <Dep Name="Origin005"/>
+      <Dep Name="Solid008"/>
     </ObjectDeps>
     <ObjectDeps Name="X_Axis005002" Count="0"/>
     <ObjectDeps Name="Y_Axis005002" Count="0"/>
@@ -17184,24 +17189,24 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
     <ObjectDeps Name="XZ_Plane005002" Count="0"/>
     <ObjectDeps Name="YZ_Plane005002" Count="0"/>
     <ObjectDeps Name="Body005" Count="10">
-      <Dep Name="Origin040"/>
-      <Dep Name="Sketch034"/>
-      <Dep Name="Import017"/>
-      <Dep Name="Import018"/>
       <Dep Name="Import019"/>
-      <Dep Name="Import020"/>
       <Dep Name="Import021"/>
+      <Dep Name="Import018"/>
+      <Dep Name="Sketch034"/>
+      <Dep Name="Origin040"/>
+      <Dep Name="Import020"/>
+      <Dep Name="Sketch035"/>
       <Dep Name="Import022"/>
       <Dep Name="Pad010"/>
-      <Dep Name="Sketch035"/>
+      <Dep Name="Import017"/>
     </ObjectDeps>
     <ObjectDeps Name="Origin040" Count="6">
       <Dep Name="X_Axis005003"/>
-      <Dep Name="Y_Axis005003"/>
       <Dep Name="Z_Axis005003"/>
-      <Dep Name="XY_Plane005003"/>
-      <Dep Name="XZ_Plane005003"/>
       <Dep Name="YZ_Plane005003"/>
+      <Dep Name="XY_Plane005003"/>
+      <Dep Name="Y_Axis005003"/>
+      <Dep Name="XZ_Plane005003"/>
     </ObjectDeps>
     <ObjectDeps Name="X_Axis005003" Count="0"/>
     <ObjectDeps Name="Y_Axis005003" Count="0"/>
@@ -17210,13 +17215,13 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
     <ObjectDeps Name="XZ_Plane005003" Count="0"/>
     <ObjectDeps Name="YZ_Plane005003" Count="0"/>
     <ObjectDeps Name="Sketch034" Count="7">
-      <Dep Name="XY_Plane004"/>
-      <Dep Name="Import017"/>
-      <Dep Name="Import018"/>
       <Dep Name="Import019"/>
-      <Dep Name="Import020"/>
       <Dep Name="Import021"/>
+      <Dep Name="Import018"/>
+      <Dep Name="XY_Plane004"/>
+      <Dep Name="Import020"/>
       <Dep Name="Import022"/>
+      <Dep Name="Import017"/>
     </ObjectDeps>
     <ObjectDeps Name="Import017" Count="2">
       <Dep Name="Part016"/>
@@ -17227,8 +17232,8 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
       <Dep Name="Body005"/>
     </ObjectDeps>
     <ObjectDeps Name="Import019" Count="2">
-      <Dep Name="Part019"/>
       <Dep Name="Body005"/>
+      <Dep Name="Part019"/>
     </ObjectDeps>
     <ObjectDeps Name="Import020" Count="2">
       <Dep Name="Part016"/>
@@ -17239,8 +17244,8 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
       <Dep Name="Body005"/>
     </ObjectDeps>
     <ObjectDeps Name="Import022" Count="2">
-      <Dep Name="Part019"/>
       <Dep Name="Body005"/>
+      <Dep Name="Part019"/>
     </ObjectDeps>
     <ObjectDeps Name="Pad010" Count="2">
       <Dep Name="Body005"/>
@@ -17250,44 +17255,44 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
       <Dep Name="Import019"/>
     </ObjectDeps>
     <ObjectDeps Name="Body006" Count="30">
-      <Dep Name="Sketch059"/>
-      <Dep Name="Origin041"/>
-      <Dep Name="Import023"/>
-      <Dep Name="Sketch036"/>
-      <Dep Name="Pad011"/>
-      <Dep Name="Import024"/>
-      <Dep Name="Import025"/>
-      <Dep Name="DatumLine"/>
-      <Dep Name="Sketch040"/>
-      <Dep Name="Sketch041"/>
-      <Dep Name="Sketch042"/>
       <Dep Name="Pipe"/>
       <Dep Name="Sketch043"/>
+      <Dep Name="Pocket024"/>
+      <Dep Name="Sketch036"/>
+      <Dep Name="Pipe002"/>
+      <Dep Name="Sketch059"/>
+      <Dep Name="Pad012"/>
+      <Dep Name="Pipe003"/>
+      <Dep Name="Sketch046"/>
+      <Dep Name="Sketch051"/>
+      <Dep Name="Pad011"/>
+      <Dep Name="Sketch050"/>
+      <Dep Name="Sketch047"/>
+      <Dep Name="Sketch040"/>
+      <Dep Name="Origin041"/>
+      <Dep Name="Pipe001"/>
+      <Dep Name="Sketch049"/>
+      <Dep Name="Mirrored"/>
+      <Dep Name="Sketch041"/>
+      <Dep Name="DatumLine"/>
+      <Dep Name="Import023"/>
+      <Dep Name="Sketch048"/>
       <Dep Name="Sketch044"/>
       <Dep Name="Sketch045"/>
-      <Dep Name="Pipe001"/>
-      <Dep Name="Sketch046"/>
-      <Dep Name="Sketch047"/>
-      <Dep Name="Sketch048"/>
-      <Dep Name="Pipe002"/>
-      <Dep Name="Sketch049"/>
-      <Dep Name="Sketch050"/>
-      <Dep Name="Pipe003"/>
-      <Dep Name="DatumLine002"/>
-      <Dep Name="Mirrored"/>
-      <Dep Name="Sketch051"/>
-      <Dep Name="Pad012"/>
-      <Dep Name="Pocket025"/>
       <Dep Name="Sketch058"/>
-      <Dep Name="Pocket024"/>
+      <Dep Name="Pocket025"/>
+      <Dep Name="DatumLine002"/>
+      <Dep Name="Sketch042"/>
+      <Dep Name="Import024"/>
+      <Dep Name="Import025"/>
     </ObjectDeps>
     <ObjectDeps Name="Origin041" Count="6">
-      <Dep Name="X_Axis005004"/>
-      <Dep Name="Y_Axis005004"/>
       <Dep Name="Z_Axis005004"/>
+      <Dep Name="Y_Axis005004"/>
       <Dep Name="XY_Plane005004"/>
-      <Dep Name="XZ_Plane005004"/>
       <Dep Name="YZ_Plane005004"/>
+      <Dep Name="XZ_Plane005004"/>
+      <Dep Name="X_Axis005004"/>
     </ObjectDeps>
     <ObjectDeps Name="X_Axis005004" Count="0"/>
     <ObjectDeps Name="Y_Axis005004" Count="0"/>
@@ -17303,8 +17308,8 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
       <Dep Name="Import023"/>
     </ObjectDeps>
     <ObjectDeps Name="Pad011" Count="2">
-      <Dep Name="Body006"/>
       <Dep Name="Sketch036"/>
+      <Dep Name="Body006"/>
     </ObjectDeps>
     <ObjectDeps Name="Import024" Count="2">
       <Dep Name="Part019"/>
@@ -17327,8 +17332,8 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
       <Dep Name="Sketch041"/>
     </ObjectDeps>
     <ObjectDeps Name="Pipe" Count="4">
-      <Dep Name="Body006"/>
       <Dep Name="Pad011"/>
+      <Dep Name="Body006"/>
       <Dep Name="Sketch041"/>
       <Dep Name="Sketch042"/>
     </ObjectDeps>
@@ -17343,8 +17348,8 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
       <Dep Name="Sketch044"/>
     </ObjectDeps>
     <ObjectDeps Name="Pipe001" Count="4">
-      <Dep Name="Body006"/>
       <Dep Name="Pipe"/>
+      <Dep Name="Body006"/>
       <Dep Name="Sketch044"/>
       <Dep Name="Sketch045"/>
     </ObjectDeps>
@@ -17358,44 +17363,44 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
       <Dep Name="Sketch047"/>
     </ObjectDeps>
     <ObjectDeps Name="Pipe002" Count="4">
-      <Dep Name="Body006"/>
-      <Dep Name="Pipe001"/>
       <Dep Name="Sketch047"/>
+      <Dep Name="Pipe001"/>
+      <Dep Name="Body006"/>
       <Dep Name="Sketch048"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch049" Count="1">
       <Dep Name="Pipe002"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch050" Count="4">
-      <Dep Name="Import024"/>
       <Dep Name="Pipe002"/>
       <Dep Name="Sketch049"/>
       <Dep Name="DatumLine002"/>
+      <Dep Name="Import024"/>
     </ObjectDeps>
     <ObjectDeps Name="Pipe003" Count="3">
-      <Dep Name="Body006"/>
       <Dep Name="Pipe002"/>
       <Dep Name="Sketch050"/>
+      <Dep Name="Body006"/>
     </ObjectDeps>
     <ObjectDeps Name="DatumLine002" Count="1">
       <Dep Name="Solid061"/>
     </ObjectDeps>
     <ObjectDeps Name="Mirrored" Count="7">
-      <Dep Name="Body006"/>
-      <Dep Name="YZ_Plane005004"/>
-      <Dep Name="Pad011"/>
       <Dep Name="Pipe"/>
-      <Dep Name="Pipe001"/>
       <Dep Name="Pipe002"/>
       <Dep Name="Pipe003"/>
+      <Dep Name="Pad011"/>
+      <Dep Name="Pipe001"/>
+      <Dep Name="Body006"/>
+      <Dep Name="YZ_Plane005004"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch051" Count="1">
       <Dep Name="Mirrored"/>
     </ObjectDeps>
     <ObjectDeps Name="Pad012" Count="3">
+      <Dep Name="Sketch051"/>
       <Dep Name="Body006"/>
       <Dep Name="Mirrored"/>
-      <Dep Name="Sketch051"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch053" Count="2">
       <Dep Name="Pad002"/>
@@ -17403,9 +17408,9 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
     </ObjectDeps>
     <ObjectDeps Name="Pad016" Count="4">
       <Dep Name="Body"/>
+      <Dep Name="Sketch053"/>
       <Dep Name="Pocket001"/>
       <Dep Name="Import008"/>
-      <Dep Name="Sketch053"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch054" Count="3">
       <Dep Name="Import003"/>
@@ -17413,25 +17418,25 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
       <Dep Name="Pad016"/>
     </ObjectDeps>
     <ObjectDeps Name="Pocket021" Count="3">
+      <Dep Name="Sketch054"/>
       <Dep Name="Body"/>
       <Dep Name="Pad016"/>
-      <Dep Name="Sketch054"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch055" Count="1">
       <Dep Name="Pocket021"/>
     </ObjectDeps>
     <ObjectDeps Name="Pocket022" Count="3">
+      <Dep Name="Sketch055"/>
       <Dep Name="Body"/>
       <Dep Name="Pocket021"/>
-      <Dep Name="Sketch055"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch056" Count="1">
       <Dep Name="Pocket022"/>
     </ObjectDeps>
     <ObjectDeps Name="Pocket023" Count="3">
       <Dep Name="Body"/>
-      <Dep Name="Pocket022"/>
       <Dep Name="Sketch056"/>
+      <Dep Name="Pocket022"/>
     </ObjectDeps>
     <ObjectDeps Name="Import027" Count="2">
       <Dep Name="Body"/>
@@ -17441,50 +17446,50 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
       <Dep Name="Pad012"/>
     </ObjectDeps>
     <ObjectDeps Name="Pocket024" Count="3">
-      <Dep Name="Body006"/>
       <Dep Name="Pad012"/>
+      <Dep Name="Body006"/>
       <Dep Name="Sketch058"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch059" Count="1">
       <Dep Name="Pocket024"/>
     </ObjectDeps>
     <ObjectDeps Name="Pocket025" Count="3">
+      <Dep Name="Pocket024"/>
       <Dep Name="Sketch059"/>
       <Dep Name="Body006"/>
-      <Dep Name="Pocket024"/>
     </ObjectDeps>
     <ObjectDeps Name="Body007" Count="23">
-      <Dep Name="Origin042"/>
-      <Dep Name="DatumPoint"/>
-      <Dep Name="Sketch062"/>
-      <Dep Name="DatumLine003"/>
-      <Dep Name="DatumPoint003"/>
-      <Dep Name="Pad017"/>
-      <Dep Name="DatumLine004"/>
-      <Dep Name="Pad018"/>
-      <Dep Name="Import028"/>
       <Dep Name="Sketch060"/>
+      <Dep Name="Pad018"/>
       <Dep Name="DatumLine005"/>
-      <Dep Name="Sketch061"/>
-      <Dep Name="Helix"/>
-      <Dep Name="Helix002"/>
-      <Dep Name="DatumPoint001"/>
       <Dep Name="DatumPoint002"/>
+      <Dep Name="DatumPoint001"/>
       <Dep Name="Helix001"/>
-      <Dep Name="Sketch063"/>
-      <Dep Name="DatumLine006"/>
-      <Dep Name="Sketch064"/>
-      <Dep Name="Helix003"/>
       <Dep Name="DatumLine007"/>
+      <Dep Name="Import028"/>
+      <Dep Name="DatumPoint003"/>
+      <Dep Name="DatumLine006"/>
+      <Dep Name="Sketch062"/>
+      <Dep Name="Sketch063"/>
+      <Dep Name="DatumLine004"/>
+      <Dep Name="DatumLine003"/>
+      <Dep Name="Helix"/>
+      <Dep Name="Pad017"/>
+      <Dep Name="Sketch064"/>
+      <Dep Name="Sketch061"/>
       <Dep Name="Sketch065"/>
+      <Dep Name="Origin042"/>
+      <Dep Name="Helix002"/>
+      <Dep Name="DatumPoint"/>
+      <Dep Name="Helix003"/>
     </ObjectDeps>
     <ObjectDeps Name="Origin042" Count="6">
-      <Dep Name="Y_Axis005005"/>
-      <Dep Name="X_Axis005005"/>
-      <Dep Name="Z_Axis005005"/>
-      <Dep Name="XY_Plane005005"/>
       <Dep Name="YZ_Plane005005"/>
+      <Dep Name="Z_Axis005005"/>
+      <Dep Name="X_Axis005005"/>
+      <Dep Name="Y_Axis005005"/>
       <Dep Name="XZ_Plane005005"/>
+      <Dep Name="XY_Plane005005"/>
     </ObjectDeps>
     <ObjectDeps Name="X_Axis005005" Count="0"/>
     <ObjectDeps Name="Y_Axis005005" Count="0"/>
@@ -17497,8 +17502,8 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
       <Dep Name="Body007"/>
     </ObjectDeps>
     <ObjectDeps Name="Pad017" Count="2">
-      <Dep Name="Body007"/>
       <Dep Name="Sketch060"/>
+      <Dep Name="Body007"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch061" Count="1">
       <Dep Name="Pad017"/>
@@ -17512,8 +17517,8 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
       <Dep Name="Pad018"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch062" Count="2">
-      <Dep Name="DatumPoint"/>
       <Dep Name="Pad018"/>
+      <Dep Name="DatumPoint"/>
     </ObjectDeps>
     <ObjectDeps Name="DatumLine003" Count="1">
       <Dep Name="Sketch062"/>
@@ -17522,10 +17527,10 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
       <Dep Name="Pad018"/>
     </ObjectDeps>
     <ObjectDeps Name="Helix" Count="4">
-      <Dep Name="Sketch062"/>
-      <Dep Name="Body007"/>
-      <Dep Name="DatumLine004"/>
       <Dep Name="Pad018"/>
+      <Dep Name="Sketch062"/>
+      <Dep Name="DatumLine004"/>
+      <Dep Name="Body007"/>
     </ObjectDeps>
     <ObjectDeps Name="DatumPoint001" Count="1">
       <Dep Name="Helix"/>
@@ -17534,14 +17539,14 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
       <Dep Name="Helix"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch063" Count="2">
-      <Dep Name="Helix"/>
       <Dep Name="DatumPoint001"/>
+      <Dep Name="Helix"/>
     </ObjectDeps>
     <ObjectDeps Name="Helix001" Count="4">
-      <Dep Name="Body007"/>
       <Dep Name="DatumLine005"/>
-      <Dep Name="Helix"/>
       <Dep Name="Sketch063"/>
+      <Dep Name="Body007"/>
+      <Dep Name="Helix"/>
     </ObjectDeps>
     <ObjectDeps Name="DatumPoint002" Count="1">
       <Dep Name="Helix001"/>
@@ -17552,9 +17557,9 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
     </ObjectDeps>
     <ObjectDeps Name="DatumLine006" Count="0"/>
     <ObjectDeps Name="Helix002" Count="4">
-      <Dep Name="Body007"/>
       <Dep Name="Helix001"/>
       <Dep Name="DatumLine006"/>
+      <Dep Name="Body007"/>
       <Dep Name="Sketch064"/>
     </ObjectDeps>
     <ObjectDeps Name="DatumPoint003" Count="1">
@@ -17568,10 +17573,10 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
       <Dep Name="Helix002"/>
     </ObjectDeps>
     <ObjectDeps Name="Helix003" Count="4">
-      <Dep Name="Body007"/>
-      <Dep Name="Helix002"/>
       <Dep Name="DatumLine007"/>
+      <Dep Name="Body007"/>
       <Dep Name="Sketch065"/>
+      <Dep Name="Helix002"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch060" Count="1">
       <Dep Name="Import028"/>
@@ -17593,8 +17598,8 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
     <Object type="App::Plane" name="XZ_Plane" id="686" revision="2" file="XZ_Plane.xml" />
     <Object type="App::Plane" name="YZ_Plane" id="687" revision="2" file="YZ_Plane.xml" />
     <Object type="Part::SubShapeBinder" name="Import" id="688" revision="24" file="Import.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch" id="689" revision="1322" file="Sketch.xml" />
-    <Object type="PartDesign::Pad" name="Pad" id="690" revision="145" file="Pad.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch" id="689" revision="1333" file="Sketch.xml" />
+    <Object type="PartDesign::Pad" name="Pad" id="690" revision="148" file="Pad.xml" />
     <Object type="Part::Feature" name="Solid050" id="691" revision="0" file="Solid050.xml" />
     <Object type="Part::Feature" name="Solid051" id="692" revision="0" file="Solid051.xml" />
     <Object type="Part::Feature" name="Solid052" id="693" revision="0" file="Solid052.xml" />
@@ -17618,16 +17623,16 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
     <Object type="Part::Feature" name="Solid067" id="711" revision="0" file="Solid067.xml" />
     <Object type="App::Part" name="Part018" id="712" revision="14" file="Part018.xml" />
     <Object type="App::Origin" name="Origin019" id="713" revision="0" file="Origin019.xml" />
-    <Object type="App::Part" name="Part019" id="714" revision="36" file="Part019.xml" />
+    <Object type="App::Part" name="Part019" id="714" revision="37" file="Part019.xml" />
     <Object type="App::Origin" name="Origin020" id="715" revision="0" file="Origin020.xml" />
     <Object type="Part::Feature" name="Compound015" id="818" revision="49" file="Compound015.xml" />
-    <Object type="Part::SubShapeBinder" name="Import002" id="832" revision="20" file="Import002.xml" />
+    <Object type="Part::SubShapeBinder" name="Import002" id="832" revision="21" file="Import002.xml" />
     <Object type="Part::SubShapeBinder" name="Import003" id="835" revision="23" file="Import003.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch003" id="836" revision="1554" file="Sketch003.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch003" id="836" revision="1564" file="Sketch003.xml" />
     <Object type="Part::SubShapeBinder" name="Import004" id="837" revision="25" file="Import004.xml" />
-    <Object type="PartDesign::Pad" name="Pad002" id="838" revision="162" file="Pad002.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch004" id="839" revision="721" file="Sketch004.xml" />
-    <Object type="PartDesign::Pocket" name="Pocket001" id="840" revision="156" file="Pocket001.xml" />
+    <Object type="PartDesign::Pad" name="Pad002" id="838" revision="165" file="Pad002.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch004" id="839" revision="731" file="Sketch004.xml" />
+    <Object type="PartDesign::Pocket" name="Pocket001" id="840" revision="159" file="Pocket001.xml" />
     <Object type="Part::SubShapeBinder" name="Import008" id="855" revision="16" file="Import008.xml" />
     <Object type="Part::Feature" name="Solid095" id="928" revision="22" file="Solid095.xml" />
     <Object type="PartDesign::Body" name="Body004" id="950" revision="45" file="Body004.xml" />
@@ -17639,14 +17644,14 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
     <Object type="App::Plane" name="XZ_Plane004" id="956" revision="2" file="XZ_Plane004.xml" />
     <Object type="App::Plane" name="YZ_Plane004" id="957" revision="2" file="YZ_Plane004.xml" />
     <Object type="PartDesign::FeatureBase" name="BaseFeature" id="958" revision="4" file="BaseFeature.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch027" id="959" revision="47" file="Sketch027.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch027" id="959" revision="48" file="Sketch027.xml" />
     <Object type="PartDesign::Pocket" name="Pocket015" id="960" revision="15" file="Pocket015.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch028" id="961" revision="60" file="Sketch028.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch028" id="961" revision="61" file="Sketch028.xml" />
     <Object type="PartDesign::Pad" name="Pad008" id="962" revision="26" file="Pad008.xml" />
     <Object type="Part::SubShapeBinder" name="Import015" id="963" revision="13" file="Import015.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch029" id="964" revision="117" file="Sketch029.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch029" id="964" revision="118" file="Sketch029.xml" />
     <Object type="PartDesign::Pocket" name="Pocket016" id="965" revision="10" file="Pocket016.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch030" id="966" revision="1574" Touched="1" Invalid="1" Error="Missing external geometry reference" file="Sketch030.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch030" id="966" revision="1582" Touched="1" Invalid="1" Error="Missing external geometry reference" file="Sketch030.xml" />
     <Object type="PartDesign::Pad" name="Pad009" id="967" revision="76" Touched="1" file="Pad009.xml" />
     <Object type="PartDesign::SubShapeBinder" name="Import016" id="968" revision="13" file="Import016.xml" />
     <Object type="App::Line" name="X_Axis005" id="983" revision="1" file="X_Axis005.xml" />
@@ -17655,11 +17660,11 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
     <Object type="App::Plane" name="XY_Plane005" id="986" revision="1" file="XY_Plane005.xml" />
     <Object type="App::Plane" name="XZ_Plane005" id="987" revision="2" file="XZ_Plane005.xml" />
     <Object type="App::Plane" name="YZ_Plane005" id="988" revision="2" file="YZ_Plane005.xml" />
-    <Object type="Part::SubShapeBinder" name="Import001" id="827" revision="26" file="Import001.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch001" id="828" revision="255" file="Sketch001.xml" />
-    <Object type="PartDesign::Pad" name="Pad001" id="829" revision="46" file="Pad001.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch002" id="830" revision="142" file="Sketch002.xml" />
-    <Object type="PartDesign::Pocket" name="Pocket" id="831" revision="42" file="Pocket.xml" />
+    <Object type="Part::SubShapeBinder" name="Import001" id="827" revision="27" file="Import001.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch001" id="828" revision="266" file="Sketch001.xml" />
+    <Object type="PartDesign::Pad" name="Pad001" id="829" revision="49" file="Pad001.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch002" id="830" revision="153" file="Sketch002.xml" />
+    <Object type="PartDesign::Pocket" name="Pocket" id="831" revision="45" file="Pocket.xml" />
     <Object type="App::Line" name="X_Axis001" id="821" revision="1" file="X_Axis001.xml" />
     <Object type="App::Line" name="Y_Axis001" id="822" revision="2" file="Y_Axis001.xml" />
     <Object type="App::Line" name="Z_Axis001" id="823" revision="2" file="Z_Axis001.xml" />
@@ -17667,7 +17672,7 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
     <Object type="App::Plane" name="XZ_Plane001" id="825" revision="2" file="XZ_Plane001.xml" />
     <Object type="App::Plane" name="YZ_Plane001" id="826" revision="2" file="YZ_Plane001.xml" />
     <Object type="App::Origin" name="Origin036" id="820" revision="0" file="Origin036.xml" />
-    <Object type="PartDesign::Body" name="Body001" id="819" revision="42" file="Body001.xml" />
+    <Object type="PartDesign::Body" name="Body001" id="819" revision="43" file="Body001.xml" />
     <Object type="Part::Feature" name="Compound" id="542" revision="3" file="Compound.xml" />
     <Object type="Part::Feature" name="Compound001" id="543" revision="3" file="Compound001.xml" />
     <Object type="Part::Feature" name="Solid001" id="544" revision="3" file="Solid001.xml" />
@@ -17774,7 +17779,7 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
     <Object type="App::Plane" name="XY_Plane005002" id="993" revision="1" file="XY_Plane005002.xml" />
     <Object type="App::Plane" name="XZ_Plane005002" id="994" revision="2" file="XZ_Plane005002.xml" />
     <Object type="App::Plane" name="YZ_Plane005002" id="995" revision="2" file="YZ_Plane005002.xml" />
-    <Object type="PartDesign::Body" name="Body005" id="1020" revision="45" file="Body005.xml" />
+    <Object type="PartDesign::Body" name="Body005" id="1020" revision="46" file="Body005.xml" />
     <Object type="App::Origin" name="Origin040" id="1021" revision="0" file="Origin040.xml" />
     <Object type="App::Line" name="X_Axis005003" id="1022" revision="1" file="X_Axis005003.xml" />
     <Object type="App::Line" name="Y_Axis005003" id="1023" revision="2" file="Y_Axis005003.xml" />
@@ -17782,16 +17787,16 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
     <Object type="App::Plane" name="XY_Plane005003" id="1025" revision="1" file="XY_Plane005003.xml" />
     <Object type="App::Plane" name="XZ_Plane005003" id="1026" revision="2" file="XZ_Plane005003.xml" />
     <Object type="App::Plane" name="YZ_Plane005003" id="1027" revision="2" file="YZ_Plane005003.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch034" id="1030" revision="415" file="Sketch034.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch034" id="1030" revision="425" file="Sketch034.xml" />
     <Object type="Part::SubShapeBinder" name="Import017" id="1031" revision="10" file="Import017.xml" />
     <Object type="Part::SubShapeBinder" name="Import018" id="1032" revision="10" file="Import018.xml" />
-    <Object type="Part::SubShapeBinder" name="Import019" id="1033" revision="18" file="Import019.xml" />
+    <Object type="Part::SubShapeBinder" name="Import019" id="1033" revision="19" file="Import019.xml" />
     <Object type="Part::SubShapeBinder" name="Import020" id="1034" revision="9" file="Import020.xml" />
     <Object type="Part::SubShapeBinder" name="Import021" id="1035" revision="9" file="Import021.xml" />
-    <Object type="Part::SubShapeBinder" name="Import022" id="1036" revision="9" file="Import022.xml" />
-    <Object type="PartDesign::Pad" name="Pad010" id="1038" revision="24" file="Pad010.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch035" id="1039" revision="12" file="Sketch035.xml" />
-    <Object type="PartDesign::Body" name="Body006" id="1040" revision="785" file="Body006.xml" />
+    <Object type="Part::SubShapeBinder" name="Import022" id="1036" revision="10" file="Import022.xml" />
+    <Object type="PartDesign::Pad" name="Pad010" id="1038" revision="27" file="Pad010.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch035" id="1039" revision="19" file="Sketch035.xml" />
+    <Object type="PartDesign::Body" name="Body006" id="1040" revision="786" file="Body006.xml" />
     <Object type="App::Origin" name="Origin041" id="1041" revision="0" file="Origin041.xml" />
     <Object type="App::Line" name="X_Axis005004" id="1042" revision="1" file="X_Axis005004.xml" />
     <Object type="App::Line" name="Y_Axis005004" id="1043" revision="2" file="Y_Axis005004.xml" />
@@ -17799,45 +17804,45 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
     <Object type="App::Plane" name="XY_Plane005004" id="1045" revision="1" file="XY_Plane005004.xml" />
     <Object type="App::Plane" name="XZ_Plane005004" id="1046" revision="2" file="XZ_Plane005004.xml" />
     <Object type="App::Plane" name="YZ_Plane005004" id="1047" revision="2" file="YZ_Plane005004.xml" />
-    <Object type="Part::SubShapeBinder" name="Import023" id="1048" revision="19" file="Import023.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch036" id="1049" revision="136" file="Sketch036.xml" />
-    <Object type="PartDesign::Pad" name="Pad011" id="1050" revision="44" file="Pad011.xml" />
-    <Object type="Part::SubShapeBinder" name="Import024" id="1052" revision="19" file="Import024.xml" />
-    <Object type="Part::SubShapeBinder" name="Import025" id="1054" revision="19" file="Import025.xml" />
-    <Object type="PartDesign::Line" name="DatumLine" id="1133" revision="56" file="DatumLine.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch040" id="1138" revision="62" file="Sketch040.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch041" id="1139" revision="166" file="Sketch041.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch042" id="1143" revision="306" file="Sketch042.xml" />
-    <Object type="PartDesign::AdditivePipe" name="Pipe" id="1144" revision="36" file="Pipe.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch043" id="1145" revision="95" file="Sketch043.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch044" id="1146" revision="265" file="Sketch044.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch045" id="1147" revision="231" file="Sketch045.xml" />
-    <Object type="PartDesign::AdditivePipe" name="Pipe001" id="1148" revision="68" file="Pipe001.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch046" id="1150" revision="99" file="Sketch046.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch047" id="1159" revision="66" file="Sketch047.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch048" id="1160" revision="147" file="Sketch048.xml" />
-    <Object type="PartDesign::AdditivePipe" name="Pipe002" id="1161" revision="58" file="Pipe002.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch049" id="1162" revision="142" file="Sketch049.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch050" id="1163" revision="303" file="Sketch050.xml" />
-    <Object type="PartDesign::AdditivePipe" name="Pipe003" id="1168" revision="46" file="Pipe003.xml" />
+    <Object type="Part::SubShapeBinder" name="Import023" id="1048" revision="20" file="Import023.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch036" id="1049" revision="146" file="Sketch036.xml" />
+    <Object type="PartDesign::Pad" name="Pad011" id="1050" revision="47" file="Pad011.xml" />
+    <Object type="Part::SubShapeBinder" name="Import024" id="1052" revision="20" file="Import024.xml" />
+    <Object type="Part::SubShapeBinder" name="Import025" id="1054" revision="20" file="Import025.xml" />
+    <Object type="PartDesign::Line" name="DatumLine" id="1133" revision="60" file="DatumLine.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch040" id="1138" revision="72" file="Sketch040.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch041" id="1139" revision="173" file="Sketch041.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch042" id="1143" revision="313" file="Sketch042.xml" />
+    <Object type="PartDesign::AdditivePipe" name="Pipe" id="1144" revision="39" file="Pipe.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch043" id="1145" revision="102" file="Sketch043.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch044" id="1146" revision="275" file="Sketch044.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch045" id="1147" revision="238" file="Sketch045.xml" />
+    <Object type="PartDesign::AdditivePipe" name="Pipe001" id="1148" revision="71" file="Pipe001.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch046" id="1150" revision="106" file="Sketch046.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch047" id="1159" revision="73" file="Sketch047.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch048" id="1160" revision="154" file="Sketch048.xml" />
+    <Object type="PartDesign::AdditivePipe" name="Pipe002" id="1161" revision="61" file="Pipe002.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch049" id="1162" revision="149" file="Sketch049.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch050" id="1163" revision="313" file="Sketch050.xml" />
+    <Object type="PartDesign::AdditivePipe" name="Pipe003" id="1168" revision="49" file="Pipe003.xml" />
     <Object type="PartDesign::Line" name="DatumLine002" id="1174" revision="12" file="DatumLine002.xml" />
-    <Object type="PartDesign::Mirrored" name="Mirrored" id="1175" revision="29" file="Mirrored.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch051" id="1176" revision="1155" file="Sketch051.xml" />
-    <Object type="PartDesign::Pad" name="Pad012" id="1177" revision="41" file="Pad012.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch053" id="1191" revision="318" file="Sketch053.xml" />
-    <Object type="PartDesign::Pad" name="Pad016" id="1192" revision="85" file="Pad016.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch054" id="1193" revision="253" file="Sketch054.xml" />
-    <Object type="PartDesign::Pocket" name="Pocket021" id="1194" revision="59" file="Pocket021.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch055" id="1195" revision="245" file="Sketch055.xml" />
-    <Object type="PartDesign::Pocket" name="Pocket022" id="1196" revision="63" file="Pocket022.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch056" id="1197" revision="238" file="Sketch056.xml" />
-    <Object type="PartDesign::Pocket" name="Pocket023" id="1198" revision="57" file="Pocket023.xml" />
+    <Object type="PartDesign::Mirrored" name="Mirrored" id="1175" revision="32" file="Mirrored.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch051" id="1176" revision="1165" file="Sketch051.xml" />
+    <Object type="PartDesign::Pad" name="Pad012" id="1177" revision="45" file="Pad012.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch053" id="1191" revision="328" file="Sketch053.xml" />
+    <Object type="PartDesign::Pad" name="Pad016" id="1192" revision="88" file="Pad016.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch054" id="1193" revision="263" file="Sketch054.xml" />
+    <Object type="PartDesign::Pocket" name="Pocket021" id="1194" revision="62" file="Pocket021.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch055" id="1195" revision="255" file="Sketch055.xml" />
+    <Object type="PartDesign::Pocket" name="Pocket022" id="1196" revision="66" file="Pocket022.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch056" id="1197" revision="248" file="Sketch056.xml" />
+    <Object type="PartDesign::Pocket" name="Pocket023" id="1198" revision="60" file="Pocket023.xml" />
     <Object type="Part::SubShapeBinder" name="Import027" id="1206" revision="12" file="Import027.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch058" id="1209" revision="293" file="Sketch058.xml" />
-    <Object type="PartDesign::Pocket" name="Pocket024" id="1210" revision="29" file="Pocket024.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch059" id="1211" revision="201" file="Sketch059.xml" />
-    <Object type="PartDesign::Pocket" name="Pocket025" id="1212" revision="17" file="Pocket025.xml" />
-    <Object type="PartDesign::Body" name="Body007" id="1213" revision="95" file="Body007.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch058" id="1209" revision="305" file="Sketch058.xml" />
+    <Object type="PartDesign::Pocket" name="Pocket024" id="1210" revision="32" file="Pocket024.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch059" id="1211" revision="211" file="Sketch059.xml" />
+    <Object type="PartDesign::Pocket" name="Pocket025" id="1212" revision="20" file="Pocket025.xml" />
+    <Object type="PartDesign::Body" name="Body007" id="1213" revision="96" file="Body007.xml" />
     <Object type="App::Origin" name="Origin042" id="1214" revision="0" file="Origin042.xml" />
     <Object type="App::Line" name="X_Axis005005" id="1215" revision="1" file="X_Axis005005.xml" />
     <Object type="App::Line" name="Y_Axis005005" id="1216" revision="2" file="Y_Axis005005.xml" />
@@ -17845,30 +17850,30 @@ e51d.0 0:(#b74;K-4;:H348:4,F)
     <Object type="App::Plane" name="XY_Plane005005" id="1218" revision="1" file="XY_Plane005005.xml" />
     <Object type="App::Plane" name="XZ_Plane005005" id="1219" revision="2" file="XZ_Plane005005.xml" />
     <Object type="App::Plane" name="YZ_Plane005005" id="1220" revision="2" file="YZ_Plane005005.xml" />
-    <Object type="Part::SubShapeBinder" name="Import028" id="1221" revision="10" file="Import028.xml" />
-    <Object type="PartDesign::Pad" name="Pad017" id="1224" revision="27" file="Pad017.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch061" id="1225" revision="105" file="Sketch061.xml" />
-    <Object type="PartDesign::Pad" name="Pad018" id="1226" revision="16" file="Pad018.xml" />
-    <Object type="PartDesign::Point" name="DatumPoint" id="1229" revision="16" file="DatumPoint.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch062" id="1230" revision="80" file="Sketch062.xml" />
-    <Object type="PartDesign::Line" name="DatumLine003" id="1231" revision="15" file="DatumLine003.xml" />
-    <Object type="PartDesign::Line" name="DatumLine004" id="1232" revision="16" file="DatumLine004.xml" />
-    <Object type="PartDesign::AdditiveHelix" name="Helix" id="1233" revision="36" file="Helix.xml" />
-    <Object type="PartDesign::Point" name="DatumPoint001" id="1234" revision="18" file="DatumPoint001.xml" />
-    <Object type="PartDesign::Line" name="DatumLine005" id="1235" revision="16" file="DatumLine005.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch063" id="1236" revision="80" file="Sketch063.xml" />
-    <Object type="PartDesign::AdditiveHelix" name="Helix001" id="1237" revision="35" file="Helix001.xml" />
-    <Object type="PartDesign::Point" name="DatumPoint002" id="1238" revision="18" file="DatumPoint002.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch064" id="1239" revision="73" file="Sketch064.xml" />
+    <Object type="Part::SubShapeBinder" name="Import028" id="1221" revision="11" file="Import028.xml" />
+    <Object type="PartDesign::Pad" name="Pad017" id="1224" revision="31" file="Pad017.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch061" id="1225" revision="115" file="Sketch061.xml" />
+    <Object type="PartDesign::Pad" name="Pad018" id="1226" revision="20" file="Pad018.xml" />
+    <Object type="PartDesign::Point" name="DatumPoint" id="1229" revision="20" file="DatumPoint.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch062" id="1230" revision="90" file="Sketch062.xml" />
+    <Object type="PartDesign::Line" name="DatumLine003" id="1231" revision="19" file="DatumLine003.xml" />
+    <Object type="PartDesign::Line" name="DatumLine004" id="1232" revision="20" file="DatumLine004.xml" />
+    <Object type="PartDesign::AdditiveHelix" name="Helix" id="1233" revision="41" file="Helix.xml" />
+    <Object type="PartDesign::Point" name="DatumPoint001" id="1234" revision="22" file="DatumPoint001.xml" />
+    <Object type="PartDesign::Line" name="DatumLine005" id="1235" revision="20" file="DatumLine005.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch063" id="1236" revision="90" file="Sketch063.xml" />
+    <Object type="PartDesign::AdditiveHelix" name="Helix001" id="1237" revision="39" file="Helix001.xml" />
+    <Object type="PartDesign::Point" name="DatumPoint002" id="1238" revision="22" file="DatumPoint002.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch064" id="1239" revision="83" file="Sketch064.xml" />
     <Object type="PartDesign::Line" name="DatumLine006" id="1241" revision="21" file="DatumLine006.xml" />
-    <Object type="PartDesign::AdditiveHelix" name="Helix002" id="1242" revision="33" file="Helix002.xml" />
-    <Object type="PartDesign::Point" name="DatumPoint003" id="1243" revision="16" file="DatumPoint003.xml" />
-    <Object type="PartDesign::Line" name="DatumLine007" id="1244" revision="16" file="DatumLine007.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch065" id="1245" revision="77" file="Sketch065.xml" />
-    <Object type="PartDesign::AdditiveHelix" name="Helix003" id="1246" revision="31" file="Helix003.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch060" id="1222" revision="1081" file="Sketch060.xml" />
-    <Object type="Part::SubShapeBinder" name="Import029" id="1248" revision="9" file="Import029.xml" />
-    <Object type="PartDesign::Chamfer" name="Chamfer" id="1249" revision="7" file="Chamfer.xml" />
+    <Object type="PartDesign::AdditiveHelix" name="Helix002" id="1242" revision="36" file="Helix002.xml" />
+    <Object type="PartDesign::Point" name="DatumPoint003" id="1243" revision="20" file="DatumPoint003.xml" />
+    <Object type="PartDesign::Line" name="DatumLine007" id="1244" revision="20" file="DatumLine007.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch065" id="1245" revision="87" file="Sketch065.xml" />
+    <Object type="PartDesign::AdditiveHelix" name="Helix003" id="1246" revision="35" file="Helix003.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch060" id="1222" revision="1093" file="Sketch060.xml" />
+    <Object type="Part::SubShapeBinder" name="Import029" id="1248" revision="10" file="Import029.xml" />
+    <Object type="PartDesign::Chamfer" name="Chamfer" id="1249" revision="9" file="Chamfer.xml" />
   </Objects>
   <ObjectData Count="0">
   </ObjectData>

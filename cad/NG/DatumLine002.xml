@@ -92,7 +92,7 @@ Ed
     <Property name="TreeRank" type="App::PropertyInteger" status="2184">
       <Integer value="1703"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="false"/>
     </Property>
   </Properties>

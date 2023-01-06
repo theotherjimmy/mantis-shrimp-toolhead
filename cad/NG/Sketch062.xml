@@ -73,7 +73,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad018.;#16b84;:H-4ca,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="2.5" StartY="-6.666666666666657" StartZ="-2.842170943040401e-14" EndX="2.5" EndY="3.333333333333343" EndZ="0"/>
+          <LineSegment StartX="2.500000000000028" StartY="-6.666666666666657" StartZ="-2.842170943040401e-14" EndX="2.500000000000028" EndY="3.333333333333343" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
@@ -145,7 +145,7 @@ TShapes 0
       <Bool value="false"/>
     </Property>
     <Property name="Placement" type="App::PropertyPlacement" status="8388612">
-      <PropertyPlacement Px="165.0316165046556" Py="145.0995879644782" Pz="193.6666666666666" Q0="0.7071067811865475" Q1="0" Q2="0" Q3="0.7071067811865476" A="1.570796326794897" Ox="1" Oy="0" Oz="0"/>
+      <PropertyPlacement Px="165.0316165046555" Py="145.0995879644782" Pz="193.6666666666668" Q0="0.7071067811865475" Q1="0" Q2="0" Q3="0.7071067811865476" A="1.570796326794897" Ox="1" Oy="0" Oz="0"/>
     </Property>
     <Property name="Shape" type="Part::PropertyPartShape">
       <Part ElementMap="0.15.70200.4" brep="1">
@@ -154,12 +154,12 @@ TShapes 0
 CASCADE Topology V1, (c) Matra-Datavision
 Locations 1
 1
-              1               0               0 165.031616504656 
+              1               0               0 165.031616504655 
               0 2.22044604925031e-16              -1 145.099587964478 
               0               1 2.22044604925031e-16 193.666666666667 
 Curve2ds 0
 Curves 2
-2 2.5 1.8333333333333428 0 0 0 1 1 0 -0 -0 1 0 1.5
+2 2.5 1.833333333333343 0 0 0 1 1 0 0 0 1 0 1.5
 1 2.5 3.3333333333333428 0 0 -1 0 
 Polygon3D 0
 PolygonOnTriangulations 0
@@ -168,7 +168,7 @@ Triangulations 0
 
 TShapes 5
 Ve
-1.00000000222045e-07
+1.00000000248253e-07
 2.5 0.333333333333343 0
 0 0
 

@@ -3,35 +3,23 @@
  FreeCAD Document, see http://www.freecadweb.org for more information...
 -->
 <Document SchemaVersion="1" FileVersion="2" Split="1" HasExpansion="1">
-<Expand  count="2">
-  <Expand name="Body" count="8">
-    <Expand name="Pad"/>
-    <Expand name="Pad002"/>
-    <Expand name="Pocket001"/>
-    <Expand name="Pad016"/>
-    <Expand name="Pocket021"/>
-    <Expand name="Pocket022"/>
-    <Expand name="Pocket023"/>
-    <Expand name="Pad009"/>
-  </Expand>
-  <Expand name="Part019"/>
-</Expand>
-  <Camera extra="0" id="2" binding="0" view3d="1">
+<Expand />
+  <Camera extra="0" id="4" binding="0" view3d="1">
 <![CDATA[
 OrthographicCamera {
   viewportMapping ADJUST_CAMERA
-  position -67.348946 34.31752 239.34625
-  orientation 0.68875057 -0.032354727 -0.72427607  2.2247987
-  nearDistance 185.47093
-  farDistance 371.96011
+  position 223.60545 -15.036606 328.80774
+  orientation 0.91871625 0.3933017 -0.035693232  0.92909747
+  nearDistance 174.7637
+  farDistance 416.28262
   aspectRatio 1
   focalDistance 194.01253
-  height 81.724594
+  height 121.29882
 
 }
 ## overrideMode: As Is]]>
   </Camera>
-  <View3D id="2"><![CDATA[
+  <View3D id="4"><![CDATA[
   <Properties Count="2" TransientCount="0">
     <Property name="DrawStyle" type="App::PropertyEnumeration" status="1">
       <Integer value="0"/>
