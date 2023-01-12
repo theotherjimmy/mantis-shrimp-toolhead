@@ -3931,8 +3931,8 @@ EndMap
     <Property name="TreeRank" type="App::PropertyInteger" status="2184">
       <Integer value="1662"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="648">
-      <Bool value="true"/>
+    <Property name="Visibility" type="App::PropertyBool" status="649">
+      <Bool value="false"/>
     </Property>
     <Property name="_Version" type="App::PropertyInteger" status="83886080">
       <Integer value="8"/>

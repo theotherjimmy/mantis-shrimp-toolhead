@@ -3,7 +3,7 @@
  FreeCAD Document, see http://www.freecadweb.org for more information...
 -->
 <Document SchemaVersion="1" FileVersion="2" Split="1" HasExpansion="1">
-<Expand  count="2">
+<Expand  count="3">
   <Expand name="Body" count="2">
     <Expand name="Pad"/>
     <Expand name="Pad009"/>
@@ -13,18 +13,22 @@
     <Expand name="Pipe002"/>
     <Expand name="Pipe003"/>
   </Expand>
+  <Expand name="Body007" count="2">
+    <Expand name="Helix001"/>
+    <Expand name="Helix003"/>
+  </Expand>
 </Expand>
   <Camera extra="0" id="3" binding="0" view3d="1">
 <![CDATA[
 OrthographicCamera {
   viewportMapping ADJUST_CAMERA
-  position 138.43713 1.7346344 167.82983
-  orientation 1 0 0  1.5707964
-  nearDistance 134.17599
-  farDistance 206.49234
+  position 31.630936 57.125366 301.27496
+  orientation 0.74290597 -0.30772176 -0.59447283  1.217116
+  nearDistance 109.4321
+  farDistance 268.70139
   aspectRatio 1
   focalDistance 194.01253
-  height 81.309303
+  height 99.311462
 
 }
 ## overrideMode: As Is]]>

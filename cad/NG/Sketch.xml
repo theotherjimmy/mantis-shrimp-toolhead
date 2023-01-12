@@ -335,9 +335,9 @@
         <Link obj="Import015" sub="Edge187" shadow=";#d73b;:H-3c2,E;:H3c2,E.Edge187"/>
         <Link obj="Import015" sub="Edge78" shadow=";#d73c;:H-3c2,E;:H3c2,E.Edge78"/>
         <Link obj="Import008" sub="Edge681" shadow=";Edge681;:H2dd,E.Edge681"/>
-        <Link obj="Import029" sub="Edge100" shadow=";#17067;:H4da,E;:H4de,E.Edge100"/>
+        <Link obj="Import029" sub="Edge98" shadow=";#17067;:H4da,E;:H4de,E.Edge98"/>
         <Link obj="Import029" sub="Edge45" shadow=";#17039;:H4da,E;:H4de,E.Edge45"/>
-        <Link obj="Import029" sub="Edge102" shadow=";#17069;:H4da,E;:H4de,E.Edge102"/>
+        <Link obj="Import029" sub="Edge100" shadow=";#17069;:H4da,E;:H4de,E.Edge100"/>
       </LinkSubList>
     </Property>
     <Property name="FullyConstrained" type="App::PropertyBool" status="218103808">

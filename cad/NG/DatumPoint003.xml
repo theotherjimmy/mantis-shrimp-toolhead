@@ -16,7 +16,7 @@
     </Property>
     <Property name="AttachmentSupport" type="App::PropertyLinkSubList">
       <LinkSubList count="1">
-        <Link obj="Helix002" sub="Edge145" shadow=";#16ece;:H4d5,E.Edge145"/>
+        <Link obj="Helix002" sub="Edge142" shadow=";#16ece;:H4d5,E.Edge142"/>
       </LinkSubList>
     </Property>
     <Property name="ColoredElements" type="App::PropertyLinkSubHidden" status="218103808">
@@ -76,14 +76,14 @@ Ve
     </Property>
     <Property name="Support" type="App::PropertyLinkSubList" status="67108864">
       <LinkSubList count="1">
-        <Link obj="Helix002" sub="Edge145" shadow=";#16ece;:H4d5,E.Edge145"/>
+        <Link obj="Helix002" sub="Edge142" shadow=";#16ece;:H4d5,E.Edge142"/>
       </LinkSubList>
     </Property>
     <Property name="TreeRank" type="App::PropertyInteger" status="2184">
       <Integer value="1764"/>
     </Property>
     <Property name="Visibility" type="App::PropertyBool" status="649">
-      <Bool value="true"/>
+      <Bool value="false"/>
     </Property>
   </Properties>
 </Object>

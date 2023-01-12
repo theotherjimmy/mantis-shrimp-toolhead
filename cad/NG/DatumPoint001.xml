@@ -83,7 +83,7 @@ Ve
       <Integer value="1755"/>
     </Property>
     <Property name="Visibility" type="App::PropertyBool" status="649">
-      <Bool value="true"/>
+      <Bool value="false"/>
     </Property>
   </Properties>
 </Object>

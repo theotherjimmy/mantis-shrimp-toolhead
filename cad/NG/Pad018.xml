@@ -1120,7 +1120,7 @@ Fa
 0111000
 +207 0 *
 Ve
-2.88138069046204e-07
+3.0257229296008e-07
 117.598582587344 156.709498231849 0
 0 0
 
@@ -2857,7 +2857,7 @@ TShapes 0
     <Property name="UsePipeForDraft" type="App::PropertyBool">
       <Bool value="false"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="648">
+    <Property name="Visibility" type="App::PropertyBool" status="649">
       <Bool value="false"/>
     </Property>
     <Property name="_ProfileBasedVersion" type="App::PropertyInteger" status="67108864">

@@ -17,8 +17,7 @@
       <Float value="0.5"/>
     </Property>
     <Property name="DiffuseColor" type="App::PropertyColorList" status="1">
-      <ColorList count="71" >
-cccccc99
+      <ColorList count="70" >
 cccccc99
 cccccc99
 cccccc99
