@@ -61,7 +61,7 @@ Locations 1
 1
 -0.471868334632542 -0.8815048332238 0.0170148104365664 131.587786848631 
 0.881669027907362 -0.471780457810928 0.00910630861543041 143.290507878165 
-3.67471846717787e-18 0.0192984100586486 0.999813768343489 -3.54444892399164 
+3.78238866173962e-18 0.0192984100586486 0.999813768343489 -3.54444892399164 
 Curve2ds 0
 Curves 1
 1 0 0 0 0 0 1 
@@ -90,8 +90,8 @@ Ed
     <Property name="TreeRank" type="App::PropertyInteger" status="2184">
       <Integer value="1762"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="648">
-      <Bool value="true"/>
+    <Property name="Visibility" type="App::PropertyBool" status="649">
+      <Bool value="false"/>
     </Property>
   </Properties>
 </Object>

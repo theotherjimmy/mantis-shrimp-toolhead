@@ -3,23 +3,33 @@
  FreeCAD Document, see http://www.freecadweb.org for more information...
 -->
 <Document SchemaVersion="1" FileVersion="2" Split="1" HasExpansion="1">
-<Expand />
-  <Camera extra="0" id="4" binding="0" view3d="1">
+<Expand  count="2">
+  <Expand name="Body" count="2">
+    <Expand name="Pad"/>
+    <Expand name="Pad009"/>
+  </Expand>
+  <Expand name="Body006" count="3">
+    <Expand name="Pipe001"/>
+    <Expand name="Pipe002"/>
+    <Expand name="Pipe003"/>
+  </Expand>
+</Expand>
+  <Camera extra="0" id="3" binding="0" view3d="1">
 <![CDATA[
 OrthographicCamera {
   viewportMapping ADJUST_CAMERA
-  position 223.60545 -15.036606 328.80774
-  orientation 0.91871625 0.3933017 -0.035693232  0.92909747
-  nearDistance 174.7637
-  farDistance 416.28262
+  position 138.43713 1.7346344 167.82983
+  orientation 1 0 0  1.5707964
+  nearDistance 134.17599
+  farDistance 206.49234
   aspectRatio 1
   focalDistance 194.01253
-  height 121.29882
+  height 81.309303
 
 }
 ## overrideMode: As Is]]>
   </Camera>
-  <View3D id="4"><![CDATA[
+  <View3D id="3"><![CDATA[
   <Properties Count="2" TransientCount="0">
     <Property name="DrawStyle" type="App::PropertyEnumeration" status="1">
       <Integer value="0"/>

@@ -79,7 +79,7 @@
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <ArcOfCircle CenterX="13.730668" CenterY="4.599377771824521e-28" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="13.730668" StartAngle="3.141592653589793" EndAngle="4.048092232761346"/>
+          <ArcOfCircle CenterX="7.363321445020631" CenterY="5.190062653528453e-26" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="7.363321445020631" StartAngle="3.141592653589793" EndAngle="4.158118774097274"/>
           <Construction value="0"/>
         </Geometry>
       </GeometryList>
@@ -139,7 +139,7 @@ Locations 1
               0               1               0 4.00000000000009 
 Curve2ds 0
 Curves 1
-2 13.730668 4.5993777718245209e-28 0 0 0 1 1 0 0 0 1 0 13.730668
+2 7.363321445020631 5.1900626535284529e-26 0 0 0 1 1 0 0 0 1 0 7.363321445020631
 Polygon3D 0
 PolygonOnTriangulations 0
 Surfaces 0
@@ -148,21 +148,21 @@ Triangulations 0
 TShapes 4
 Ve
 1e-07
-0 1.68152186163596e-15 0
+0 9.01746803925659e-16 0
 0 0
 
 0101101
 *
 Ve
 1e-07
-5.26563457341211 -10.8108488479385 0
+3.48783669000963 -6.26092010940708 0
 0 0
 
 0101101
 *
 Ed
  1e-07 1 1 0
-1  1 0 3.14159265358979 4.04809223276135
+1  1 0 3.14159265358979 4.15811877409727
 0
 
 0101000
@@ -216,7 +216,7 @@ EndMap
     <Property name="TreeRank" type="App::PropertyInteger" status="2184">
       <Integer value="1688"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="648">
+    <Property name="Visibility" type="App::PropertyBool" status="649">
       <Bool value="false"/>
     </Property>
   </Properties>

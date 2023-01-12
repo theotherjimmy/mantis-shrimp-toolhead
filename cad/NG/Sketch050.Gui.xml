@@ -157,7 +157,7 @@ ffffffff
       <Integer value="50"/>
     </Property>
     <Property name="Visibility" type="App::PropertyBool" status="1">
-      <Bool value="false"/>
+      <Bool value="true"/>
     </Property>
     <Property name="maxNumberOfLines" type="App::PropertyInteger" status="1">
       <Integer value="10000"/>

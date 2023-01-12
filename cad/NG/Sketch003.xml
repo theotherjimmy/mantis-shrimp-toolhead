@@ -90,7 +90,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Import004.;Edge274;:H2d0,E" Flags="0"/>
           </GeoExtensions>
-          <ArcOfCircle CenterX="-147.9320823101384" CenterY="252.8052095922622" CenterZ="2.842170943040401e-14" NormalX="1.099423973687182e-07" NormalY="4.894949171776109e-08" NormalZ="0.9999999999999929" AngleXU="0.837757888585219" Radius="18.25" StartAngle="3.141592653589793" EndAngle="6.283185307179586"/>
+          <ArcOfCircle CenterX="-147.9320823101384" CenterY="252.8052095922622" CenterZ="2.842170943040401e-14" NormalX="1.099423973687182e-07" NormalY="4.894949171776107e-08" NormalZ="0.9999999999999929" AngleXU="0.837757888585219" Radius="18.25" StartAngle="3.141592653589793" EndAngle="6.283185307179586"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="2" ref="Import004.;Edge450;:H2d0,E" migrated="1">

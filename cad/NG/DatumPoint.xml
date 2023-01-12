@@ -82,7 +82,7 @@ Ve
     <Property name="TreeRank" type="App::PropertyInteger" status="2184">
       <Integer value="1750"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="648">
+    <Property name="Visibility" type="App::PropertyBool" status="649">
       <Bool value="true"/>
     </Property>
   </Properties>

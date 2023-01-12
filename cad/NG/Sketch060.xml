@@ -150,7 +150,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="6" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Import028.;#15166;:H4ba,E;:H4bc,E" Flags="0"/>
           </GeoExtensions>
-          <ArcOfCircle CenterX="-23.77312261843404" CenterY="-3.466845570543462" CenterZ="-180.9999999999999" NormalX="6.64774941312859e-15" NormalY="3.650295527991143e-15" NormalZ="1" AngleXU="-1.046905729724667" Radius="6.499999999999992" StartAngle="0" EndAngle="2.478495337639791"/>
+          <ArcOfCircle CenterX="-23.77312261843399" CenterY="-3.466845570543457" CenterZ="-180.9999999999998" NormalX="1.552573886661509e-14" NormalY="2.537518585584293e-15" NormalZ="1" AngleXU="-0.7364168604651163" Radius="6.499999999999955" StartAngle="0" EndAngle="1.79684786471681"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomCircle" id="7" ref="Import028.;#15142;:H4ba,E;:H4bc,E" migrated="1">
@@ -295,24 +295,24 @@
       <LinkSubList count="21">
         <Link obj="Import028" sub="Edge9" shadow=";#150c4;:H4ba,E;:H4bc,E.Edge9"/>
         <Link obj="Import028" sub="Edge100" shadow=";#15156;:H4ba,E;:H4bc,E.Edge100"/>
-        <Link obj="Import028" sub="Edge211" shadow=";#1518a;:H4ba,E;:H4bc,E.Edge211"/>
-        <Link obj="Import028" sub="Edge147" shadow=";#15166;:H4ba,E;:H4bc,E.Edge147"/>
+        <Link obj="Import028" sub="Edge229" shadow=";#1518a;:H4ba,E;:H4bc,E.Edge229"/>
+        <Link obj="Import028" sub="Edge151" shadow=";#15166;:H4ba,E;:H4bc,E.Edge151"/>
         <Link obj="Import028" sub="Edge93" shadow=";#15142;:H4ba,E;:H4bc,E.Edge93"/>
         <Link obj="Import028" sub="Edge25" shadow=";#150c3;:H4ba,E;:H4bc,E.Edge25"/>
         <Link obj="Import028" sub="Edge92" shadow=";#16ab3;:H4ba,E;:H4bc,E.Edge92"/>
         <Link obj="Import028" sub="Edge117" shadow=";#15104;:H4ba,E;:H4bc,E.Edge117"/>
-        <Link obj="Import028" sub="Edge210" shadow=";#16abd;:H4ba,E;:H4bc,E.Edge210"/>
+        <Link obj="Import028" sub="Edge228" shadow=";#16abd;:H4ba,E;:H4bc,E.Edge228"/>
         <Link obj="Import028" sub="Edge27" shadow=";#150da;:H4ba,E;:H4bc,E.Edge27"/>
         <Link obj="Import028" sub="Edge33" shadow=";#16b00;:H4ba,E;:H4bc,E.Edge33"/>
         <Link obj="Import028" sub="Edge36" shadow=";#16b01;:H4ba,E;:H4bc,E.Edge36"/>
-        <Link obj="Import028" sub="Edge158" shadow=";#16b02;:H4ba,E;:H4bc,E.Edge158"/>
+        <Link obj="Import028" sub="Edge162" shadow=";#16b02;:H4ba,E;:H4bc,E.Edge162"/>
         <Link obj="Import028" sub="Edge31" shadow=";#1737b;:H4ba,E;:H4bc,E.Edge31"/>
         <Link obj="Import028" sub="Edge29" shadow=";#17379;:H4ba,E;:H4bc,E.Edge29"/>
-        <Link obj="Import028" sub="Edge157" shadow=";#1739c;:H4ba,E;:H4bc,E.Edge157"/>
-        <Link obj="Import028" sub="Edge154" shadow=";#17399;:H4ba,E;:H4bc,E.Edge154"/>
+        <Link obj="Import028" sub="Edge161" shadow=";#1739c;:H4ba,E;:H4bc,E.Edge161"/>
+        <Link obj="Import028" sub="Edge158" shadow=";#17399;:H4ba,E;:H4bc,E.Edge158"/>
         <Link obj="Import028" sub="Edge34" shadow=";#1737d;:H4ba,E;:H4bc,E.Edge34"/>
         <Link obj="Import028" sub="Edge1" shadow=";#16aa0;:H4ba,E;:H4bc,E.Edge1"/>
-        <Link obj="Import028" sub="Edge155" shadow=";#1739a;:H4ba,E;:H4bc,E.Edge155"/>
+        <Link obj="Import028" sub="Edge159" shadow=";#1739a;:H4ba,E;:H4bc,E.Edge159"/>
         <Link obj="Import028" sub="Edge10" shadow=";#17a01;:H4ba,E;:H4bc,E.Edge10"/>
       </LinkSubList>
     </Property>

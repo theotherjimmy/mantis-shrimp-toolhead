@@ -70,7 +70,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="4" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pipe002.;#1487b;:H-489,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="-3.775090878030746" StartY="-2.02105180229829" StartZ="3.552713678800501e-15" EndX="2.222468522453493" EndY="1.189832022056888" EndZ="3.552713678800501e-15"/>
+          <LineSegment StartX="-3.006179319577857" StartY="-2.722382938617791" StartZ="3.552713678800501e-15" EndX="2.422064109904176" EndY="2.193410741035742" EndZ="7.105427357601002e-15"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomEllipse" id="6" ref="Import024.;Edge178;:H2c7,E" migrated="1">
@@ -78,7 +78,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="6" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Import024.;Edge178;:H2c7,E" Flags="0"/>
           </GeoExtensions>
-          <Ellipse CenterX="-11.47338726512037" CenterY="-15.09917387187086" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" MajorRadius="4.25" MinorRadius="3.038034257688224" AngleXU="3.141592653589792" />
+          <Ellipse CenterX="-5.693009528164715" CenterY="-20.01315100470596" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" MajorRadius="4.25" MinorRadius="2.99256309576823" AngleXU="3.141592653589792" />
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="8" ref="DatumLine002." migrated="1">
@@ -86,14 +86,14 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="8" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="DatumLine002." Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="-12.53792576980488" StartY="6972.741245849338" StartZ="1.222133505507372e-12" EndX="-12.53792576977759" EndY="-7013.191656531617" EndZ="-1.506350599811412e-12"/>
+          <LineSegment StartX="-6.892718404391573" StartY="7075.239556827267" StartZ="-1.005417971100542e-12" EndX="-6.892718404361909" EndY="-7126.132660390135" EndZ="-5.506706202140776e-13"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
     </Property>
     <Property name="ExternalGeometry" type="App::PropertyLinkSubList" status="16777216">
       <LinkSubList count="3">
-        <Link obj="Pipe002" sub="Edge63" shadow=";#1487b;:H-489,E.Edge63"/>
+        <Link obj="Pipe002" sub="Edge52" shadow=";#1487b;:H-489,E.Edge52"/>
         <Link obj="Import024" sub="Edge178" shadow=";Edge178;:H2c7,E.Edge178"/>
         <Link obj="DatumLine002" sub="Line"/>
       </LinkSubList>
@@ -107,14 +107,14 @@
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="5" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <ArcOfCircle CenterX="-7.158055703442689" CenterY="-3.8321730119358" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="11.31206142751242" StartAngle="5.369494611468939" EndAngle="6.774723102778143"/>
+          <ArcOfCircle CenterX="-7.196782937321565" CenterY="-6.517375378741913" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="11.49838777308963" StartAngle="6.010013586707163" EndAngle="7.01908334498774"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="7" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="7" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
           </GeoExtensions>
-          <LineSegment StartX="-10.52836362118779" StartY="-20.71946189253741" StartZ="0" EndX="-0.2483345826903331" EndY="-12.78865043183955" EndZ="0"/>
+          <LineSegment StartX="-1.863520768683968" StartY="-30.10222194692646" StartZ="0" EndX="3.875245221424395" EndY="-9.619489791893336" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
@@ -160,7 +160,7 @@ TShapes 0
       <Bool value="false"/>
     </Property>
     <Property name="Placement" type="App::PropertyPlacement" status="8388612">
-      <PropertyPlacement Px="17.39815522992109" Py="4.014438635297809" Pz="-9.072870387115209" Q0="0.8083388947401868" Q1="0.4516680487618724" Q2="0.184187154610609" Q3="0.3296350968181386" A="2.469758566648818" Ox="0.856192869624203" Oy="0.4784069717581615" Oz="0.195091105327378"/>
+      <PropertyPlacement Px="18.60676044162919" Py="1.737911936765318" Pz="-6.388191758293806" Q0="0.7386894239551405" Q1="0.5535378772024468" Q2="0.230645136519847" Q3="0.3077930708102" A="2.515847404482726" Ox="0.7763800979147326" Oy="0.5817814325822098" Oz="0.2424135067699443"/>
     </Property>
     <Property name="Shape" type="Part::PropertyPartShape">
       <Part ElementMap="0.15.70200.4" brep="1">
@@ -169,12 +169,12 @@ TShapes 0
 CASCADE Topology V1, (c) Matra-Datavision
 Locations 1
 1
-0.524142131608181 0.608772601565806 0.595542563933118 17.3981552299211 
-0.851630803736709 -0.374673353346678 -0.366530834199147 4.01443863529781 
--1.81792732050505e-17 0.699296645119047 -0.714831590044288 -9.07287038711521 
+0.2807972790039 0.67580320162229 0.681500492135602 18.6067604416292 
+0.959767100969817 -0.197718488126872 -0.199385333835811 1.73791193676532 
+-3.99237710111466e-17 0.71006861086087 -0.704132493121937 -6.38819175829381 
 Curve2ds 0
 Curves 1
-2 -7.158055703442689 -3.8321730119358 0 0 0 1 1 0 0 0 1 0 11.31206142751242
+2 -7.196782937321565 -6.5173753787419129 0 0 0 1 1 0 0 0 1 0 11.498387773089625
 Polygon3D 0
 PolygonOnTriangulations 0
 Surfaces 0
@@ -183,21 +183,21 @@ Triangulations 0
 TShapes 4
 Ve
 1e-07
--0.248334582690138 -12.7886504318393 0
+3.87524522142338 -9.61948979189563 0
 0 0
 
 0101101
 *
 Ve
 1e-07
-2.81474915656886 1.50691838678968 0
+1.32614681446732 1.20095279686768 0
 0 0
 
 0101101
 *
 Ed
  1e-07 1 1 0
-1  1 0 5.36949461146894 6.77472310277814
+1  1 0 6.01001358670716 7.01908334498774
 0
 
 0101000
@@ -251,8 +251,8 @@ EndMap
     <Property name="TreeRank" type="App::PropertyInteger" status="2184">
       <Integer value="1700"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="648">
-      <Bool value="false"/>
+    <Property name="Visibility" type="App::PropertyBool" status="649">
+      <Bool value="true"/>
     </Property>
   </Properties>
 </Object>
